@@ -53,7 +53,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 80 10 4
+WinInfo: 65500 10 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -62,7 +62,7 @@ Grid
 -512 581.632 m 0
  1536 581.632 l 1024
 EndSplineSet
-BeginChars: 65538 98
+BeginChars: 65539 98
 
 StartChar: A
 Encoding: 65 65 0
@@ -713,7 +713,7 @@ Encoding: 84 84 19
 GlifName: T_
 Width: 676
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2453,7 +2453,7 @@ EndSplineSet
 EndChar
 
 StartChar: .notdef
-Encoding: 65537 0 71
+Encoding: 0 -1 71
 Width: 546
 VWidth: 1000
 Flags: W
@@ -2884,8 +2884,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: .notdef
-Encoding: 64 -1 88
+StartChar: at
+Encoding: 65537 64 88
 Width: 864
 VWidth: 0
 Flags: HW
@@ -3088,7 +3088,7 @@ EndSplineSet
 EndChar
 
 StartChar: .notdef
-Encoding: 0 -1 97
+Encoding: 65538 0 97
 Width: 512
 VWidth: 1000
 Flags: HW
