@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="glyph11" viewBox="0 0 252 1049">
+  <defs/>
+  <g transform="translate(0, 839)">
+    <path fill="#000000" d="M55 -532V-789H207V-532Z"/>
+    <path fill="#00ff00" d="M89 -106L107 -158H259L241 -106Z"/>
+    <path fill="#ffff00" d="M50 -532V-789H202V-532Z"/>
+    <path fill="#ff0000" d="M48 -532V-789Q48 -796 55 -796H207Q214 -796 214 -789V-532Q214 -524 207 -524H55Q48 -524 48 -532ZM62 -782V-540H200V-782Z"/>
+  </g>
+</svg>

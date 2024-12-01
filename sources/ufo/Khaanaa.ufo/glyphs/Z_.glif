@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z" format="2">
+  <advance width="876"/>
+  <unicode hex="005A"/>
+  <outline>
+    <contour>
+      <point x="50" y="10" type="line"/>
+      <point x="826" y="10" type="line"/>
+      <point x="826" y="162" type="line"/>
+      <point x="301" y="162" type="line"/>
+      <point x="826" y="610" type="line"/>
+      <point x="826" y="762" type="line"/>
+      <point x="50" y="762" type="line"/>
+      <point x="50" y="610" type="line"/>
+      <point x="573" y="610" type="line"/>
+      <point x="50" y="162" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Khaanaa/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

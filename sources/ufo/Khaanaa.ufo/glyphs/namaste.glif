@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="namaste" format="2">
+  <advance width="512"/>
+  <image fileName="0cf67930-3a3a-44d0-9f16-6e47b415ec92.png"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Khaanaa/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <advance width="630"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="50" y="768" type="curve"/>
+      <point x="50" y="-14" type="line"/>
+      <point x="202" y="-14" type="line"/>
+      <point x="202" y="-13.978899002075195" type="line"/>
+      <point x="411.1568908691406" y="-11.771300315856934"/>
+      <point x="580" y="163.3792266845703"/>
+      <point x="580" y="380" type="curve" smooth="yes"/>
+      <point x="580" y="597"/>
+      <point x="409" y="773"/>
+      <point x="198" y="773" type="curve" smooth="yes"/>
+      <point x="148.38259446181067" y="773"/>
+      <point x="99.62111562082367" y="760.9112691970251"/>
+    </contour>
+    <contour>
+      <point x="202" y="143.03477478027344" type="curve"/>
+      <point x="202" y="611.9652099609375" type="line"/>
+      <point x="327.1349334716797" y="609.7879638671875"/>
+      <point x="427" y="505.642822265625"/>
+      <point x="427" y="378" type="curve" smooth="yes"/>
+      <point x="427" y="249.36769104003906"/>
+      <point x="327.1349334716797" y="145.2121124267578"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Khaanaa/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
