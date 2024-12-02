@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="glyph47" viewBox="0 0 718 1049">
-  <defs/>
-  <g transform="translate(0, 839)">
-    <path fill="#000000" d="M65 -774H217V-149H682L683 3H66V2H65Z"/>
-    <path fill="#00ff00" d="M151 -155H303L186 -30H651L623 1H6L7 0H6Z"/>
-    <path fill="#ffff00" d="M50 -774H202V-149H667L668 3H51V2H50Z"/>
-    <path fill="#ff0000" d="M56 10Q48 10 48 2V-774Q48 -782 55 -782H207Q214 -782 214 -774V-156H672Q679 -156 679 -149L680 3Q680 10 673 10ZM200 -766H62V-4H665V-142H207Q200 -142 200 -149Z"/>
-  </g>
-</svg>
