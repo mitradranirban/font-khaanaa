@@ -104,324 +104,329 @@
     <GlyphID id="98" name="uniE366"/>
     <GlyphID id="99" name="uniE367"/>
     <GlyphID id="100" name="uniE368"/>
-    <GlyphID id="101" name="u1F64F"/>
-    <GlyphID id="102" name="A.0"/>
-    <GlyphID id="103" name="A.1"/>
-    <GlyphID id="104" name="A.2"/>
-    <GlyphID id="105" name="B.0"/>
-    <GlyphID id="106" name="B.1"/>
-    <GlyphID id="107" name="B.2"/>
-    <GlyphID id="108" name="C.0"/>
-    <GlyphID id="109" name="C.1"/>
-    <GlyphID id="110" name="C.2"/>
-    <GlyphID id="111" name="D.0"/>
-    <GlyphID id="112" name="D.1"/>
-    <GlyphID id="113" name="D.2"/>
-    <GlyphID id="114" name="E.0"/>
-    <GlyphID id="115" name="E.1"/>
-    <GlyphID id="116" name="E.2"/>
-    <GlyphID id="117" name="F.0"/>
-    <GlyphID id="118" name="F.1"/>
-    <GlyphID id="119" name="F.2"/>
-    <GlyphID id="120" name="G.0"/>
-    <GlyphID id="121" name="G.1"/>
-    <GlyphID id="122" name="G.2"/>
-    <GlyphID id="123" name="H.0"/>
-    <GlyphID id="124" name="H.1"/>
-    <GlyphID id="125" name="H.2"/>
-    <GlyphID id="126" name="J.0"/>
-    <GlyphID id="127" name="J.1"/>
-    <GlyphID id="128" name="J.2"/>
-    <GlyphID id="129" name="K.0"/>
-    <GlyphID id="130" name="K.1"/>
-    <GlyphID id="131" name="K.2"/>
-    <GlyphID id="132" name="L.0"/>
-    <GlyphID id="133" name="L.1"/>
-    <GlyphID id="134" name="L.2"/>
-    <GlyphID id="135" name="M.0"/>
-    <GlyphID id="136" name="M.1"/>
-    <GlyphID id="137" name="M.2"/>
-    <GlyphID id="138" name="N.0"/>
-    <GlyphID id="139" name="N.1"/>
-    <GlyphID id="140" name="N.2"/>
-    <GlyphID id="141" name="O.0"/>
-    <GlyphID id="142" name="O.1"/>
-    <GlyphID id="143" name="O.2"/>
-    <GlyphID id="144" name="P.0"/>
-    <GlyphID id="145" name="P.1"/>
-    <GlyphID id="146" name="P.2"/>
-    <GlyphID id="147" name="Q.0"/>
-    <GlyphID id="148" name="Q.1"/>
-    <GlyphID id="149" name="Q.2"/>
-    <GlyphID id="150" name="R.0"/>
-    <GlyphID id="151" name="R.1"/>
-    <GlyphID id="152" name="R.2"/>
-    <GlyphID id="153" name="S.0"/>
-    <GlyphID id="154" name="S.1"/>
-    <GlyphID id="155" name="S.2"/>
-    <GlyphID id="156" name="T.0"/>
-    <GlyphID id="157" name="T.1"/>
-    <GlyphID id="158" name="T.2"/>
-    <GlyphID id="159" name="T.3"/>
-    <GlyphID id="160" name="U.0"/>
-    <GlyphID id="161" name="U.1"/>
-    <GlyphID id="162" name="U.2"/>
-    <GlyphID id="163" name="V.0"/>
-    <GlyphID id="164" name="V.1"/>
-    <GlyphID id="165" name="V.2"/>
-    <GlyphID id="166" name="W.0"/>
-    <GlyphID id="167" name="W.1"/>
-    <GlyphID id="168" name="W.2"/>
-    <GlyphID id="169" name="W.3"/>
-    <GlyphID id="170" name="X.0"/>
-    <GlyphID id="171" name="X.1"/>
-    <GlyphID id="172" name="X.2"/>
-    <GlyphID id="173" name="X.3"/>
-    <GlyphID id="174" name="Y.0"/>
-    <GlyphID id="175" name="Y.1"/>
-    <GlyphID id="176" name="Y.2"/>
-    <GlyphID id="177" name="Z.0"/>
-    <GlyphID id="178" name="Z.1"/>
-    <GlyphID id="179" name="Z.2"/>
-    <GlyphID id="180" name="a.0"/>
-    <GlyphID id="181" name="a.1"/>
-    <GlyphID id="182" name="a.2"/>
-    <GlyphID id="183" name="ampersand.0"/>
-    <GlyphID id="184" name="ampersand.1"/>
-    <GlyphID id="185" name="ampersand.2"/>
-    <GlyphID id="186" name="asciicircum.0"/>
-    <GlyphID id="187" name="asciicircum.1"/>
-    <GlyphID id="188" name="asciicircum.2"/>
-    <GlyphID id="189" name="asciitilde.0"/>
-    <GlyphID id="190" name="asciitilde.1"/>
-    <GlyphID id="191" name="asciitilde.2"/>
-    <GlyphID id="192" name="asterisk.0"/>
-    <GlyphID id="193" name="asterisk.1"/>
-    <GlyphID id="194" name="asterisk.2"/>
-    <GlyphID id="195" name="at.0"/>
-    <GlyphID id="196" name="at.1"/>
-    <GlyphID id="197" name="at.2"/>
-    <GlyphID id="198" name="at.3"/>
-    <GlyphID id="199" name="b.0"/>
-    <GlyphID id="200" name="b.1"/>
-    <GlyphID id="201" name="b.2"/>
-    <GlyphID id="202" name="backslash.0"/>
-    <GlyphID id="203" name="backslash.1"/>
-    <GlyphID id="204" name="backslash.2"/>
-    <GlyphID id="205" name="bar.0"/>
-    <GlyphID id="206" name="bar.1"/>
-    <GlyphID id="207" name="bar.2"/>
-    <GlyphID id="208" name="braceleft.0"/>
-    <GlyphID id="209" name="braceleft.1"/>
-    <GlyphID id="210" name="braceleft.2"/>
-    <GlyphID id="211" name="braceright.0"/>
-    <GlyphID id="212" name="braceright.1"/>
-    <GlyphID id="213" name="braceright.2"/>
-    <GlyphID id="214" name="bracketleft.0"/>
-    <GlyphID id="215" name="bracketleft.1"/>
-    <GlyphID id="216" name="bracketleft.2"/>
-    <GlyphID id="217" name="bracketright.0"/>
-    <GlyphID id="218" name="bracketright.1"/>
-    <GlyphID id="219" name="bracketright.2"/>
-    <GlyphID id="220" name="c.0"/>
-    <GlyphID id="221" name="c.1"/>
-    <GlyphID id="222" name="c.2"/>
-    <GlyphID id="223" name="colon.0"/>
-    <GlyphID id="224" name="colon.1"/>
-    <GlyphID id="225" name="colon.2"/>
-    <GlyphID id="226" name="comma.0"/>
-    <GlyphID id="227" name="comma.1"/>
-    <GlyphID id="228" name="comma.2"/>
-    <GlyphID id="229" name="d.0"/>
-    <GlyphID id="230" name="d.1"/>
-    <GlyphID id="231" name="d.2"/>
-    <GlyphID id="232" name="dollar.0"/>
-    <GlyphID id="233" name="dollar.1"/>
-    <GlyphID id="234" name="dollar.2"/>
-    <GlyphID id="235" name="dollar.3"/>
-    <GlyphID id="236" name="e.0"/>
-    <GlyphID id="237" name="e.1"/>
-    <GlyphID id="238" name="e.2"/>
-    <GlyphID id="239" name="e.3"/>
-    <GlyphID id="240" name="eight.0"/>
-    <GlyphID id="241" name="eight.1"/>
-    <GlyphID id="242" name="eight.2"/>
-    <GlyphID id="243" name="eight.3"/>
-    <GlyphID id="244" name="equal.0"/>
-    <GlyphID id="245" name="equal.1"/>
-    <GlyphID id="246" name="equal.2"/>
-    <GlyphID id="247" name="exclam.0"/>
-    <GlyphID id="248" name="exclam.1"/>
-    <GlyphID id="249" name="exclam.2"/>
-    <GlyphID id="250" name="f.0"/>
-    <GlyphID id="251" name="f.1"/>
-    <GlyphID id="252" name="f.2"/>
-    <GlyphID id="253" name="five.0"/>
-    <GlyphID id="254" name="five.1"/>
-    <GlyphID id="255" name="five.2"/>
-    <GlyphID id="256" name="four.0"/>
-    <GlyphID id="257" name="four.1"/>
-    <GlyphID id="258" name="four.2"/>
-    <GlyphID id="259" name="g.0"/>
-    <GlyphID id="260" name="g.1"/>
-    <GlyphID id="261" name="g.2"/>
-    <GlyphID id="262" name="g.3"/>
-    <GlyphID id="263" name="grave.0"/>
-    <GlyphID id="264" name="grave.1"/>
-    <GlyphID id="265" name="grave.2"/>
-    <GlyphID id="266" name="greater.0"/>
-    <GlyphID id="267" name="greater.1"/>
-    <GlyphID id="268" name="greater.2"/>
-    <GlyphID id="269" name="h.0"/>
-    <GlyphID id="270" name="h.1"/>
-    <GlyphID id="271" name="h.2"/>
-    <GlyphID id="272" name="hyphen.0"/>
-    <GlyphID id="273" name="hyphen.1"/>
-    <GlyphID id="274" name="i.0"/>
-    <GlyphID id="275" name="i.1"/>
-    <GlyphID id="276" name="i.2"/>
-    <GlyphID id="277" name="j.0"/>
-    <GlyphID id="278" name="j.1"/>
-    <GlyphID id="279" name="j.2"/>
-    <GlyphID id="280" name="k.0"/>
-    <GlyphID id="281" name="k.1"/>
-    <GlyphID id="282" name="k.2"/>
-    <GlyphID id="283" name="l.0"/>
-    <GlyphID id="284" name="l.1"/>
-    <GlyphID id="285" name="l.2"/>
-    <GlyphID id="286" name="less.0"/>
-    <GlyphID id="287" name="less.1"/>
-    <GlyphID id="288" name="less.2"/>
-    <GlyphID id="289" name="m.0"/>
-    <GlyphID id="290" name="m.1"/>
-    <GlyphID id="291" name="m.2"/>
-    <GlyphID id="292" name="n.0"/>
-    <GlyphID id="293" name="n.1"/>
-    <GlyphID id="294" name="n.2"/>
-    <GlyphID id="295" name="nine.0"/>
-    <GlyphID id="296" name="nine.1"/>
-    <GlyphID id="297" name="numbersign.0"/>
-    <GlyphID id="298" name="numbersign.1"/>
-    <GlyphID id="299" name="numbersign.2"/>
-    <GlyphID id="300" name="o.0"/>
-    <GlyphID id="301" name="o.1"/>
-    <GlyphID id="302" name="o.2"/>
-    <GlyphID id="303" name="o.3"/>
-    <GlyphID id="304" name="one.0"/>
-    <GlyphID id="305" name="one.1"/>
-    <GlyphID id="306" name="p.0"/>
-    <GlyphID id="307" name="p.1"/>
-    <GlyphID id="308" name="p.2"/>
-    <GlyphID id="309" name="parenleft.0"/>
-    <GlyphID id="310" name="parenleft.1"/>
-    <GlyphID id="311" name="parenleft.2"/>
-    <GlyphID id="312" name="parenright.0"/>
-    <GlyphID id="313" name="parenright.1"/>
-    <GlyphID id="314" name="parenright.2"/>
-    <GlyphID id="315" name="percent.0"/>
-    <GlyphID id="316" name="percent.1"/>
-    <GlyphID id="317" name="percent.2"/>
-    <GlyphID id="318" name="period.0"/>
-    <GlyphID id="319" name="period.1"/>
-    <GlyphID id="320" name="plus.0"/>
-    <GlyphID id="321" name="plus.1"/>
-    <GlyphID id="322" name="plus.2"/>
-    <GlyphID id="323" name="plus.3"/>
-    <GlyphID id="324" name="q.0"/>
-    <GlyphID id="325" name="q.1"/>
-    <GlyphID id="326" name="q.2"/>
-    <GlyphID id="327" name="question.0"/>
-    <GlyphID id="328" name="question.1"/>
-    <GlyphID id="329" name="question.2"/>
-    <GlyphID id="330" name="quotedbl.0"/>
-    <GlyphID id="331" name="quotedbl.1"/>
-    <GlyphID id="332" name="quotedbl.2"/>
-    <GlyphID id="333" name="quotesingle.0"/>
-    <GlyphID id="334" name="quotesingle.1"/>
-    <GlyphID id="335" name="quotesingle.2"/>
-    <GlyphID id="336" name="r.0"/>
-    <GlyphID id="337" name="r.1"/>
-    <GlyphID id="338" name="r.2"/>
-    <GlyphID id="339" name="s.0"/>
-    <GlyphID id="340" name="s.1"/>
-    <GlyphID id="341" name="s.2"/>
-    <GlyphID id="342" name="s.3"/>
-    <GlyphID id="343" name="semicolon.0"/>
-    <GlyphID id="344" name="semicolon.1"/>
-    <GlyphID id="345" name="semicolon.2"/>
-    <GlyphID id="346" name="seven.0"/>
-    <GlyphID id="347" name="seven.1"/>
-    <GlyphID id="348" name="seven.2"/>
-    <GlyphID id="349" name="six.0"/>
-    <GlyphID id="350" name="six.1"/>
-    <GlyphID id="351" name="six.2"/>
-    <GlyphID id="352" name="six.3"/>
-    <GlyphID id="353" name="slash.0"/>
-    <GlyphID id="354" name="slash.1"/>
-    <GlyphID id="355" name="slash.2"/>
-    <GlyphID id="356" name="t.0"/>
-    <GlyphID id="357" name="t.1"/>
-    <GlyphID id="358" name="t.2"/>
-    <GlyphID id="359" name="three.0"/>
-    <GlyphID id="360" name="three.1"/>
-    <GlyphID id="361" name="three.2"/>
-    <GlyphID id="362" name="three.3"/>
-    <GlyphID id="363" name="two.0"/>
-    <GlyphID id="364" name="two.1"/>
-    <GlyphID id="365" name="two.2"/>
-    <GlyphID id="366" name="two.3"/>
-    <GlyphID id="367" name="u.0"/>
-    <GlyphID id="368" name="u1F64F.0"/>
-    <GlyphID id="369" name="u1F64F.1"/>
-    <GlyphID id="370" name="u1F64F.2"/>
-    <GlyphID id="371" name="u1F64F.3"/>
-    <GlyphID id="372" name="underscore.0"/>
-    <GlyphID id="373" name="uniE366.0"/>
-    <GlyphID id="374" name="uniE366.1"/>
-    <GlyphID id="375" name="uniE366.2"/>
-    <GlyphID id="376" name="uniE367.0"/>
-    <GlyphID id="377" name="uniE367.1"/>
-    <GlyphID id="378" name="uniE367.2"/>
-    <GlyphID id="379" name="uniE367.3"/>
-    <GlyphID id="380" name="uniE368.0"/>
-    <GlyphID id="381" name="uniE368.1"/>
-    <GlyphID id="382" name="uniE368.2"/>
-    <GlyphID id="383" name="uniE368.3"/>
-    <GlyphID id="384" name="v.0"/>
-    <GlyphID id="385" name="v.1"/>
-    <GlyphID id="386" name="v.2"/>
-    <GlyphID id="387" name="w.0"/>
-    <GlyphID id="388" name="w.1"/>
-    <GlyphID id="389" name="w.2"/>
-    <GlyphID id="390" name="x.0"/>
-    <GlyphID id="391" name="x.1"/>
-    <GlyphID id="392" name="x.2"/>
-    <GlyphID id="393" name="x.3"/>
-    <GlyphID id="394" name="y.0"/>
-    <GlyphID id="395" name="y.1"/>
-    <GlyphID id="396" name="y.2"/>
-    <GlyphID id="397" name="z.0"/>
-    <GlyphID id="398" name="z.1"/>
-    <GlyphID id="399" name="z.2"/>
-    <GlyphID id="400" name="zero.0"/>
-    <GlyphID id="401" name="zero.1"/>
-    <GlyphID id="402" name="zero.2"/>
-    <GlyphID id="403" name="zero.3"/>
+    <GlyphID id="101" name="uniE369"/>
+    <GlyphID id="102" name="u1F64F"/>
+    <GlyphID id="103" name="A.0"/>
+    <GlyphID id="104" name="A.1"/>
+    <GlyphID id="105" name="A.2"/>
+    <GlyphID id="106" name="B.0"/>
+    <GlyphID id="107" name="B.1"/>
+    <GlyphID id="108" name="B.2"/>
+    <GlyphID id="109" name="C.0"/>
+    <GlyphID id="110" name="C.1"/>
+    <GlyphID id="111" name="C.2"/>
+    <GlyphID id="112" name="D.0"/>
+    <GlyphID id="113" name="D.1"/>
+    <GlyphID id="114" name="D.2"/>
+    <GlyphID id="115" name="E.0"/>
+    <GlyphID id="116" name="E.1"/>
+    <GlyphID id="117" name="E.2"/>
+    <GlyphID id="118" name="F.0"/>
+    <GlyphID id="119" name="F.1"/>
+    <GlyphID id="120" name="F.2"/>
+    <GlyphID id="121" name="G.0"/>
+    <GlyphID id="122" name="G.1"/>
+    <GlyphID id="123" name="G.2"/>
+    <GlyphID id="124" name="H.0"/>
+    <GlyphID id="125" name="H.1"/>
+    <GlyphID id="126" name="H.2"/>
+    <GlyphID id="127" name="J.0"/>
+    <GlyphID id="128" name="J.1"/>
+    <GlyphID id="129" name="J.2"/>
+    <GlyphID id="130" name="K.0"/>
+    <GlyphID id="131" name="K.1"/>
+    <GlyphID id="132" name="K.2"/>
+    <GlyphID id="133" name="L.0"/>
+    <GlyphID id="134" name="L.1"/>
+    <GlyphID id="135" name="L.2"/>
+    <GlyphID id="136" name="M.0"/>
+    <GlyphID id="137" name="M.1"/>
+    <GlyphID id="138" name="M.2"/>
+    <GlyphID id="139" name="N.0"/>
+    <GlyphID id="140" name="N.1"/>
+    <GlyphID id="141" name="N.2"/>
+    <GlyphID id="142" name="O.0"/>
+    <GlyphID id="143" name="O.1"/>
+    <GlyphID id="144" name="O.2"/>
+    <GlyphID id="145" name="P.0"/>
+    <GlyphID id="146" name="P.1"/>
+    <GlyphID id="147" name="P.2"/>
+    <GlyphID id="148" name="Q.0"/>
+    <GlyphID id="149" name="Q.1"/>
+    <GlyphID id="150" name="Q.2"/>
+    <GlyphID id="151" name="R.0"/>
+    <GlyphID id="152" name="R.1"/>
+    <GlyphID id="153" name="R.2"/>
+    <GlyphID id="154" name="S.0"/>
+    <GlyphID id="155" name="S.1"/>
+    <GlyphID id="156" name="S.2"/>
+    <GlyphID id="157" name="T.0"/>
+    <GlyphID id="158" name="T.1"/>
+    <GlyphID id="159" name="T.2"/>
+    <GlyphID id="160" name="T.3"/>
+    <GlyphID id="161" name="U.0"/>
+    <GlyphID id="162" name="U.1"/>
+    <GlyphID id="163" name="U.2"/>
+    <GlyphID id="164" name="V.0"/>
+    <GlyphID id="165" name="V.1"/>
+    <GlyphID id="166" name="V.2"/>
+    <GlyphID id="167" name="W.0"/>
+    <GlyphID id="168" name="W.1"/>
+    <GlyphID id="169" name="W.2"/>
+    <GlyphID id="170" name="W.3"/>
+    <GlyphID id="171" name="X.0"/>
+    <GlyphID id="172" name="X.1"/>
+    <GlyphID id="173" name="X.2"/>
+    <GlyphID id="174" name="X.3"/>
+    <GlyphID id="175" name="Y.0"/>
+    <GlyphID id="176" name="Y.1"/>
+    <GlyphID id="177" name="Y.2"/>
+    <GlyphID id="178" name="Z.0"/>
+    <GlyphID id="179" name="Z.1"/>
+    <GlyphID id="180" name="Z.2"/>
+    <GlyphID id="181" name="a.0"/>
+    <GlyphID id="182" name="a.1"/>
+    <GlyphID id="183" name="a.2"/>
+    <GlyphID id="184" name="ampersand.0"/>
+    <GlyphID id="185" name="ampersand.1"/>
+    <GlyphID id="186" name="ampersand.2"/>
+    <GlyphID id="187" name="asciicircum.0"/>
+    <GlyphID id="188" name="asciicircum.1"/>
+    <GlyphID id="189" name="asciicircum.2"/>
+    <GlyphID id="190" name="asciitilde.0"/>
+    <GlyphID id="191" name="asciitilde.1"/>
+    <GlyphID id="192" name="asciitilde.2"/>
+    <GlyphID id="193" name="asterisk.0"/>
+    <GlyphID id="194" name="asterisk.1"/>
+    <GlyphID id="195" name="asterisk.2"/>
+    <GlyphID id="196" name="at.0"/>
+    <GlyphID id="197" name="at.1"/>
+    <GlyphID id="198" name="at.2"/>
+    <GlyphID id="199" name="at.3"/>
+    <GlyphID id="200" name="b.0"/>
+    <GlyphID id="201" name="b.1"/>
+    <GlyphID id="202" name="b.2"/>
+    <GlyphID id="203" name="backslash.0"/>
+    <GlyphID id="204" name="backslash.1"/>
+    <GlyphID id="205" name="backslash.2"/>
+    <GlyphID id="206" name="bar.0"/>
+    <GlyphID id="207" name="bar.1"/>
+    <GlyphID id="208" name="bar.2"/>
+    <GlyphID id="209" name="braceleft.0"/>
+    <GlyphID id="210" name="braceleft.1"/>
+    <GlyphID id="211" name="braceleft.2"/>
+    <GlyphID id="212" name="braceright.0"/>
+    <GlyphID id="213" name="braceright.1"/>
+    <GlyphID id="214" name="braceright.2"/>
+    <GlyphID id="215" name="bracketleft.0"/>
+    <GlyphID id="216" name="bracketleft.1"/>
+    <GlyphID id="217" name="bracketleft.2"/>
+    <GlyphID id="218" name="bracketright.0"/>
+    <GlyphID id="219" name="bracketright.1"/>
+    <GlyphID id="220" name="bracketright.2"/>
+    <GlyphID id="221" name="c.0"/>
+    <GlyphID id="222" name="c.1"/>
+    <GlyphID id="223" name="c.2"/>
+    <GlyphID id="224" name="colon.0"/>
+    <GlyphID id="225" name="colon.1"/>
+    <GlyphID id="226" name="colon.2"/>
+    <GlyphID id="227" name="comma.0"/>
+    <GlyphID id="228" name="comma.1"/>
+    <GlyphID id="229" name="comma.2"/>
+    <GlyphID id="230" name="d.0"/>
+    <GlyphID id="231" name="d.1"/>
+    <GlyphID id="232" name="d.2"/>
+    <GlyphID id="233" name="dollar.0"/>
+    <GlyphID id="234" name="dollar.1"/>
+    <GlyphID id="235" name="dollar.2"/>
+    <GlyphID id="236" name="dollar.3"/>
+    <GlyphID id="237" name="e.0"/>
+    <GlyphID id="238" name="e.1"/>
+    <GlyphID id="239" name="e.2"/>
+    <GlyphID id="240" name="e.3"/>
+    <GlyphID id="241" name="eight.0"/>
+    <GlyphID id="242" name="eight.1"/>
+    <GlyphID id="243" name="eight.2"/>
+    <GlyphID id="244" name="eight.3"/>
+    <GlyphID id="245" name="equal.0"/>
+    <GlyphID id="246" name="equal.1"/>
+    <GlyphID id="247" name="equal.2"/>
+    <GlyphID id="248" name="exclam.0"/>
+    <GlyphID id="249" name="exclam.1"/>
+    <GlyphID id="250" name="exclam.2"/>
+    <GlyphID id="251" name="f.0"/>
+    <GlyphID id="252" name="f.1"/>
+    <GlyphID id="253" name="f.2"/>
+    <GlyphID id="254" name="five.0"/>
+    <GlyphID id="255" name="five.1"/>
+    <GlyphID id="256" name="five.2"/>
+    <GlyphID id="257" name="four.0"/>
+    <GlyphID id="258" name="four.1"/>
+    <GlyphID id="259" name="four.2"/>
+    <GlyphID id="260" name="g.0"/>
+    <GlyphID id="261" name="g.1"/>
+    <GlyphID id="262" name="g.2"/>
+    <GlyphID id="263" name="g.3"/>
+    <GlyphID id="264" name="grave.0"/>
+    <GlyphID id="265" name="grave.1"/>
+    <GlyphID id="266" name="grave.2"/>
+    <GlyphID id="267" name="greater.0"/>
+    <GlyphID id="268" name="greater.1"/>
+    <GlyphID id="269" name="greater.2"/>
+    <GlyphID id="270" name="h.0"/>
+    <GlyphID id="271" name="h.1"/>
+    <GlyphID id="272" name="h.2"/>
+    <GlyphID id="273" name="hyphen.0"/>
+    <GlyphID id="274" name="hyphen.1"/>
+    <GlyphID id="275" name="i.0"/>
+    <GlyphID id="276" name="i.1"/>
+    <GlyphID id="277" name="i.2"/>
+    <GlyphID id="278" name="j.0"/>
+    <GlyphID id="279" name="j.1"/>
+    <GlyphID id="280" name="j.2"/>
+    <GlyphID id="281" name="k.0"/>
+    <GlyphID id="282" name="k.1"/>
+    <GlyphID id="283" name="k.2"/>
+    <GlyphID id="284" name="l.0"/>
+    <GlyphID id="285" name="l.1"/>
+    <GlyphID id="286" name="l.2"/>
+    <GlyphID id="287" name="less.0"/>
+    <GlyphID id="288" name="less.1"/>
+    <GlyphID id="289" name="less.2"/>
+    <GlyphID id="290" name="m.0"/>
+    <GlyphID id="291" name="m.1"/>
+    <GlyphID id="292" name="m.2"/>
+    <GlyphID id="293" name="n.0"/>
+    <GlyphID id="294" name="n.1"/>
+    <GlyphID id="295" name="n.2"/>
+    <GlyphID id="296" name="nine.0"/>
+    <GlyphID id="297" name="nine.1"/>
+    <GlyphID id="298" name="numbersign.0"/>
+    <GlyphID id="299" name="numbersign.1"/>
+    <GlyphID id="300" name="numbersign.2"/>
+    <GlyphID id="301" name="o.0"/>
+    <GlyphID id="302" name="o.1"/>
+    <GlyphID id="303" name="o.2"/>
+    <GlyphID id="304" name="o.3"/>
+    <GlyphID id="305" name="one.0"/>
+    <GlyphID id="306" name="one.1"/>
+    <GlyphID id="307" name="p.0"/>
+    <GlyphID id="308" name="p.1"/>
+    <GlyphID id="309" name="p.2"/>
+    <GlyphID id="310" name="parenleft.0"/>
+    <GlyphID id="311" name="parenleft.1"/>
+    <GlyphID id="312" name="parenleft.2"/>
+    <GlyphID id="313" name="parenright.0"/>
+    <GlyphID id="314" name="parenright.1"/>
+    <GlyphID id="315" name="parenright.2"/>
+    <GlyphID id="316" name="percent.0"/>
+    <GlyphID id="317" name="percent.1"/>
+    <GlyphID id="318" name="percent.2"/>
+    <GlyphID id="319" name="period.0"/>
+    <GlyphID id="320" name="period.1"/>
+    <GlyphID id="321" name="plus.0"/>
+    <GlyphID id="322" name="plus.1"/>
+    <GlyphID id="323" name="plus.2"/>
+    <GlyphID id="324" name="plus.3"/>
+    <GlyphID id="325" name="q.0"/>
+    <GlyphID id="326" name="q.1"/>
+    <GlyphID id="327" name="q.2"/>
+    <GlyphID id="328" name="question.0"/>
+    <GlyphID id="329" name="question.1"/>
+    <GlyphID id="330" name="question.2"/>
+    <GlyphID id="331" name="quotedbl.0"/>
+    <GlyphID id="332" name="quotedbl.1"/>
+    <GlyphID id="333" name="quotedbl.2"/>
+    <GlyphID id="334" name="quotesingle.0"/>
+    <GlyphID id="335" name="quotesingle.1"/>
+    <GlyphID id="336" name="quotesingle.2"/>
+    <GlyphID id="337" name="r.0"/>
+    <GlyphID id="338" name="r.1"/>
+    <GlyphID id="339" name="r.2"/>
+    <GlyphID id="340" name="s.0"/>
+    <GlyphID id="341" name="s.1"/>
+    <GlyphID id="342" name="s.2"/>
+    <GlyphID id="343" name="s.3"/>
+    <GlyphID id="344" name="semicolon.0"/>
+    <GlyphID id="345" name="semicolon.1"/>
+    <GlyphID id="346" name="semicolon.2"/>
+    <GlyphID id="347" name="seven.0"/>
+    <GlyphID id="348" name="seven.1"/>
+    <GlyphID id="349" name="seven.2"/>
+    <GlyphID id="350" name="six.0"/>
+    <GlyphID id="351" name="six.1"/>
+    <GlyphID id="352" name="six.2"/>
+    <GlyphID id="353" name="six.3"/>
+    <GlyphID id="354" name="slash.0"/>
+    <GlyphID id="355" name="slash.1"/>
+    <GlyphID id="356" name="slash.2"/>
+    <GlyphID id="357" name="t.0"/>
+    <GlyphID id="358" name="t.1"/>
+    <GlyphID id="359" name="t.2"/>
+    <GlyphID id="360" name="three.0"/>
+    <GlyphID id="361" name="three.1"/>
+    <GlyphID id="362" name="three.2"/>
+    <GlyphID id="363" name="three.3"/>
+    <GlyphID id="364" name="two.0"/>
+    <GlyphID id="365" name="two.1"/>
+    <GlyphID id="366" name="two.2"/>
+    <GlyphID id="367" name="two.3"/>
+    <GlyphID id="368" name="u.0"/>
+    <GlyphID id="369" name="u1F64F.0"/>
+    <GlyphID id="370" name="u1F64F.1"/>
+    <GlyphID id="371" name="u1F64F.2"/>
+    <GlyphID id="372" name="u1F64F.3"/>
+    <GlyphID id="373" name="underscore.0"/>
+    <GlyphID id="374" name="uniE366.0"/>
+    <GlyphID id="375" name="uniE366.1"/>
+    <GlyphID id="376" name="uniE366.2"/>
+    <GlyphID id="377" name="uniE367.0"/>
+    <GlyphID id="378" name="uniE367.1"/>
+    <GlyphID id="379" name="uniE367.2"/>
+    <GlyphID id="380" name="uniE367.3"/>
+    <GlyphID id="381" name="uniE368.0"/>
+    <GlyphID id="382" name="uniE368.1"/>
+    <GlyphID id="383" name="uniE368.2"/>
+    <GlyphID id="384" name="uniE368.3"/>
+    <GlyphID id="385" name="uniE369.0"/>
+    <GlyphID id="386" name="uniE369.1"/>
+    <GlyphID id="387" name="uniE369.2"/>
+    <GlyphID id="388" name="uniE369.3"/>
+    <GlyphID id="389" name="v.0"/>
+    <GlyphID id="390" name="v.1"/>
+    <GlyphID id="391" name="v.2"/>
+    <GlyphID id="392" name="w.0"/>
+    <GlyphID id="393" name="w.1"/>
+    <GlyphID id="394" name="w.2"/>
+    <GlyphID id="395" name="x.0"/>
+    <GlyphID id="396" name="x.1"/>
+    <GlyphID id="397" name="x.2"/>
+    <GlyphID id="398" name="x.3"/>
+    <GlyphID id="399" name="y.0"/>
+    <GlyphID id="400" name="y.1"/>
+    <GlyphID id="401" name="y.2"/>
+    <GlyphID id="402" name="z.0"/>
+    <GlyphID id="403" name="z.1"/>
+    <GlyphID id="404" name="z.2"/>
+    <GlyphID id="405" name="zero.0"/>
+    <GlyphID id="406" name="zero.1"/>
+    <GlyphID id="407" name="zero.2"/>
+    <GlyphID id="408" name="zero.3"/>
   </GlyphOrder>
 
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="0.00099"/>
-    <checkSumAdjustment value="0xede972c8"/>
+    <checkSumAdjustment value="0x79fb1fec"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00001001"/>
     <unitsPerEm value="1024"/>
     <created value="Fri Nov 29 10:11:58 2024"/>
-    <modified value="Mon Dec  2 16:46:17 2024"/>
+    <modified value="Tue Dec  3 10:09:07 2024"/>
     <xMin value="-22"/>
     <yMin value="-325"/>
-    <xMax value="1103"/>
+    <xMax value="1410"/>
     <yMax value="1038"/>
     <macStyle value="00000000 00000000"/>
     <lowestRecPPEM value="8"/>
@@ -435,10 +440,10 @@
     <ascent value="839"/>
     <descent value="-210"/>
     <lineGap value="0"/>
-    <advanceWidthMax value="1052"/>
+    <advanceWidthMax value="1458"/>
     <minLeftSideBearing value="-22"/>
     <minRightSideBearing value="-141"/>
-    <xMaxExtent value="1103"/>
+    <xMaxExtent value="1410"/>
     <caretSlopeRise value="1"/>
     <caretSlopeRun value="0"/>
     <caretOffset value="0"/>
@@ -447,15 +452,15 @@
     <reserved2 value="0"/>
     <reserved3 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfHMetrics value="401"/>
+    <numberOfHMetrics value="406"/>
   </hhea>
 
   <maxp>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="0x10000"/>
-    <numGlyphs value="404"/>
+    <numGlyphs value="409"/>
     <maxPoints value="515"/>
-    <maxContours value="11"/>
+    <maxContours value="24"/>
     <maxCompositePoints value="0"/>
     <maxCompositeContours value="0"/>
     <maxZones value="2"/>
@@ -892,10 +897,15 @@
     <mtx name="uniE367.2" width="1024" lsb="38"/>
     <mtx name="uniE367.3" width="1024" lsb="35"/>
     <mtx name="uniE368" width="1024" lsb="220"/>
-    <mtx name="uniE368.0" width="1024" lsb="259"/>
+    <mtx name="uniE368.0" width="1024" lsb="332"/>
     <mtx name="uniE368.1" width="1024" lsb="220"/>
     <mtx name="uniE368.2" width="1024" lsb="245"/>
     <mtx name="uniE368.3" width="1024" lsb="242"/>
+    <mtx name="uniE369" width="1458" lsb="50"/>
+    <mtx name="uniE369.0" width="1458" lsb="47"/>
+    <mtx name="uniE369.1" width="1458" lsb="828"/>
+    <mtx name="uniE369.2" width="1458" lsb="130"/>
+    <mtx name="uniE369.3" width="1458" lsb="50"/>
     <mtx name="v" width="652" lsb="50"/>
     <mtx name="v.0" width="652" lsb="85"/>
     <mtx name="v.1" width="652" lsb="116"/>
@@ -1025,6 +1035,7 @@
       <map code="0xe366" name="uniE366"/><!-- ???? -->
       <map code="0xe367" name="uniE367"/><!-- ???? -->
       <map code="0xe368" name="uniE368"/><!-- ???? -->
+      <map code="0xe369" name="uniE369"/><!-- ???? -->
     </cmap_format_4>
     <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="52" language="0" nGroups="3">
       <map code="0x20" name="space"/><!-- SPACE -->
@@ -1125,6 +1136,7 @@
       <map code="0xe366" name="uniE366"/><!-- ???? -->
       <map code="0xe367" name="uniE367"/><!-- ???? -->
       <map code="0xe368" name="uniE368"/><!-- ???? -->
+      <map code="0xe369" name="uniE369"/><!-- ???? -->
       <map code="0x1f64f" name="u1F64F"/><!-- PERSON WITH FOLDED HANDS -->
     </cmap_format_12>
     <cmap_format_0 platformID="1" platEncID="0" language="0">
@@ -1328,6 +1340,7 @@
       <map code="0xe366" name="uniE366"/><!-- ???? -->
       <map code="0xe367" name="uniE367"/><!-- ???? -->
       <map code="0xe368" name="uniE368"/><!-- ???? -->
+      <map code="0xe369" name="uniE369"/><!-- ???? -->
     </cmap_format_4>
     <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="52" language="0" nGroups="3">
       <map code="0x20" name="space"/><!-- SPACE -->
@@ -1428,6 +1441,7 @@
       <map code="0xe366" name="uniE366"/><!-- ???? -->
       <map code="0xe367" name="uniE367"/><!-- ???? -->
       <map code="0xe368" name="uniE368"/><!-- ???? -->
+      <map code="0xe369" name="uniE369"/><!-- ???? -->
       <map code="0x1f64f" name="u1F64F"/><!-- PERSON WITH FOLDED HANDS -->
     </cmap_format_12>
   </cmap>
@@ -19056,7 +19070,7 @@
       <instructions/>
     </TTGlyph>
 
-    <TTGlyph name="uniE368.0" xMin="259" yMin="30" xMax="829" yMax="249">
+    <TTGlyph name="uniE368.0" xMin="332" yMin="30" xMax="724" yMax="62">
       <contour>
         <pt x="528" y="62" on="1"/>
         <pt x="448" y="61" on="0"/>
@@ -19074,24 +19088,6 @@
         <pt x="724" y="53" on="0"/>
         <pt x="666" y="57" on="1"/>
         <pt x="608" y="61" on="0"/>
-      </contour>
-      <contour>
-        <pt x="829" y="247" on="1"/>
-        <pt x="829" y="226" on="0"/>
-        <pt x="746" y="212" on="1"/>
-        <pt x="663" y="197" on="0"/>
-        <pt x="544" y="197" on="1"/>
-        <pt x="426" y="197" on="0"/>
-        <pt x="343" y="212" on="1"/>
-        <pt x="259" y="227" on="0"/>
-        <pt x="259" y="249" on="1"/>
-        <pt x="259" y="175" on="0"/>
-        <pt x="349" y="121" on="1"/>
-        <pt x="438" y="66" on="0"/>
-        <pt x="553" y="66" on="1"/>
-        <pt x="667" y="66" on="0"/>
-        <pt x="748" y="119" on="1"/>
-        <pt x="829" y="172" on="0"/>
       </contour>
       <instructions/>
     </TTGlyph>
@@ -19565,6 +19561,759 @@
         <pt x="332" y="480" on="0"/>
         <pt x="332" y="519" on="1"/>
         <pt x="332" y="558" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE369" xMin="50" yMin="-14" xMax="1408" yMax="836">
+      <contour>
+        <pt x="67" y="713" on="1"/>
+        <pt x="1395" y="713" on="1"/>
+        <pt x="1400" y="713" on="0"/>
+        <pt x="1408" y="738" on="1"/>
+        <pt x="1408" y="422" on="1"/>
+        <pt x="1408" y="416" on="0"/>
+        <pt x="1399" y="407" on="0"/>
+        <pt x="1393" y="407" on="1"/>
+        <pt x="65" y="407" on="1"/>
+        <pt x="59" y="407" on="0"/>
+        <pt x="50" y="416" on="0"/>
+        <pt x="50" y="422" on="1"/>
+        <pt x="50" y="738" on="1"/>
+        <pt x="50" y="741" on="0"/>
+        <pt x="52" y="737" on="1"/>
+        <pt x="63" y="713" on="0"/>
+      </contour>
+      <contour>
+        <pt x="442" y="718" on="1"/>
+        <pt x="565" y="836" on="0"/>
+        <pt x="731" y="836" on="1"/>
+        <pt x="816" y="836" on="0"/>
+        <pt x="969" y="772" on="0"/>
+        <pt x="1027" y="714" on="1"/>
+        <pt x="921" y="712" on="0"/>
+        <pt x="661" y="714" on="0"/>
+        <pt x="552" y="716" on="1"/>
+      </contour>
+      <contour>
+        <pt x="1157" y="406" on="1"/>
+        <pt x="1157" y="232" on="0"/>
+        <pt x="911" y="-14" on="0"/>
+        <pt x="563" y="-14" on="0"/>
+        <pt x="317" y="232" on="0"/>
+        <pt x="317" y="406" on="1"/>
+      </contour>
+      <contour>
+        <pt x="506" y="260" on="0"/>
+        <pt x="506" y="142" on="0"/>
+        <pt x="591" y="57" on="0"/>
+        <pt x="709" y="57" on="0"/>
+        <pt x="794" y="142" on="0"/>
+        <pt x="794" y="260" on="0"/>
+        <pt x="709" y="345" on="0"/>
+        <pt x="591" y="345" on="0"/>
+      </contour>
+      <contour>
+        <pt x="821" y="238" on="0"/>
+        <pt x="821" y="152" on="0"/>
+        <pt x="876" y="92" on="0"/>
+        <pt x="952" y="92" on="0"/>
+        <pt x="1007" y="152" on="0"/>
+        <pt x="1007" y="238" on="0"/>
+        <pt x="952" y="298" on="0"/>
+        <pt x="876" y="298" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE369.0" xMin="47" yMin="-16" xMax="1410" yMax="838">
+      <contour>
+        <pt x="67" y="710" on="1"/>
+        <pt x="745" y="710" on="1"/>
+        <pt x="871" y="709" on="0"/>
+        <pt x="973" y="710" on="1"/>
+        <pt x="1395" y="710" on="1"/>
+        <pt x="1401" y="711" on="0"/>
+        <pt x="1406" y="723" on="1"/>
+        <pt x="1406" y="422" on="1"/>
+        <pt x="1406" y="417" on="0"/>
+        <pt x="1402" y="414" on="1"/>
+        <pt x="1398" y="410" on="0"/>
+        <pt x="1393" y="410" on="1"/>
+        <pt x="65" y="410" on="1"/>
+        <pt x="60" y="410" on="0"/>
+        <pt x="56" y="414" on="1"/>
+        <pt x="52" y="417" on="0"/>
+        <pt x="52" y="422" on="1"/>
+        <pt x="52" y="730" on="1"/>
+        <pt x="62" y="710" on="0"/>
+      </contour>
+      <contour>
+        <pt x="731" y="834" on="1"/>
+        <pt x="816" y="834" on="0"/>
+        <pt x="891" y="803" on="1"/>
+        <pt x="965" y="771" on="0"/>
+        <pt x="1021" y="716" on="1"/>
+        <pt x="997" y="716" on="0"/>
+        <pt x="969" y="716" on="1"/>
+        <pt x="750" y="716" on="1"/>
+        <pt x="637" y="717" on="0"/>
+        <pt x="448" y="720" on="1"/>
+        <pt x="569" y="834" on="0"/>
+      </contour>
+      <contour>
+        <pt x="731" y="838" on="1"/>
+        <pt x="564" y="838" on="0"/>
+        <pt x="440" y="720" on="1"/>
+        <pt x="440" y="719" on="0"/>
+        <pt x="440" y="718" on="1"/>
+        <pt x="440" y="716" on="0"/>
+        <pt x="442" y="716" on="1"/>
+        <pt x="67" y="716" on="1"/>
+        <pt x="54" y="738" on="1"/>
+        <pt x="52" y="742" on="0"/>
+        <pt x="50" y="742" on="1"/>
+        <pt x="47" y="742" on="0"/>
+        <pt x="47" y="739" on="1"/>
+        <pt x="47" y="739" on="0"/>
+        <pt x="48" y="738" on="1"/>
+        <pt x="48" y="422" on="1"/>
+        <pt x="48" y="415" on="0"/>
+        <pt x="53" y="410" on="1"/>
+        <pt x="58" y="404" on="0"/>
+        <pt x="65" y="404" on="1"/>
+        <pt x="315" y="404" on="1"/>
+        <pt x="315" y="230" on="0"/>
+        <pt x="438" y="107" on="1"/>
+        <pt x="562" y="-16" on="0"/>
+        <pt x="737" y="-16" on="1"/>
+        <pt x="912" y="-16" on="0"/>
+        <pt x="1036" y="107" on="1"/>
+        <pt x="1159" y="230" on="0"/>
+        <pt x="1159" y="404" on="1"/>
+        <pt x="1393" y="404" on="1"/>
+        <pt x="1400" y="404" on="0"/>
+        <pt x="1405" y="410" on="1"/>
+        <pt x="1410" y="415" on="0"/>
+        <pt x="1410" y="422" on="1"/>
+        <pt x="1410" y="738" on="1"/>
+        <pt x="1410" y="740" on="0"/>
+        <pt x="1408" y="740" on="1"/>
+        <pt x="1406" y="740" on="0"/>
+        <pt x="1406" y="739" on="1"/>
+        <pt x="1399" y="717" on="0"/>
+        <pt x="1395" y="716" on="1"/>
+        <pt x="1029" y="716" on="1"/>
+        <pt x="971" y="774" on="0"/>
+        <pt x="894" y="806" on="1"/>
+        <pt x="817" y="838" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1154" y="404" on="1"/>
+        <pt x="1154" y="232" on="0"/>
+        <pt x="1032" y="110" on="1"/>
+        <pt x="910" y="-12" on="0"/>
+        <pt x="737" y="-12" on="1"/>
+        <pt x="564" y="-12" on="0"/>
+        <pt x="442" y="110" on="1"/>
+        <pt x="320" y="232" on="0"/>
+        <pt x="320" y="404" on="1"/>
+      </contour>
+      <contour>
+        <pt x="550" y="301" on="1"/>
+        <pt x="592" y="342" on="0"/>
+        <pt x="650" y="342" on="1"/>
+        <pt x="708" y="342" on="0"/>
+        <pt x="750" y="301" on="1"/>
+        <pt x="792" y="259" on="0"/>
+        <pt x="792" y="201" on="1"/>
+        <pt x="792" y="143" on="0"/>
+        <pt x="750" y="101" on="1"/>
+        <pt x="708" y="59" on="0"/>
+        <pt x="650" y="59" on="1"/>
+        <pt x="592" y="59" on="0"/>
+        <pt x="550" y="101" on="1"/>
+        <pt x="508" y="143" on="0"/>
+        <pt x="508" y="201" on="1"/>
+        <pt x="508" y="259" on="0"/>
+      </contour>
+      <contour>
+        <pt x="547" y="98" on="1"/>
+        <pt x="590" y="54" on="0"/>
+        <pt x="650" y="54" on="1"/>
+        <pt x="710" y="54" on="0"/>
+        <pt x="753" y="98" on="1"/>
+        <pt x="796" y="141" on="0"/>
+        <pt x="796" y="201" on="1"/>
+        <pt x="796" y="261" on="0"/>
+        <pt x="753" y="304" on="1"/>
+        <pt x="710" y="347" on="0"/>
+        <pt x="650" y="347" on="1"/>
+        <pt x="590" y="347" on="0"/>
+        <pt x="547" y="304" on="1"/>
+        <pt x="504" y="261" on="0"/>
+        <pt x="504" y="201" on="1"/>
+        <pt x="504" y="141" on="0"/>
+      </contour>
+      <contour>
+        <pt x="851" y="267" on="1"/>
+        <pt x="877" y="296" on="0"/>
+        <pt x="914" y="296" on="1"/>
+        <pt x="951" y="296" on="0"/>
+        <pt x="978" y="267" on="1"/>
+        <pt x="1004" y="237" on="0"/>
+        <pt x="1004" y="195" on="1"/>
+        <pt x="1004" y="153" on="0"/>
+        <pt x="978" y="124" on="1"/>
+        <pt x="951" y="94" on="0"/>
+        <pt x="914" y="94" on="1"/>
+        <pt x="877" y="94" on="0"/>
+        <pt x="851" y="124" on="1"/>
+        <pt x="824" y="153" on="0"/>
+        <pt x="824" y="195" on="1"/>
+        <pt x="824" y="237" on="0"/>
+      </contour>
+      <contour>
+        <pt x="847" y="121" on="1"/>
+        <pt x="875" y="90" on="0"/>
+        <pt x="914" y="90" on="1"/>
+        <pt x="953" y="90" on="0"/>
+        <pt x="982" y="121" on="1"/>
+        <pt x="1010" y="151" on="0"/>
+        <pt x="1010" y="195" on="1"/>
+        <pt x="1010" y="239" on="0"/>
+        <pt x="982" y="270" on="1"/>
+        <pt x="953" y="300" on="0"/>
+        <pt x="914" y="300" on="1"/>
+        <pt x="875" y="300" on="0"/>
+        <pt x="847" y="270" on="1"/>
+        <pt x="818" y="239" on="0"/>
+        <pt x="818" y="195" on="1"/>
+        <pt x="818" y="151" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE369.1" xMin="828" yMin="116" xMax="992" yMax="284">
+      <contour>
+        <pt x="829" y="200" on="1"/>
+        <pt x="828" y="164" on="0"/>
+        <pt x="852" y="140" on="1"/>
+        <pt x="876" y="116" on="0"/>
+        <pt x="910" y="116" on="1"/>
+        <pt x="944" y="116" on="0"/>
+        <pt x="968" y="140" on="1"/>
+        <pt x="992" y="164" on="0"/>
+        <pt x="992" y="200" on="1"/>
+        <pt x="992" y="236" on="0"/>
+        <pt x="968" y="260" on="1"/>
+        <pt x="944" y="284" on="0"/>
+        <pt x="910" y="284" on="1"/>
+        <pt x="876" y="284" on="0"/>
+        <pt x="852" y="260" on="1"/>
+        <pt x="828" y="236" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE369.2" xMin="130" yMin="435" xMax="1407" yMax="667">
+      <contour>
+        <pt x="1208" y="586" on="1"/>
+        <pt x="1212" y="581" on="0"/>
+        <pt x="1217" y="581" on="1"/>
+        <pt x="1222" y="581" on="0"/>
+        <pt x="1226" y="586" on="1"/>
+        <pt x="1230" y="591" on="0"/>
+        <pt x="1230" y="598" on="1"/>
+        <pt x="1230" y="605" on="0"/>
+        <pt x="1226" y="610" on="1"/>
+        <pt x="1222" y="615" on="0"/>
+        <pt x="1217" y="615" on="1"/>
+        <pt x="1212" y="615" on="0"/>
+        <pt x="1208" y="610" on="1"/>
+        <pt x="1204" y="605" on="0"/>
+        <pt x="1204" y="598" on="1"/>
+        <pt x="1204" y="591" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1294" y="499" on="1"/>
+        <pt x="1299" y="495" on="0"/>
+        <pt x="1306" y="495" on="1"/>
+        <pt x="1313" y="495" on="0"/>
+        <pt x="1318" y="499" on="1"/>
+        <pt x="1323" y="503" on="0"/>
+        <pt x="1323" y="508" on="1"/>
+        <pt x="1323" y="513" on="0"/>
+        <pt x="1318" y="517" on="1"/>
+        <pt x="1313" y="521" on="0"/>
+        <pt x="1306" y="521" on="1"/>
+        <pt x="1299" y="521" on="0"/>
+        <pt x="1294" y="517" on="1"/>
+        <pt x="1289" y="513" on="0"/>
+        <pt x="1289" y="508" on="1"/>
+        <pt x="1289" y="503" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1371" y="566" on="1"/>
+        <pt x="1377" y="560" on="0"/>
+        <pt x="1386" y="560" on="1"/>
+        <pt x="1395" y="560" on="0"/>
+        <pt x="1401" y="566" on="1"/>
+        <pt x="1407" y="572" on="0"/>
+        <pt x="1407" y="581" on="1"/>
+        <pt x="1407" y="590" on="0"/>
+        <pt x="1401" y="596" on="1"/>
+        <pt x="1395" y="602" on="0"/>
+        <pt x="1386" y="602" on="1"/>
+        <pt x="1377" y="602" on="0"/>
+        <pt x="1371" y="596" on="1"/>
+        <pt x="1365" y="590" on="0"/>
+        <pt x="1365" y="581" on="1"/>
+        <pt x="1365" y="572" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1291" y="631" on="1"/>
+        <pt x="1297" y="625" on="0"/>
+        <pt x="1306" y="625" on="1"/>
+        <pt x="1315" y="625" on="0"/>
+        <pt x="1321" y="631" on="1"/>
+        <pt x="1327" y="637" on="0"/>
+        <pt x="1327" y="646" on="1"/>
+        <pt x="1327" y="655" on="0"/>
+        <pt x="1321" y="661" on="1"/>
+        <pt x="1315" y="667" on="0"/>
+        <pt x="1306" y="667" on="1"/>
+        <pt x="1297" y="667" on="0"/>
+        <pt x="1291" y="661" on="1"/>
+        <pt x="1285" y="655" on="0"/>
+        <pt x="1285" y="646" on="1"/>
+        <pt x="1285" y="637" on="0"/>
+      </contour>
+      <contour>
+        <pt x="908" y="556" on="1"/>
+        <pt x="912" y="551" on="0"/>
+        <pt x="917" y="551" on="1"/>
+        <pt x="922" y="551" on="0"/>
+        <pt x="926" y="556" on="1"/>
+        <pt x="930" y="561" on="0"/>
+        <pt x="930" y="568" on="1"/>
+        <pt x="930" y="575" on="0"/>
+        <pt x="926" y="580" on="1"/>
+        <pt x="922" y="585" on="0"/>
+        <pt x="917" y="585" on="1"/>
+        <pt x="912" y="585" on="0"/>
+        <pt x="908" y="580" on="1"/>
+        <pt x="904" y="575" on="0"/>
+        <pt x="904" y="568" on="1"/>
+        <pt x="904" y="561" on="0"/>
+      </contour>
+      <contour>
+        <pt x="994" y="469" on="1"/>
+        <pt x="999" y="465" on="0"/>
+        <pt x="1006" y="465" on="1"/>
+        <pt x="1013" y="465" on="0"/>
+        <pt x="1018" y="469" on="1"/>
+        <pt x="1023" y="473" on="0"/>
+        <pt x="1023" y="478" on="1"/>
+        <pt x="1023" y="483" on="0"/>
+        <pt x="1018" y="487" on="1"/>
+        <pt x="1013" y="491" on="0"/>
+        <pt x="1006" y="491" on="1"/>
+        <pt x="999" y="491" on="0"/>
+        <pt x="994" y="487" on="1"/>
+        <pt x="989" y="483" on="0"/>
+        <pt x="989" y="478" on="1"/>
+        <pt x="989" y="473" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1071" y="536" on="1"/>
+        <pt x="1077" y="530" on="0"/>
+        <pt x="1086" y="530" on="1"/>
+        <pt x="1095" y="530" on="0"/>
+        <pt x="1101" y="536" on="1"/>
+        <pt x="1107" y="542" on="0"/>
+        <pt x="1107" y="551" on="1"/>
+        <pt x="1107" y="560" on="0"/>
+        <pt x="1101" y="566" on="1"/>
+        <pt x="1095" y="572" on="0"/>
+        <pt x="1086" y="572" on="1"/>
+        <pt x="1077" y="572" on="0"/>
+        <pt x="1071" y="566" on="1"/>
+        <pt x="1065" y="560" on="0"/>
+        <pt x="1065" y="551" on="1"/>
+        <pt x="1065" y="542" on="0"/>
+      </contour>
+      <contour>
+        <pt x="991" y="601" on="1"/>
+        <pt x="997" y="595" on="0"/>
+        <pt x="1006" y="595" on="1"/>
+        <pt x="1015" y="595" on="0"/>
+        <pt x="1021" y="601" on="1"/>
+        <pt x="1027" y="607" on="0"/>
+        <pt x="1027" y="616" on="1"/>
+        <pt x="1027" y="625" on="0"/>
+        <pt x="1021" y="631" on="1"/>
+        <pt x="1015" y="637" on="0"/>
+        <pt x="1006" y="637" on="1"/>
+        <pt x="997" y="637" on="0"/>
+        <pt x="991" y="631" on="1"/>
+        <pt x="985" y="625" on="0"/>
+        <pt x="985" y="616" on="1"/>
+        <pt x="985" y="607" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1016" y="556" on="1"/>
+        <pt x="1020" y="551" on="0"/>
+        <pt x="1025" y="551" on="1"/>
+        <pt x="1030" y="551" on="0"/>
+        <pt x="1034" y="556" on="1"/>
+        <pt x="1038" y="561" on="0"/>
+        <pt x="1038" y="568" on="1"/>
+        <pt x="1038" y="575" on="0"/>
+        <pt x="1034" y="580" on="1"/>
+        <pt x="1030" y="585" on="0"/>
+        <pt x="1025" y="585" on="1"/>
+        <pt x="1020" y="585" on="0"/>
+        <pt x="1016" y="580" on="1"/>
+        <pt x="1012" y="575" on="0"/>
+        <pt x="1012" y="568" on="1"/>
+        <pt x="1012" y="561" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1102" y="469" on="1"/>
+        <pt x="1107" y="465" on="0"/>
+        <pt x="1114" y="465" on="1"/>
+        <pt x="1121" y="465" on="0"/>
+        <pt x="1126" y="469" on="1"/>
+        <pt x="1131" y="473" on="0"/>
+        <pt x="1131" y="478" on="1"/>
+        <pt x="1131" y="483" on="0"/>
+        <pt x="1126" y="487" on="1"/>
+        <pt x="1121" y="491" on="0"/>
+        <pt x="1114" y="491" on="1"/>
+        <pt x="1107" y="491" on="0"/>
+        <pt x="1102" y="487" on="1"/>
+        <pt x="1097" y="483" on="0"/>
+        <pt x="1097" y="478" on="1"/>
+        <pt x="1097" y="473" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1179" y="536" on="1"/>
+        <pt x="1185" y="530" on="0"/>
+        <pt x="1194" y="530" on="1"/>
+        <pt x="1203" y="530" on="0"/>
+        <pt x="1209" y="536" on="1"/>
+        <pt x="1215" y="542" on="0"/>
+        <pt x="1215" y="551" on="1"/>
+        <pt x="1215" y="560" on="0"/>
+        <pt x="1209" y="566" on="1"/>
+        <pt x="1203" y="572" on="0"/>
+        <pt x="1194" y="572" on="1"/>
+        <pt x="1185" y="572" on="0"/>
+        <pt x="1179" y="566" on="1"/>
+        <pt x="1173" y="560" on="0"/>
+        <pt x="1173" y="551" on="1"/>
+        <pt x="1173" y="542" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1099" y="601" on="1"/>
+        <pt x="1105" y="595" on="0"/>
+        <pt x="1114" y="595" on="1"/>
+        <pt x="1123" y="595" on="0"/>
+        <pt x="1129" y="601" on="1"/>
+        <pt x="1135" y="607" on="0"/>
+        <pt x="1135" y="616" on="1"/>
+        <pt x="1135" y="625" on="0"/>
+        <pt x="1129" y="631" on="1"/>
+        <pt x="1123" y="637" on="0"/>
+        <pt x="1114" y="637" on="1"/>
+        <pt x="1105" y="637" on="0"/>
+        <pt x="1099" y="631" on="1"/>
+        <pt x="1093" y="625" on="0"/>
+        <pt x="1093" y="616" on="1"/>
+        <pt x="1093" y="607" on="0"/>
+      </contour>
+      <contour>
+        <pt x="716" y="526" on="1"/>
+        <pt x="720" y="521" on="0"/>
+        <pt x="725" y="521" on="1"/>
+        <pt x="730" y="521" on="0"/>
+        <pt x="734" y="526" on="1"/>
+        <pt x="738" y="531" on="0"/>
+        <pt x="738" y="538" on="1"/>
+        <pt x="738" y="545" on="0"/>
+        <pt x="734" y="550" on="1"/>
+        <pt x="730" y="555" on="0"/>
+        <pt x="725" y="555" on="1"/>
+        <pt x="720" y="555" on="0"/>
+        <pt x="716" y="550" on="1"/>
+        <pt x="712" y="545" on="0"/>
+        <pt x="712" y="538" on="1"/>
+        <pt x="712" y="531" on="0"/>
+      </contour>
+      <contour>
+        <pt x="802" y="439" on="1"/>
+        <pt x="807" y="435" on="0"/>
+        <pt x="814" y="435" on="1"/>
+        <pt x="821" y="435" on="0"/>
+        <pt x="826" y="439" on="1"/>
+        <pt x="831" y="443" on="0"/>
+        <pt x="831" y="448" on="1"/>
+        <pt x="831" y="453" on="0"/>
+        <pt x="826" y="457" on="1"/>
+        <pt x="821" y="461" on="0"/>
+        <pt x="814" y="461" on="1"/>
+        <pt x="807" y="461" on="0"/>
+        <pt x="802" y="457" on="1"/>
+        <pt x="797" y="453" on="0"/>
+        <pt x="797" y="448" on="1"/>
+        <pt x="797" y="443" on="0"/>
+      </contour>
+      <contour>
+        <pt x="879" y="506" on="1"/>
+        <pt x="885" y="500" on="0"/>
+        <pt x="894" y="500" on="1"/>
+        <pt x="903" y="500" on="0"/>
+        <pt x="909" y="506" on="1"/>
+        <pt x="915" y="512" on="0"/>
+        <pt x="915" y="521" on="1"/>
+        <pt x="915" y="530" on="0"/>
+        <pt x="909" y="536" on="1"/>
+        <pt x="903" y="542" on="0"/>
+        <pt x="894" y="542" on="1"/>
+        <pt x="885" y="542" on="0"/>
+        <pt x="879" y="536" on="1"/>
+        <pt x="873" y="530" on="0"/>
+        <pt x="873" y="521" on="1"/>
+        <pt x="873" y="512" on="0"/>
+      </contour>
+      <contour>
+        <pt x="799" y="571" on="1"/>
+        <pt x="805" y="565" on="0"/>
+        <pt x="814" y="565" on="1"/>
+        <pt x="823" y="565" on="0"/>
+        <pt x="829" y="571" on="1"/>
+        <pt x="835" y="577" on="0"/>
+        <pt x="835" y="586" on="1"/>
+        <pt x="835" y="595" on="0"/>
+        <pt x="829" y="601" on="1"/>
+        <pt x="823" y="607" on="0"/>
+        <pt x="814" y="607" on="1"/>
+        <pt x="805" y="607" on="0"/>
+        <pt x="799" y="601" on="1"/>
+        <pt x="793" y="595" on="0"/>
+        <pt x="793" y="586" on="1"/>
+        <pt x="793" y="577" on="0"/>
+      </contour>
+      <contour>
+        <pt x="434" y="586" on="1"/>
+        <pt x="438" y="581" on="0"/>
+        <pt x="443" y="581" on="1"/>
+        <pt x="448" y="581" on="0"/>
+        <pt x="452" y="586" on="1"/>
+        <pt x="456" y="591" on="0"/>
+        <pt x="456" y="598" on="1"/>
+        <pt x="456" y="605" on="0"/>
+        <pt x="452" y="610" on="1"/>
+        <pt x="448" y="615" on="0"/>
+        <pt x="443" y="615" on="1"/>
+        <pt x="438" y="615" on="0"/>
+        <pt x="434" y="610" on="1"/>
+        <pt x="430" y="605" on="0"/>
+        <pt x="430" y="598" on="1"/>
+        <pt x="430" y="591" on="0"/>
+      </contour>
+      <contour>
+        <pt x="520" y="499" on="1"/>
+        <pt x="525" y="495" on="0"/>
+        <pt x="532" y="495" on="1"/>
+        <pt x="539" y="495" on="0"/>
+        <pt x="544" y="499" on="1"/>
+        <pt x="549" y="503" on="0"/>
+        <pt x="549" y="508" on="1"/>
+        <pt x="549" y="513" on="0"/>
+        <pt x="544" y="517" on="1"/>
+        <pt x="539" y="521" on="0"/>
+        <pt x="532" y="521" on="1"/>
+        <pt x="525" y="521" on="0"/>
+        <pt x="520" y="517" on="1"/>
+        <pt x="515" y="513" on="0"/>
+        <pt x="515" y="508" on="1"/>
+        <pt x="515" y="503" on="0"/>
+      </contour>
+      <contour>
+        <pt x="597" y="566" on="1"/>
+        <pt x="603" y="560" on="0"/>
+        <pt x="612" y="560" on="1"/>
+        <pt x="621" y="560" on="0"/>
+        <pt x="627" y="566" on="1"/>
+        <pt x="633" y="572" on="0"/>
+        <pt x="633" y="581" on="1"/>
+        <pt x="633" y="590" on="0"/>
+        <pt x="627" y="596" on="1"/>
+        <pt x="621" y="602" on="0"/>
+        <pt x="612" y="602" on="1"/>
+        <pt x="603" y="602" on="0"/>
+        <pt x="597" y="596" on="1"/>
+        <pt x="591" y="590" on="0"/>
+        <pt x="591" y="581" on="1"/>
+        <pt x="591" y="572" on="0"/>
+      </contour>
+      <contour>
+        <pt x="517" y="631" on="1"/>
+        <pt x="523" y="625" on="0"/>
+        <pt x="532" y="625" on="1"/>
+        <pt x="541" y="625" on="0"/>
+        <pt x="547" y="631" on="1"/>
+        <pt x="553" y="637" on="0"/>
+        <pt x="553" y="646" on="1"/>
+        <pt x="553" y="655" on="0"/>
+        <pt x="547" y="661" on="1"/>
+        <pt x="541" y="667" on="0"/>
+        <pt x="532" y="667" on="1"/>
+        <pt x="523" y="667" on="0"/>
+        <pt x="517" y="661" on="1"/>
+        <pt x="511" y="655" on="0"/>
+        <pt x="511" y="646" on="1"/>
+        <pt x="511" y="637" on="0"/>
+      </contour>
+      <contour>
+        <pt x="134" y="556" on="1"/>
+        <pt x="138" y="551" on="0"/>
+        <pt x="143" y="551" on="1"/>
+        <pt x="148" y="551" on="0"/>
+        <pt x="152" y="556" on="1"/>
+        <pt x="156" y="561" on="0"/>
+        <pt x="156" y="568" on="1"/>
+        <pt x="156" y="575" on="0"/>
+        <pt x="152" y="580" on="1"/>
+        <pt x="148" y="585" on="0"/>
+        <pt x="143" y="585" on="1"/>
+        <pt x="138" y="585" on="0"/>
+        <pt x="134" y="580" on="1"/>
+        <pt x="130" y="575" on="0"/>
+        <pt x="130" y="568" on="1"/>
+        <pt x="130" y="561" on="0"/>
+      </contour>
+      <contour>
+        <pt x="220" y="469" on="1"/>
+        <pt x="225" y="465" on="0"/>
+        <pt x="232" y="465" on="1"/>
+        <pt x="239" y="465" on="0"/>
+        <pt x="244" y="469" on="1"/>
+        <pt x="249" y="473" on="0"/>
+        <pt x="249" y="478" on="1"/>
+        <pt x="249" y="483" on="0"/>
+        <pt x="244" y="487" on="1"/>
+        <pt x="239" y="491" on="0"/>
+        <pt x="232" y="491" on="1"/>
+        <pt x="225" y="491" on="0"/>
+        <pt x="220" y="487" on="1"/>
+        <pt x="215" y="483" on="0"/>
+        <pt x="215" y="478" on="1"/>
+        <pt x="215" y="473" on="0"/>
+      </contour>
+      <contour>
+        <pt x="297" y="536" on="1"/>
+        <pt x="303" y="530" on="0"/>
+        <pt x="312" y="530" on="1"/>
+        <pt x="321" y="530" on="0"/>
+        <pt x="327" y="536" on="1"/>
+        <pt x="333" y="542" on="0"/>
+        <pt x="333" y="551" on="1"/>
+        <pt x="333" y="560" on="0"/>
+        <pt x="327" y="566" on="1"/>
+        <pt x="321" y="572" on="0"/>
+        <pt x="312" y="572" on="1"/>
+        <pt x="303" y="572" on="0"/>
+        <pt x="297" y="566" on="1"/>
+        <pt x="291" y="560" on="0"/>
+        <pt x="291" y="551" on="1"/>
+        <pt x="291" y="542" on="0"/>
+      </contour>
+      <contour>
+        <pt x="217" y="601" on="1"/>
+        <pt x="223" y="595" on="0"/>
+        <pt x="232" y="595" on="1"/>
+        <pt x="241" y="595" on="0"/>
+        <pt x="247" y="601" on="1"/>
+        <pt x="253" y="607" on="0"/>
+        <pt x="253" y="616" on="1"/>
+        <pt x="253" y="625" on="0"/>
+        <pt x="247" y="631" on="1"/>
+        <pt x="241" y="637" on="0"/>
+        <pt x="232" y="637" on="1"/>
+        <pt x="223" y="637" on="0"/>
+        <pt x="217" y="631" on="1"/>
+        <pt x="211" y="625" on="0"/>
+        <pt x="211" y="616" on="1"/>
+        <pt x="211" y="607" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE369.3" xMin="50" yMin="71" xMax="1402" yMax="716">
+      <contour>
+        <pt x="536" y="198" on="1"/>
+        <pt x="536" y="145" on="0"/>
+        <pt x="571" y="108" on="1"/>
+        <pt x="605" y="71" on="0"/>
+        <pt x="655" y="71" on="1"/>
+        <pt x="704" y="71" on="0"/>
+        <pt x="738" y="108" on="1"/>
+        <pt x="771" y="145" on="0"/>
+        <pt x="771" y="198" on="1"/>
+        <pt x="771" y="251" on="0"/>
+        <pt x="737" y="288" on="1"/>
+        <pt x="702" y="325" on="0"/>
+        <pt x="652" y="325" on="1"/>
+        <pt x="603" y="325" on="0"/>
+        <pt x="570" y="288" on="1"/>
+        <pt x="536" y="251" on="0"/>
+      </contour>
+      <contour>
+        <pt x="85" y="716" on="1"/>
+        <pt x="77" y="716" on="0"/>
+        <pt x="64" y="709" on="1"/>
+        <pt x="50" y="701" on="0"/>
+        <pt x="50" y="694" on="1"/>
+        <pt x="50" y="424" on="1"/>
+        <pt x="50" y="418" on="0"/>
+        <pt x="63" y="414" on="1"/>
+        <pt x="75" y="410" on="0"/>
+        <pt x="85" y="410" on="1"/>
+        <pt x="1384" y="410" on="1"/>
+        <pt x="1391" y="410" on="0"/>
+        <pt x="1397" y="416" on="1"/>
+        <pt x="1402" y="421" on="0"/>
+        <pt x="1402" y="428" on="1"/>
+        <pt x="1402" y="698" on="1"/>
+        <pt x="1402" y="705" on="0"/>
+        <pt x="1397" y="711" on="1"/>
+        <pt x="1391" y="716" on="0"/>
+        <pt x="1384" y="716" on="1"/>
+      </contour>
+      <contour>
+        <pt x="85" y="710" on="1"/>
+        <pt x="1384" y="710" on="1"/>
+        <pt x="1389" y="710" on="0"/>
+        <pt x="1393" y="707" on="1"/>
+        <pt x="1396" y="703" on="0"/>
+        <pt x="1396" y="698" on="1"/>
+        <pt x="1396" y="428" on="1"/>
+        <pt x="1396" y="423" on="0"/>
+        <pt x="1393" y="420" on="1"/>
+        <pt x="1389" y="416" on="0"/>
+        <pt x="1384" y="416" on="1"/>
+        <pt x="85" y="416" on="1"/>
+        <pt x="80" y="416" on="0"/>
+        <pt x="76" y="420" on="1"/>
+        <pt x="72" y="423" on="0"/>
+        <pt x="72" y="428" on="1"/>
+        <pt x="72" y="698" on="1"/>
+        <pt x="72" y="703" on="0"/>
+        <pt x="76" y="707" on="1"/>
+        <pt x="80" y="710" on="0"/>
       </contour>
       <instructions/>
     </TTGlyph>
@@ -20395,7 +21144,7 @@
       ColorEmoji
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      anir : Khaanaa : 2-12-2024
+      FontForge 2.0 : Khaanaa : 3-12-2024
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Khaanaa
@@ -20424,7 +21173,7 @@ This license is available with a FAQ at:https://openfontlicense.org
       ColorEmoji
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      anir : Khaanaa : 2-12-2024
+      FontForge 2.0 : Khaanaa : 3-12-2024
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Khaanaa
@@ -20469,6 +21218,7 @@ This license is available with a FAQ at:https://openfontlicense.org
       <psName name="uniE366"/>
       <psName name="uniE367"/>
       <psName name="uniE368"/>
+      <psName name="uniE369"/>
       <psName name="u1F64F"/>
       <psName name="A.0"/>
       <psName name="A.1"/>
@@ -20752,6 +21502,10 @@ This license is available with a FAQ at:https://openfontlicense.org
       <psName name="uniE368.1"/>
       <psName name="uniE368.2"/>
       <psName name="uniE368.3"/>
+      <psName name="uniE369.0"/>
+      <psName name="uniE369.1"/>
+      <psName name="uniE369.2"/>
+      <psName name="uniE369.3"/>
       <psName name="v.0"/>
       <psName name="v.1"/>
       <psName name="v.2"/>
@@ -20784,7 +21538,7 @@ This license is available with a FAQ at:https://openfontlicense.org
     <!-- BaseGlyphRecordCount=0 -->
     <!-- LayerRecordCount=0 -->
     <BaseGlyphList>
-      <!-- BaseGlyphCount=98 -->
+      <!-- BaseGlyphCount=99 -->
       <BaseGlyphPaintRecord index="0">
         <BaseGlyph value="exclam"/>
         <Paint Format="1"><!-- PaintColrLayers -->
@@ -21465,15 +22219,22 @@ This license is available with a FAQ at:https://openfontlicense.org
         </Paint>
       </BaseGlyphPaintRecord>
       <BaseGlyphPaintRecord index="97">
-        <BaseGlyph value="u1F64F"/>
+        <BaseGlyph value="uniE369"/>
         <Paint Format="1"><!-- PaintColrLayers -->
           <NumLayers value="4"/>
           <FirstLayerIndex value="384"/>
         </Paint>
       </BaseGlyphPaintRecord>
+      <BaseGlyphPaintRecord index="98">
+        <BaseGlyph value="u1F64F"/>
+        <Paint Format="1"><!-- PaintColrLayers -->
+          <NumLayers value="4"/>
+          <FirstLayerIndex value="388"/>
+        </Paint>
+      </BaseGlyphPaintRecord>
     </BaseGlyphList>
     <LayerList>
-      <!-- LayerCount=388 -->
+      <!-- LayerCount=392 -->
       <Paint index="0" Format="10"><!-- PaintGlyph -->
         <Paint Format="2"><!-- PaintSolid -->
           <PaletteIndex value="0"/>
@@ -24563,23 +25324,51 @@ This license is available with a FAQ at:https://openfontlicense.org
           <PaletteIndex value="0"/>
           <Alpha value="1.0"/>
         </Paint>
-        <Glyph value="u1F64F.0"/>
+        <Glyph value="uniE369.0"/>
       </Paint>
       <Paint index="385" Format="10"><!-- PaintGlyph -->
         <Paint Format="2"><!-- PaintSolid -->
           <PaletteIndex value="1"/>
           <Alpha value="1.0"/>
         </Paint>
-        <Glyph value="u1F64F.1"/>
+        <Glyph value="uniE369.1"/>
       </Paint>
       <Paint index="386" Format="10"><!-- PaintGlyph -->
         <Paint Format="2"><!-- PaintSolid -->
           <PaletteIndex value="2"/>
           <Alpha value="1.0"/>
         </Paint>
-        <Glyph value="u1F64F.2"/>
+        <Glyph value="uniE369.2"/>
       </Paint>
       <Paint index="387" Format="10"><!-- PaintGlyph -->
+        <Paint Format="2"><!-- PaintSolid -->
+          <PaletteIndex value="3"/>
+          <Alpha value="1.0"/>
+        </Paint>
+        <Glyph value="uniE369.3"/>
+      </Paint>
+      <Paint index="388" Format="10"><!-- PaintGlyph -->
+        <Paint Format="2"><!-- PaintSolid -->
+          <PaletteIndex value="0"/>
+          <Alpha value="1.0"/>
+        </Paint>
+        <Glyph value="u1F64F.0"/>
+      </Paint>
+      <Paint index="389" Format="10"><!-- PaintGlyph -->
+        <Paint Format="2"><!-- PaintSolid -->
+          <PaletteIndex value="1"/>
+          <Alpha value="1.0"/>
+        </Paint>
+        <Glyph value="u1F64F.1"/>
+      </Paint>
+      <Paint index="390" Format="10"><!-- PaintGlyph -->
+        <Paint Format="2"><!-- PaintSolid -->
+          <PaletteIndex value="2"/>
+          <Alpha value="1.0"/>
+        </Paint>
+        <Glyph value="u1F64F.2"/>
+      </Paint>
+      <Paint index="391" Format="10"><!-- PaintGlyph -->
         <Paint Format="2"><!-- PaintSolid -->
           <PaletteIndex value="3"/>
           <Alpha value="1.0"/>
@@ -25305,6 +26094,15 @@ This license is available with a FAQ at:https://openfontlicense.org
         </ClipBox>
       </Clip>
       <Clip>
+        <Glyph value="uniE369"/>
+        <ClipBox Format="1">
+          <xMin value="40"/>
+          <yMin value="-20"/>
+          <xMax value="1420"/>
+          <yMax value="840"/>
+        </ClipBox>
+      </Clip>
+      <Clip>
         <Glyph value="v"/>
         <ClipBox Format="1">
           <xMin value="40"/>
@@ -25371,6 +26169,14 @@ This license is available with a FAQ at:https://openfontlicense.org
       <color index="3" value="#FF0000FF"/>
     </palette>
   </CPAL>
+
+  <FFTM>
+    <!-- FontForge's timestamp, font source creation and modification dates -->
+    <version value="1"/>
+    <FFTimeStamp value="Mon Jun 24 13:55:18 2024"/>
+    <sourceCreated value="Fri Nov 29 10:11:58 2024"/>
+    <sourceModified value="Tue Dec  3 08:28:51 2024"/>
+  </FFTM>
 
   <GDEF>
     <Version value="0x00010000"/>
@@ -25468,6 +26274,7 @@ This license is available with a FAQ at:https://openfontlicense.org
       <ClassDef glyph="uniE366" class="2"/>
       <ClassDef glyph="uniE367" class="2"/>
       <ClassDef glyph="uniE368" class="2"/>
+      <ClassDef glyph="uniE369" class="2"/>
       <ClassDef glyph="v" class="1"/>
       <ClassDef glyph="w" class="1"/>
       <ClassDef glyph="x" class="1"/>
@@ -25561,6 +26368,9 @@ This license is available with a FAQ at:https://openfontlicense.org
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <LigatureSubst index="0">
+          <LigatureSet glyph="d">
+            <Ligature components="o,s,a" glyph="uniE369"/>
+          </LigatureSet>
           <LigatureSet glyph="j">
             <Ligature components="a,l,e,b,i" glyph="uniE366"/>
           </LigatureSet>

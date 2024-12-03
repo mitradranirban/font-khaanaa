@@ -104,324 +104,329 @@
     <GlyphID id="98" name="uniE366"/>
     <GlyphID id="99" name="uniE367"/>
     <GlyphID id="100" name="uniE368"/>
-    <GlyphID id="101" name="u1F64F"/>
-    <GlyphID id="102" name="A.0"/>
-    <GlyphID id="103" name="A.1"/>
-    <GlyphID id="104" name="A.2"/>
-    <GlyphID id="105" name="B.0"/>
-    <GlyphID id="106" name="B.1"/>
-    <GlyphID id="107" name="B.2"/>
-    <GlyphID id="108" name="C.0"/>
-    <GlyphID id="109" name="C.1"/>
-    <GlyphID id="110" name="C.2"/>
-    <GlyphID id="111" name="D.0"/>
-    <GlyphID id="112" name="D.1"/>
-    <GlyphID id="113" name="D.2"/>
-    <GlyphID id="114" name="E.0"/>
-    <GlyphID id="115" name="E.1"/>
-    <GlyphID id="116" name="E.2"/>
-    <GlyphID id="117" name="F.0"/>
-    <GlyphID id="118" name="F.1"/>
-    <GlyphID id="119" name="F.2"/>
-    <GlyphID id="120" name="G.0"/>
-    <GlyphID id="121" name="G.1"/>
-    <GlyphID id="122" name="G.2"/>
-    <GlyphID id="123" name="H.0"/>
-    <GlyphID id="124" name="H.1"/>
-    <GlyphID id="125" name="H.2"/>
-    <GlyphID id="126" name="J.0"/>
-    <GlyphID id="127" name="J.1"/>
-    <GlyphID id="128" name="J.2"/>
-    <GlyphID id="129" name="K.0"/>
-    <GlyphID id="130" name="K.1"/>
-    <GlyphID id="131" name="K.2"/>
-    <GlyphID id="132" name="L.0"/>
-    <GlyphID id="133" name="L.1"/>
-    <GlyphID id="134" name="L.2"/>
-    <GlyphID id="135" name="M.0"/>
-    <GlyphID id="136" name="M.1"/>
-    <GlyphID id="137" name="M.2"/>
-    <GlyphID id="138" name="N.0"/>
-    <GlyphID id="139" name="N.1"/>
-    <GlyphID id="140" name="N.2"/>
-    <GlyphID id="141" name="O.0"/>
-    <GlyphID id="142" name="O.1"/>
-    <GlyphID id="143" name="O.2"/>
-    <GlyphID id="144" name="P.0"/>
-    <GlyphID id="145" name="P.1"/>
-    <GlyphID id="146" name="P.2"/>
-    <GlyphID id="147" name="Q.0"/>
-    <GlyphID id="148" name="Q.1"/>
-    <GlyphID id="149" name="Q.2"/>
-    <GlyphID id="150" name="R.0"/>
-    <GlyphID id="151" name="R.1"/>
-    <GlyphID id="152" name="R.2"/>
-    <GlyphID id="153" name="S.0"/>
-    <GlyphID id="154" name="S.1"/>
-    <GlyphID id="155" name="S.2"/>
-    <GlyphID id="156" name="T.0"/>
-    <GlyphID id="157" name="T.1"/>
-    <GlyphID id="158" name="T.2"/>
-    <GlyphID id="159" name="T.3"/>
-    <GlyphID id="160" name="U.0"/>
-    <GlyphID id="161" name="U.1"/>
-    <GlyphID id="162" name="U.2"/>
-    <GlyphID id="163" name="V.0"/>
-    <GlyphID id="164" name="V.1"/>
-    <GlyphID id="165" name="V.2"/>
-    <GlyphID id="166" name="W.0"/>
-    <GlyphID id="167" name="W.1"/>
-    <GlyphID id="168" name="W.2"/>
-    <GlyphID id="169" name="W.3"/>
-    <GlyphID id="170" name="X.0"/>
-    <GlyphID id="171" name="X.1"/>
-    <GlyphID id="172" name="X.2"/>
-    <GlyphID id="173" name="X.3"/>
-    <GlyphID id="174" name="Y.0"/>
-    <GlyphID id="175" name="Y.1"/>
-    <GlyphID id="176" name="Y.2"/>
-    <GlyphID id="177" name="Z.0"/>
-    <GlyphID id="178" name="Z.1"/>
-    <GlyphID id="179" name="Z.2"/>
-    <GlyphID id="180" name="a.0"/>
-    <GlyphID id="181" name="a.1"/>
-    <GlyphID id="182" name="a.2"/>
-    <GlyphID id="183" name="ampersand.0"/>
-    <GlyphID id="184" name="ampersand.1"/>
-    <GlyphID id="185" name="ampersand.2"/>
-    <GlyphID id="186" name="asciicircum.0"/>
-    <GlyphID id="187" name="asciicircum.1"/>
-    <GlyphID id="188" name="asciicircum.2"/>
-    <GlyphID id="189" name="asciitilde.0"/>
-    <GlyphID id="190" name="asciitilde.1"/>
-    <GlyphID id="191" name="asciitilde.2"/>
-    <GlyphID id="192" name="asterisk.0"/>
-    <GlyphID id="193" name="asterisk.1"/>
-    <GlyphID id="194" name="asterisk.2"/>
-    <GlyphID id="195" name="at.0"/>
-    <GlyphID id="196" name="at.1"/>
-    <GlyphID id="197" name="at.2"/>
-    <GlyphID id="198" name="at.3"/>
-    <GlyphID id="199" name="b.0"/>
-    <GlyphID id="200" name="b.1"/>
-    <GlyphID id="201" name="b.2"/>
-    <GlyphID id="202" name="backslash.0"/>
-    <GlyphID id="203" name="backslash.1"/>
-    <GlyphID id="204" name="backslash.2"/>
-    <GlyphID id="205" name="bar.0"/>
-    <GlyphID id="206" name="bar.1"/>
-    <GlyphID id="207" name="bar.2"/>
-    <GlyphID id="208" name="braceleft.0"/>
-    <GlyphID id="209" name="braceleft.1"/>
-    <GlyphID id="210" name="braceleft.2"/>
-    <GlyphID id="211" name="braceright.0"/>
-    <GlyphID id="212" name="braceright.1"/>
-    <GlyphID id="213" name="braceright.2"/>
-    <GlyphID id="214" name="bracketleft.0"/>
-    <GlyphID id="215" name="bracketleft.1"/>
-    <GlyphID id="216" name="bracketleft.2"/>
-    <GlyphID id="217" name="bracketright.0"/>
-    <GlyphID id="218" name="bracketright.1"/>
-    <GlyphID id="219" name="bracketright.2"/>
-    <GlyphID id="220" name="c.0"/>
-    <GlyphID id="221" name="c.1"/>
-    <GlyphID id="222" name="c.2"/>
-    <GlyphID id="223" name="colon.0"/>
-    <GlyphID id="224" name="colon.1"/>
-    <GlyphID id="225" name="colon.2"/>
-    <GlyphID id="226" name="comma.0"/>
-    <GlyphID id="227" name="comma.1"/>
-    <GlyphID id="228" name="comma.2"/>
-    <GlyphID id="229" name="d.0"/>
-    <GlyphID id="230" name="d.1"/>
-    <GlyphID id="231" name="d.2"/>
-    <GlyphID id="232" name="dollar.0"/>
-    <GlyphID id="233" name="dollar.1"/>
-    <GlyphID id="234" name="dollar.2"/>
-    <GlyphID id="235" name="dollar.3"/>
-    <GlyphID id="236" name="e.0"/>
-    <GlyphID id="237" name="e.1"/>
-    <GlyphID id="238" name="e.2"/>
-    <GlyphID id="239" name="e.3"/>
-    <GlyphID id="240" name="eight.0"/>
-    <GlyphID id="241" name="eight.1"/>
-    <GlyphID id="242" name="eight.2"/>
-    <GlyphID id="243" name="eight.3"/>
-    <GlyphID id="244" name="equal.0"/>
-    <GlyphID id="245" name="equal.1"/>
-    <GlyphID id="246" name="equal.2"/>
-    <GlyphID id="247" name="exclam.0"/>
-    <GlyphID id="248" name="exclam.1"/>
-    <GlyphID id="249" name="exclam.2"/>
-    <GlyphID id="250" name="f.0"/>
-    <GlyphID id="251" name="f.1"/>
-    <GlyphID id="252" name="f.2"/>
-    <GlyphID id="253" name="five.0"/>
-    <GlyphID id="254" name="five.1"/>
-    <GlyphID id="255" name="five.2"/>
-    <GlyphID id="256" name="four.0"/>
-    <GlyphID id="257" name="four.1"/>
-    <GlyphID id="258" name="four.2"/>
-    <GlyphID id="259" name="g.0"/>
-    <GlyphID id="260" name="g.1"/>
-    <GlyphID id="261" name="g.2"/>
-    <GlyphID id="262" name="g.3"/>
-    <GlyphID id="263" name="grave.0"/>
-    <GlyphID id="264" name="grave.1"/>
-    <GlyphID id="265" name="grave.2"/>
-    <GlyphID id="266" name="greater.0"/>
-    <GlyphID id="267" name="greater.1"/>
-    <GlyphID id="268" name="greater.2"/>
-    <GlyphID id="269" name="h.0"/>
-    <GlyphID id="270" name="h.1"/>
-    <GlyphID id="271" name="h.2"/>
-    <GlyphID id="272" name="hyphen.0"/>
-    <GlyphID id="273" name="hyphen.1"/>
-    <GlyphID id="274" name="i.0"/>
-    <GlyphID id="275" name="i.1"/>
-    <GlyphID id="276" name="i.2"/>
-    <GlyphID id="277" name="j.0"/>
-    <GlyphID id="278" name="j.1"/>
-    <GlyphID id="279" name="j.2"/>
-    <GlyphID id="280" name="k.0"/>
-    <GlyphID id="281" name="k.1"/>
-    <GlyphID id="282" name="k.2"/>
-    <GlyphID id="283" name="l.0"/>
-    <GlyphID id="284" name="l.1"/>
-    <GlyphID id="285" name="l.2"/>
-    <GlyphID id="286" name="less.0"/>
-    <GlyphID id="287" name="less.1"/>
-    <GlyphID id="288" name="less.2"/>
-    <GlyphID id="289" name="m.0"/>
-    <GlyphID id="290" name="m.1"/>
-    <GlyphID id="291" name="m.2"/>
-    <GlyphID id="292" name="n.0"/>
-    <GlyphID id="293" name="n.1"/>
-    <GlyphID id="294" name="n.2"/>
-    <GlyphID id="295" name="nine.0"/>
-    <GlyphID id="296" name="nine.1"/>
-    <GlyphID id="297" name="numbersign.0"/>
-    <GlyphID id="298" name="numbersign.1"/>
-    <GlyphID id="299" name="numbersign.2"/>
-    <GlyphID id="300" name="o.0"/>
-    <GlyphID id="301" name="o.1"/>
-    <GlyphID id="302" name="o.2"/>
-    <GlyphID id="303" name="o.3"/>
-    <GlyphID id="304" name="one.0"/>
-    <GlyphID id="305" name="one.1"/>
-    <GlyphID id="306" name="p.0"/>
-    <GlyphID id="307" name="p.1"/>
-    <GlyphID id="308" name="p.2"/>
-    <GlyphID id="309" name="parenleft.0"/>
-    <GlyphID id="310" name="parenleft.1"/>
-    <GlyphID id="311" name="parenleft.2"/>
-    <GlyphID id="312" name="parenright.0"/>
-    <GlyphID id="313" name="parenright.1"/>
-    <GlyphID id="314" name="parenright.2"/>
-    <GlyphID id="315" name="percent.0"/>
-    <GlyphID id="316" name="percent.1"/>
-    <GlyphID id="317" name="percent.2"/>
-    <GlyphID id="318" name="period.0"/>
-    <GlyphID id="319" name="period.1"/>
-    <GlyphID id="320" name="plus.0"/>
-    <GlyphID id="321" name="plus.1"/>
-    <GlyphID id="322" name="plus.2"/>
-    <GlyphID id="323" name="plus.3"/>
-    <GlyphID id="324" name="q.0"/>
-    <GlyphID id="325" name="q.1"/>
-    <GlyphID id="326" name="q.2"/>
-    <GlyphID id="327" name="question.0"/>
-    <GlyphID id="328" name="question.1"/>
-    <GlyphID id="329" name="question.2"/>
-    <GlyphID id="330" name="quotedbl.0"/>
-    <GlyphID id="331" name="quotedbl.1"/>
-    <GlyphID id="332" name="quotedbl.2"/>
-    <GlyphID id="333" name="quotesingle.0"/>
-    <GlyphID id="334" name="quotesingle.1"/>
-    <GlyphID id="335" name="quotesingle.2"/>
-    <GlyphID id="336" name="r.0"/>
-    <GlyphID id="337" name="r.1"/>
-    <GlyphID id="338" name="r.2"/>
-    <GlyphID id="339" name="s.0"/>
-    <GlyphID id="340" name="s.1"/>
-    <GlyphID id="341" name="s.2"/>
-    <GlyphID id="342" name="s.3"/>
-    <GlyphID id="343" name="semicolon.0"/>
-    <GlyphID id="344" name="semicolon.1"/>
-    <GlyphID id="345" name="semicolon.2"/>
-    <GlyphID id="346" name="seven.0"/>
-    <GlyphID id="347" name="seven.1"/>
-    <GlyphID id="348" name="seven.2"/>
-    <GlyphID id="349" name="six.0"/>
-    <GlyphID id="350" name="six.1"/>
-    <GlyphID id="351" name="six.2"/>
-    <GlyphID id="352" name="six.3"/>
-    <GlyphID id="353" name="slash.0"/>
-    <GlyphID id="354" name="slash.1"/>
-    <GlyphID id="355" name="slash.2"/>
-    <GlyphID id="356" name="t.0"/>
-    <GlyphID id="357" name="t.1"/>
-    <GlyphID id="358" name="t.2"/>
-    <GlyphID id="359" name="three.0"/>
-    <GlyphID id="360" name="three.1"/>
-    <GlyphID id="361" name="three.2"/>
-    <GlyphID id="362" name="three.3"/>
-    <GlyphID id="363" name="two.0"/>
-    <GlyphID id="364" name="two.1"/>
-    <GlyphID id="365" name="two.2"/>
-    <GlyphID id="366" name="two.3"/>
-    <GlyphID id="367" name="u.0"/>
-    <GlyphID id="368" name="u1F64F.0"/>
-    <GlyphID id="369" name="u1F64F.1"/>
-    <GlyphID id="370" name="u1F64F.2"/>
-    <GlyphID id="371" name="u1F64F.3"/>
-    <GlyphID id="372" name="underscore.0"/>
-    <GlyphID id="373" name="uniE366.0"/>
-    <GlyphID id="374" name="uniE366.1"/>
-    <GlyphID id="375" name="uniE366.2"/>
-    <GlyphID id="376" name="uniE367.0"/>
-    <GlyphID id="377" name="uniE367.1"/>
-    <GlyphID id="378" name="uniE367.2"/>
-    <GlyphID id="379" name="uniE367.3"/>
-    <GlyphID id="380" name="uniE368.0"/>
-    <GlyphID id="381" name="uniE368.1"/>
-    <GlyphID id="382" name="uniE368.2"/>
-    <GlyphID id="383" name="uniE368.3"/>
-    <GlyphID id="384" name="v.0"/>
-    <GlyphID id="385" name="v.1"/>
-    <GlyphID id="386" name="v.2"/>
-    <GlyphID id="387" name="w.0"/>
-    <GlyphID id="388" name="w.1"/>
-    <GlyphID id="389" name="w.2"/>
-    <GlyphID id="390" name="x.0"/>
-    <GlyphID id="391" name="x.1"/>
-    <GlyphID id="392" name="x.2"/>
-    <GlyphID id="393" name="x.3"/>
-    <GlyphID id="394" name="y.0"/>
-    <GlyphID id="395" name="y.1"/>
-    <GlyphID id="396" name="y.2"/>
-    <GlyphID id="397" name="z.0"/>
-    <GlyphID id="398" name="z.1"/>
-    <GlyphID id="399" name="z.2"/>
-    <GlyphID id="400" name="zero.0"/>
-    <GlyphID id="401" name="zero.1"/>
-    <GlyphID id="402" name="zero.2"/>
-    <GlyphID id="403" name="zero.3"/>
+    <GlyphID id="101" name="uniE369"/>
+    <GlyphID id="102" name="u1F64F"/>
+    <GlyphID id="103" name="A.0"/>
+    <GlyphID id="104" name="A.1"/>
+    <GlyphID id="105" name="A.2"/>
+    <GlyphID id="106" name="B.0"/>
+    <GlyphID id="107" name="B.1"/>
+    <GlyphID id="108" name="B.2"/>
+    <GlyphID id="109" name="C.0"/>
+    <GlyphID id="110" name="C.1"/>
+    <GlyphID id="111" name="C.2"/>
+    <GlyphID id="112" name="D.0"/>
+    <GlyphID id="113" name="D.1"/>
+    <GlyphID id="114" name="D.2"/>
+    <GlyphID id="115" name="E.0"/>
+    <GlyphID id="116" name="E.1"/>
+    <GlyphID id="117" name="E.2"/>
+    <GlyphID id="118" name="F.0"/>
+    <GlyphID id="119" name="F.1"/>
+    <GlyphID id="120" name="F.2"/>
+    <GlyphID id="121" name="G.0"/>
+    <GlyphID id="122" name="G.1"/>
+    <GlyphID id="123" name="G.2"/>
+    <GlyphID id="124" name="H.0"/>
+    <GlyphID id="125" name="H.1"/>
+    <GlyphID id="126" name="H.2"/>
+    <GlyphID id="127" name="J.0"/>
+    <GlyphID id="128" name="J.1"/>
+    <GlyphID id="129" name="J.2"/>
+    <GlyphID id="130" name="K.0"/>
+    <GlyphID id="131" name="K.1"/>
+    <GlyphID id="132" name="K.2"/>
+    <GlyphID id="133" name="L.0"/>
+    <GlyphID id="134" name="L.1"/>
+    <GlyphID id="135" name="L.2"/>
+    <GlyphID id="136" name="M.0"/>
+    <GlyphID id="137" name="M.1"/>
+    <GlyphID id="138" name="M.2"/>
+    <GlyphID id="139" name="N.0"/>
+    <GlyphID id="140" name="N.1"/>
+    <GlyphID id="141" name="N.2"/>
+    <GlyphID id="142" name="O.0"/>
+    <GlyphID id="143" name="O.1"/>
+    <GlyphID id="144" name="O.2"/>
+    <GlyphID id="145" name="P.0"/>
+    <GlyphID id="146" name="P.1"/>
+    <GlyphID id="147" name="P.2"/>
+    <GlyphID id="148" name="Q.0"/>
+    <GlyphID id="149" name="Q.1"/>
+    <GlyphID id="150" name="Q.2"/>
+    <GlyphID id="151" name="R.0"/>
+    <GlyphID id="152" name="R.1"/>
+    <GlyphID id="153" name="R.2"/>
+    <GlyphID id="154" name="S.0"/>
+    <GlyphID id="155" name="S.1"/>
+    <GlyphID id="156" name="S.2"/>
+    <GlyphID id="157" name="T.0"/>
+    <GlyphID id="158" name="T.1"/>
+    <GlyphID id="159" name="T.2"/>
+    <GlyphID id="160" name="T.3"/>
+    <GlyphID id="161" name="U.0"/>
+    <GlyphID id="162" name="U.1"/>
+    <GlyphID id="163" name="U.2"/>
+    <GlyphID id="164" name="V.0"/>
+    <GlyphID id="165" name="V.1"/>
+    <GlyphID id="166" name="V.2"/>
+    <GlyphID id="167" name="W.0"/>
+    <GlyphID id="168" name="W.1"/>
+    <GlyphID id="169" name="W.2"/>
+    <GlyphID id="170" name="W.3"/>
+    <GlyphID id="171" name="X.0"/>
+    <GlyphID id="172" name="X.1"/>
+    <GlyphID id="173" name="X.2"/>
+    <GlyphID id="174" name="X.3"/>
+    <GlyphID id="175" name="Y.0"/>
+    <GlyphID id="176" name="Y.1"/>
+    <GlyphID id="177" name="Y.2"/>
+    <GlyphID id="178" name="Z.0"/>
+    <GlyphID id="179" name="Z.1"/>
+    <GlyphID id="180" name="Z.2"/>
+    <GlyphID id="181" name="a.0"/>
+    <GlyphID id="182" name="a.1"/>
+    <GlyphID id="183" name="a.2"/>
+    <GlyphID id="184" name="ampersand.0"/>
+    <GlyphID id="185" name="ampersand.1"/>
+    <GlyphID id="186" name="ampersand.2"/>
+    <GlyphID id="187" name="asciicircum.0"/>
+    <GlyphID id="188" name="asciicircum.1"/>
+    <GlyphID id="189" name="asciicircum.2"/>
+    <GlyphID id="190" name="asciitilde.0"/>
+    <GlyphID id="191" name="asciitilde.1"/>
+    <GlyphID id="192" name="asciitilde.2"/>
+    <GlyphID id="193" name="asterisk.0"/>
+    <GlyphID id="194" name="asterisk.1"/>
+    <GlyphID id="195" name="asterisk.2"/>
+    <GlyphID id="196" name="at.0"/>
+    <GlyphID id="197" name="at.1"/>
+    <GlyphID id="198" name="at.2"/>
+    <GlyphID id="199" name="at.3"/>
+    <GlyphID id="200" name="b.0"/>
+    <GlyphID id="201" name="b.1"/>
+    <GlyphID id="202" name="b.2"/>
+    <GlyphID id="203" name="backslash.0"/>
+    <GlyphID id="204" name="backslash.1"/>
+    <GlyphID id="205" name="backslash.2"/>
+    <GlyphID id="206" name="bar.0"/>
+    <GlyphID id="207" name="bar.1"/>
+    <GlyphID id="208" name="bar.2"/>
+    <GlyphID id="209" name="braceleft.0"/>
+    <GlyphID id="210" name="braceleft.1"/>
+    <GlyphID id="211" name="braceleft.2"/>
+    <GlyphID id="212" name="braceright.0"/>
+    <GlyphID id="213" name="braceright.1"/>
+    <GlyphID id="214" name="braceright.2"/>
+    <GlyphID id="215" name="bracketleft.0"/>
+    <GlyphID id="216" name="bracketleft.1"/>
+    <GlyphID id="217" name="bracketleft.2"/>
+    <GlyphID id="218" name="bracketright.0"/>
+    <GlyphID id="219" name="bracketright.1"/>
+    <GlyphID id="220" name="bracketright.2"/>
+    <GlyphID id="221" name="c.0"/>
+    <GlyphID id="222" name="c.1"/>
+    <GlyphID id="223" name="c.2"/>
+    <GlyphID id="224" name="colon.0"/>
+    <GlyphID id="225" name="colon.1"/>
+    <GlyphID id="226" name="colon.2"/>
+    <GlyphID id="227" name="comma.0"/>
+    <GlyphID id="228" name="comma.1"/>
+    <GlyphID id="229" name="comma.2"/>
+    <GlyphID id="230" name="d.0"/>
+    <GlyphID id="231" name="d.1"/>
+    <GlyphID id="232" name="d.2"/>
+    <GlyphID id="233" name="dollar.0"/>
+    <GlyphID id="234" name="dollar.1"/>
+    <GlyphID id="235" name="dollar.2"/>
+    <GlyphID id="236" name="dollar.3"/>
+    <GlyphID id="237" name="e.0"/>
+    <GlyphID id="238" name="e.1"/>
+    <GlyphID id="239" name="e.2"/>
+    <GlyphID id="240" name="e.3"/>
+    <GlyphID id="241" name="eight.0"/>
+    <GlyphID id="242" name="eight.1"/>
+    <GlyphID id="243" name="eight.2"/>
+    <GlyphID id="244" name="eight.3"/>
+    <GlyphID id="245" name="equal.0"/>
+    <GlyphID id="246" name="equal.1"/>
+    <GlyphID id="247" name="equal.2"/>
+    <GlyphID id="248" name="exclam.0"/>
+    <GlyphID id="249" name="exclam.1"/>
+    <GlyphID id="250" name="exclam.2"/>
+    <GlyphID id="251" name="f.0"/>
+    <GlyphID id="252" name="f.1"/>
+    <GlyphID id="253" name="f.2"/>
+    <GlyphID id="254" name="five.0"/>
+    <GlyphID id="255" name="five.1"/>
+    <GlyphID id="256" name="five.2"/>
+    <GlyphID id="257" name="four.0"/>
+    <GlyphID id="258" name="four.1"/>
+    <GlyphID id="259" name="four.2"/>
+    <GlyphID id="260" name="g.0"/>
+    <GlyphID id="261" name="g.1"/>
+    <GlyphID id="262" name="g.2"/>
+    <GlyphID id="263" name="g.3"/>
+    <GlyphID id="264" name="grave.0"/>
+    <GlyphID id="265" name="grave.1"/>
+    <GlyphID id="266" name="grave.2"/>
+    <GlyphID id="267" name="greater.0"/>
+    <GlyphID id="268" name="greater.1"/>
+    <GlyphID id="269" name="greater.2"/>
+    <GlyphID id="270" name="h.0"/>
+    <GlyphID id="271" name="h.1"/>
+    <GlyphID id="272" name="h.2"/>
+    <GlyphID id="273" name="hyphen.0"/>
+    <GlyphID id="274" name="hyphen.1"/>
+    <GlyphID id="275" name="i.0"/>
+    <GlyphID id="276" name="i.1"/>
+    <GlyphID id="277" name="i.2"/>
+    <GlyphID id="278" name="j.0"/>
+    <GlyphID id="279" name="j.1"/>
+    <GlyphID id="280" name="j.2"/>
+    <GlyphID id="281" name="k.0"/>
+    <GlyphID id="282" name="k.1"/>
+    <GlyphID id="283" name="k.2"/>
+    <GlyphID id="284" name="l.0"/>
+    <GlyphID id="285" name="l.1"/>
+    <GlyphID id="286" name="l.2"/>
+    <GlyphID id="287" name="less.0"/>
+    <GlyphID id="288" name="less.1"/>
+    <GlyphID id="289" name="less.2"/>
+    <GlyphID id="290" name="m.0"/>
+    <GlyphID id="291" name="m.1"/>
+    <GlyphID id="292" name="m.2"/>
+    <GlyphID id="293" name="n.0"/>
+    <GlyphID id="294" name="n.1"/>
+    <GlyphID id="295" name="n.2"/>
+    <GlyphID id="296" name="nine.0"/>
+    <GlyphID id="297" name="nine.1"/>
+    <GlyphID id="298" name="numbersign.0"/>
+    <GlyphID id="299" name="numbersign.1"/>
+    <GlyphID id="300" name="numbersign.2"/>
+    <GlyphID id="301" name="o.0"/>
+    <GlyphID id="302" name="o.1"/>
+    <GlyphID id="303" name="o.2"/>
+    <GlyphID id="304" name="o.3"/>
+    <GlyphID id="305" name="one.0"/>
+    <GlyphID id="306" name="one.1"/>
+    <GlyphID id="307" name="p.0"/>
+    <GlyphID id="308" name="p.1"/>
+    <GlyphID id="309" name="p.2"/>
+    <GlyphID id="310" name="parenleft.0"/>
+    <GlyphID id="311" name="parenleft.1"/>
+    <GlyphID id="312" name="parenleft.2"/>
+    <GlyphID id="313" name="parenright.0"/>
+    <GlyphID id="314" name="parenright.1"/>
+    <GlyphID id="315" name="parenright.2"/>
+    <GlyphID id="316" name="percent.0"/>
+    <GlyphID id="317" name="percent.1"/>
+    <GlyphID id="318" name="percent.2"/>
+    <GlyphID id="319" name="period.0"/>
+    <GlyphID id="320" name="period.1"/>
+    <GlyphID id="321" name="plus.0"/>
+    <GlyphID id="322" name="plus.1"/>
+    <GlyphID id="323" name="plus.2"/>
+    <GlyphID id="324" name="plus.3"/>
+    <GlyphID id="325" name="q.0"/>
+    <GlyphID id="326" name="q.1"/>
+    <GlyphID id="327" name="q.2"/>
+    <GlyphID id="328" name="question.0"/>
+    <GlyphID id="329" name="question.1"/>
+    <GlyphID id="330" name="question.2"/>
+    <GlyphID id="331" name="quotedbl.0"/>
+    <GlyphID id="332" name="quotedbl.1"/>
+    <GlyphID id="333" name="quotedbl.2"/>
+    <GlyphID id="334" name="quotesingle.0"/>
+    <GlyphID id="335" name="quotesingle.1"/>
+    <GlyphID id="336" name="quotesingle.2"/>
+    <GlyphID id="337" name="r.0"/>
+    <GlyphID id="338" name="r.1"/>
+    <GlyphID id="339" name="r.2"/>
+    <GlyphID id="340" name="s.0"/>
+    <GlyphID id="341" name="s.1"/>
+    <GlyphID id="342" name="s.2"/>
+    <GlyphID id="343" name="s.3"/>
+    <GlyphID id="344" name="semicolon.0"/>
+    <GlyphID id="345" name="semicolon.1"/>
+    <GlyphID id="346" name="semicolon.2"/>
+    <GlyphID id="347" name="seven.0"/>
+    <GlyphID id="348" name="seven.1"/>
+    <GlyphID id="349" name="seven.2"/>
+    <GlyphID id="350" name="six.0"/>
+    <GlyphID id="351" name="six.1"/>
+    <GlyphID id="352" name="six.2"/>
+    <GlyphID id="353" name="six.3"/>
+    <GlyphID id="354" name="slash.0"/>
+    <GlyphID id="355" name="slash.1"/>
+    <GlyphID id="356" name="slash.2"/>
+    <GlyphID id="357" name="t.0"/>
+    <GlyphID id="358" name="t.1"/>
+    <GlyphID id="359" name="t.2"/>
+    <GlyphID id="360" name="three.0"/>
+    <GlyphID id="361" name="three.1"/>
+    <GlyphID id="362" name="three.2"/>
+    <GlyphID id="363" name="three.3"/>
+    <GlyphID id="364" name="two.0"/>
+    <GlyphID id="365" name="two.1"/>
+    <GlyphID id="366" name="two.2"/>
+    <GlyphID id="367" name="two.3"/>
+    <GlyphID id="368" name="u.0"/>
+    <GlyphID id="369" name="u1F64F.0"/>
+    <GlyphID id="370" name="u1F64F.1"/>
+    <GlyphID id="371" name="u1F64F.2"/>
+    <GlyphID id="372" name="u1F64F.3"/>
+    <GlyphID id="373" name="underscore.0"/>
+    <GlyphID id="374" name="uniE366.0"/>
+    <GlyphID id="375" name="uniE366.1"/>
+    <GlyphID id="376" name="uniE366.2"/>
+    <GlyphID id="377" name="uniE367.0"/>
+    <GlyphID id="378" name="uniE367.1"/>
+    <GlyphID id="379" name="uniE367.2"/>
+    <GlyphID id="380" name="uniE367.3"/>
+    <GlyphID id="381" name="uniE368.0"/>
+    <GlyphID id="382" name="uniE368.1"/>
+    <GlyphID id="383" name="uniE368.2"/>
+    <GlyphID id="384" name="uniE368.3"/>
+    <GlyphID id="385" name="uniE369.0"/>
+    <GlyphID id="386" name="uniE369.1"/>
+    <GlyphID id="387" name="uniE369.2"/>
+    <GlyphID id="388" name="uniE369.3"/>
+    <GlyphID id="389" name="v.0"/>
+    <GlyphID id="390" name="v.1"/>
+    <GlyphID id="391" name="v.2"/>
+    <GlyphID id="392" name="w.0"/>
+    <GlyphID id="393" name="w.1"/>
+    <GlyphID id="394" name="w.2"/>
+    <GlyphID id="395" name="x.0"/>
+    <GlyphID id="396" name="x.1"/>
+    <GlyphID id="397" name="x.2"/>
+    <GlyphID id="398" name="x.3"/>
+    <GlyphID id="399" name="y.0"/>
+    <GlyphID id="400" name="y.1"/>
+    <GlyphID id="401" name="y.2"/>
+    <GlyphID id="402" name="z.0"/>
+    <GlyphID id="403" name="z.1"/>
+    <GlyphID id="404" name="z.2"/>
+    <GlyphID id="405" name="zero.0"/>
+    <GlyphID id="406" name="zero.1"/>
+    <GlyphID id="407" name="zero.2"/>
+    <GlyphID id="408" name="zero.3"/>
   </GlyphOrder>
 
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="0.00099"/>
-    <checkSumAdjustment value="0x83642a25"/>
+    <checkSumAdjustment value="0x4edc6b1"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00001001"/>
     <unitsPerEm value="1024"/>
     <created value="Fri Nov 29 10:11:58 2024"/>
-    <modified value="Mon Dec  2 16:46:18 2024"/>
+    <modified value="Tue Dec  3 10:09:07 2024"/>
     <xMin value="-22"/>
     <yMin value="-325"/>
-    <xMax value="1103"/>
+    <xMax value="1410"/>
     <yMax value="1038"/>
     <macStyle value="00000000 00000000"/>
     <lowestRecPPEM value="8"/>
@@ -435,10 +440,10 @@
     <ascent value="839"/>
     <descent value="-210"/>
     <lineGap value="0"/>
-    <advanceWidthMax value="1052"/>
+    <advanceWidthMax value="1458"/>
     <minLeftSideBearing value="-22"/>
     <minRightSideBearing value="-141"/>
-    <xMaxExtent value="1103"/>
+    <xMaxExtent value="1410"/>
     <caretSlopeRise value="1"/>
     <caretSlopeRun value="0"/>
     <caretOffset value="0"/>
@@ -447,15 +452,15 @@
     <reserved2 value="0"/>
     <reserved3 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfHMetrics value="401"/>
+    <numberOfHMetrics value="406"/>
   </hhea>
 
   <maxp>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="0x10000"/>
-    <numGlyphs value="404"/>
+    <numGlyphs value="409"/>
     <maxPoints value="515"/>
-    <maxContours value="11"/>
+    <maxContours value="24"/>
     <maxCompositePoints value="0"/>
     <maxCompositeContours value="0"/>
     <maxZones value="2"/>
@@ -892,10 +897,15 @@
     <mtx name="uniE367.2" width="1024" lsb="38"/>
     <mtx name="uniE367.3" width="1024" lsb="35"/>
     <mtx name="uniE368" width="1024" lsb="220"/>
-    <mtx name="uniE368.0" width="1024" lsb="259"/>
+    <mtx name="uniE368.0" width="1024" lsb="332"/>
     <mtx name="uniE368.1" width="1024" lsb="220"/>
     <mtx name="uniE368.2" width="1024" lsb="245"/>
     <mtx name="uniE368.3" width="1024" lsb="242"/>
+    <mtx name="uniE369" width="1458" lsb="50"/>
+    <mtx name="uniE369.0" width="1458" lsb="47"/>
+    <mtx name="uniE369.1" width="1458" lsb="828"/>
+    <mtx name="uniE369.2" width="1458" lsb="130"/>
+    <mtx name="uniE369.3" width="1458" lsb="50"/>
     <mtx name="v" width="652" lsb="50"/>
     <mtx name="v.0" width="652" lsb="85"/>
     <mtx name="v.1" width="652" lsb="116"/>
@@ -1025,6 +1035,7 @@
       <map code="0xe366" name="uniE366"/><!-- ???? -->
       <map code="0xe367" name="uniE367"/><!-- ???? -->
       <map code="0xe368" name="uniE368"/><!-- ???? -->
+      <map code="0xe369" name="uniE369"/><!-- ???? -->
     </cmap_format_4>
     <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="52" language="0" nGroups="3">
       <map code="0x20" name="space"/><!-- SPACE -->
@@ -1125,6 +1136,7 @@
       <map code="0xe366" name="uniE366"/><!-- ???? -->
       <map code="0xe367" name="uniE367"/><!-- ???? -->
       <map code="0xe368" name="uniE368"/><!-- ???? -->
+      <map code="0xe369" name="uniE369"/><!-- ???? -->
       <map code="0x1f64f" name="u1F64F"/><!-- PERSON WITH FOLDED HANDS -->
     </cmap_format_12>
     <cmap_format_0 platformID="1" platEncID="0" language="0">
@@ -1328,6 +1340,7 @@
       <map code="0xe366" name="uniE366"/><!-- ???? -->
       <map code="0xe367" name="uniE367"/><!-- ???? -->
       <map code="0xe368" name="uniE368"/><!-- ???? -->
+      <map code="0xe369" name="uniE369"/><!-- ???? -->
     </cmap_format_4>
     <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="52" language="0" nGroups="3">
       <map code="0x20" name="space"/><!-- SPACE -->
@@ -1428,6 +1441,7 @@
       <map code="0xe366" name="uniE366"/><!-- ???? -->
       <map code="0xe367" name="uniE367"/><!-- ???? -->
       <map code="0xe368" name="uniE368"/><!-- ???? -->
+      <map code="0xe369" name="uniE369"/><!-- ???? -->
       <map code="0x1f64f" name="u1F64F"/><!-- PERSON WITH FOLDED HANDS -->
     </cmap_format_12>
   </cmap>
@@ -19056,7 +19070,7 @@
       <instructions/>
     </TTGlyph>
 
-    <TTGlyph name="uniE368.0" xMin="259" yMin="30" xMax="829" yMax="249">
+    <TTGlyph name="uniE368.0" xMin="332" yMin="30" xMax="724" yMax="62">
       <contour>
         <pt x="528" y="62" on="1"/>
         <pt x="448" y="61" on="0"/>
@@ -19074,24 +19088,6 @@
         <pt x="724" y="53" on="0"/>
         <pt x="666" y="57" on="1"/>
         <pt x="608" y="61" on="0"/>
-      </contour>
-      <contour>
-        <pt x="829" y="247" on="1"/>
-        <pt x="829" y="226" on="0"/>
-        <pt x="746" y="212" on="1"/>
-        <pt x="663" y="197" on="0"/>
-        <pt x="544" y="197" on="1"/>
-        <pt x="426" y="197" on="0"/>
-        <pt x="343" y="212" on="1"/>
-        <pt x="259" y="227" on="0"/>
-        <pt x="259" y="249" on="1"/>
-        <pt x="259" y="175" on="0"/>
-        <pt x="349" y="121" on="1"/>
-        <pt x="438" y="66" on="0"/>
-        <pt x="553" y="66" on="1"/>
-        <pt x="667" y="66" on="0"/>
-        <pt x="748" y="119" on="1"/>
-        <pt x="829" y="172" on="0"/>
       </contour>
       <instructions/>
     </TTGlyph>
@@ -19565,6 +19561,759 @@
         <pt x="332" y="480" on="0"/>
         <pt x="332" y="519" on="1"/>
         <pt x="332" y="558" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE369" xMin="50" yMin="-14" xMax="1408" yMax="836">
+      <contour>
+        <pt x="67" y="713" on="1"/>
+        <pt x="1395" y="713" on="1"/>
+        <pt x="1400" y="713" on="0"/>
+        <pt x="1408" y="738" on="1"/>
+        <pt x="1408" y="422" on="1"/>
+        <pt x="1408" y="416" on="0"/>
+        <pt x="1399" y="407" on="0"/>
+        <pt x="1393" y="407" on="1"/>
+        <pt x="65" y="407" on="1"/>
+        <pt x="59" y="407" on="0"/>
+        <pt x="50" y="416" on="0"/>
+        <pt x="50" y="422" on="1"/>
+        <pt x="50" y="738" on="1"/>
+        <pt x="50" y="741" on="0"/>
+        <pt x="52" y="737" on="1"/>
+        <pt x="63" y="713" on="0"/>
+      </contour>
+      <contour>
+        <pt x="442" y="718" on="1"/>
+        <pt x="565" y="836" on="0"/>
+        <pt x="731" y="836" on="1"/>
+        <pt x="816" y="836" on="0"/>
+        <pt x="969" y="772" on="0"/>
+        <pt x="1027" y="714" on="1"/>
+        <pt x="921" y="712" on="0"/>
+        <pt x="661" y="714" on="0"/>
+        <pt x="552" y="716" on="1"/>
+      </contour>
+      <contour>
+        <pt x="1157" y="406" on="1"/>
+        <pt x="1157" y="232" on="0"/>
+        <pt x="911" y="-14" on="0"/>
+        <pt x="563" y="-14" on="0"/>
+        <pt x="317" y="232" on="0"/>
+        <pt x="317" y="406" on="1"/>
+      </contour>
+      <contour>
+        <pt x="506" y="260" on="0"/>
+        <pt x="506" y="142" on="0"/>
+        <pt x="591" y="57" on="0"/>
+        <pt x="709" y="57" on="0"/>
+        <pt x="794" y="142" on="0"/>
+        <pt x="794" y="260" on="0"/>
+        <pt x="709" y="345" on="0"/>
+        <pt x="591" y="345" on="0"/>
+      </contour>
+      <contour>
+        <pt x="821" y="238" on="0"/>
+        <pt x="821" y="152" on="0"/>
+        <pt x="876" y="92" on="0"/>
+        <pt x="952" y="92" on="0"/>
+        <pt x="1007" y="152" on="0"/>
+        <pt x="1007" y="238" on="0"/>
+        <pt x="952" y="298" on="0"/>
+        <pt x="876" y="298" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE369.0" xMin="47" yMin="-16" xMax="1410" yMax="838">
+      <contour>
+        <pt x="67" y="710" on="1"/>
+        <pt x="745" y="710" on="1"/>
+        <pt x="871" y="709" on="0"/>
+        <pt x="973" y="710" on="1"/>
+        <pt x="1395" y="710" on="1"/>
+        <pt x="1401" y="711" on="0"/>
+        <pt x="1406" y="723" on="1"/>
+        <pt x="1406" y="422" on="1"/>
+        <pt x="1406" y="417" on="0"/>
+        <pt x="1402" y="414" on="1"/>
+        <pt x="1398" y="410" on="0"/>
+        <pt x="1393" y="410" on="1"/>
+        <pt x="65" y="410" on="1"/>
+        <pt x="60" y="410" on="0"/>
+        <pt x="56" y="414" on="1"/>
+        <pt x="52" y="417" on="0"/>
+        <pt x="52" y="422" on="1"/>
+        <pt x="52" y="730" on="1"/>
+        <pt x="62" y="710" on="0"/>
+      </contour>
+      <contour>
+        <pt x="731" y="834" on="1"/>
+        <pt x="816" y="834" on="0"/>
+        <pt x="891" y="803" on="1"/>
+        <pt x="965" y="771" on="0"/>
+        <pt x="1021" y="716" on="1"/>
+        <pt x="997" y="716" on="0"/>
+        <pt x="969" y="716" on="1"/>
+        <pt x="750" y="716" on="1"/>
+        <pt x="637" y="717" on="0"/>
+        <pt x="448" y="720" on="1"/>
+        <pt x="569" y="834" on="0"/>
+      </contour>
+      <contour>
+        <pt x="731" y="838" on="1"/>
+        <pt x="564" y="838" on="0"/>
+        <pt x="440" y="720" on="1"/>
+        <pt x="440" y="719" on="0"/>
+        <pt x="440" y="718" on="1"/>
+        <pt x="440" y="716" on="0"/>
+        <pt x="442" y="716" on="1"/>
+        <pt x="67" y="716" on="1"/>
+        <pt x="54" y="738" on="1"/>
+        <pt x="52" y="742" on="0"/>
+        <pt x="50" y="742" on="1"/>
+        <pt x="47" y="742" on="0"/>
+        <pt x="47" y="739" on="1"/>
+        <pt x="47" y="739" on="0"/>
+        <pt x="48" y="738" on="1"/>
+        <pt x="48" y="422" on="1"/>
+        <pt x="48" y="415" on="0"/>
+        <pt x="53" y="410" on="1"/>
+        <pt x="58" y="404" on="0"/>
+        <pt x="65" y="404" on="1"/>
+        <pt x="315" y="404" on="1"/>
+        <pt x="315" y="230" on="0"/>
+        <pt x="438" y="107" on="1"/>
+        <pt x="562" y="-16" on="0"/>
+        <pt x="737" y="-16" on="1"/>
+        <pt x="912" y="-16" on="0"/>
+        <pt x="1036" y="107" on="1"/>
+        <pt x="1159" y="230" on="0"/>
+        <pt x="1159" y="404" on="1"/>
+        <pt x="1393" y="404" on="1"/>
+        <pt x="1400" y="404" on="0"/>
+        <pt x="1405" y="410" on="1"/>
+        <pt x="1410" y="415" on="0"/>
+        <pt x="1410" y="422" on="1"/>
+        <pt x="1410" y="738" on="1"/>
+        <pt x="1410" y="740" on="0"/>
+        <pt x="1408" y="740" on="1"/>
+        <pt x="1406" y="740" on="0"/>
+        <pt x="1406" y="739" on="1"/>
+        <pt x="1399" y="717" on="0"/>
+        <pt x="1395" y="716" on="1"/>
+        <pt x="1029" y="716" on="1"/>
+        <pt x="971" y="774" on="0"/>
+        <pt x="894" y="806" on="1"/>
+        <pt x="817" y="838" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1154" y="404" on="1"/>
+        <pt x="1154" y="232" on="0"/>
+        <pt x="1032" y="110" on="1"/>
+        <pt x="910" y="-12" on="0"/>
+        <pt x="737" y="-12" on="1"/>
+        <pt x="564" y="-12" on="0"/>
+        <pt x="442" y="110" on="1"/>
+        <pt x="320" y="232" on="0"/>
+        <pt x="320" y="404" on="1"/>
+      </contour>
+      <contour>
+        <pt x="550" y="301" on="1"/>
+        <pt x="592" y="342" on="0"/>
+        <pt x="650" y="342" on="1"/>
+        <pt x="708" y="342" on="0"/>
+        <pt x="750" y="301" on="1"/>
+        <pt x="792" y="259" on="0"/>
+        <pt x="792" y="201" on="1"/>
+        <pt x="792" y="143" on="0"/>
+        <pt x="750" y="101" on="1"/>
+        <pt x="708" y="59" on="0"/>
+        <pt x="650" y="59" on="1"/>
+        <pt x="592" y="59" on="0"/>
+        <pt x="550" y="101" on="1"/>
+        <pt x="508" y="143" on="0"/>
+        <pt x="508" y="201" on="1"/>
+        <pt x="508" y="259" on="0"/>
+      </contour>
+      <contour>
+        <pt x="547" y="98" on="1"/>
+        <pt x="590" y="54" on="0"/>
+        <pt x="650" y="54" on="1"/>
+        <pt x="710" y="54" on="0"/>
+        <pt x="753" y="98" on="1"/>
+        <pt x="796" y="141" on="0"/>
+        <pt x="796" y="201" on="1"/>
+        <pt x="796" y="261" on="0"/>
+        <pt x="753" y="304" on="1"/>
+        <pt x="710" y="347" on="0"/>
+        <pt x="650" y="347" on="1"/>
+        <pt x="590" y="347" on="0"/>
+        <pt x="547" y="304" on="1"/>
+        <pt x="504" y="261" on="0"/>
+        <pt x="504" y="201" on="1"/>
+        <pt x="504" y="141" on="0"/>
+      </contour>
+      <contour>
+        <pt x="851" y="267" on="1"/>
+        <pt x="877" y="296" on="0"/>
+        <pt x="914" y="296" on="1"/>
+        <pt x="951" y="296" on="0"/>
+        <pt x="978" y="267" on="1"/>
+        <pt x="1004" y="237" on="0"/>
+        <pt x="1004" y="195" on="1"/>
+        <pt x="1004" y="153" on="0"/>
+        <pt x="978" y="124" on="1"/>
+        <pt x="951" y="94" on="0"/>
+        <pt x="914" y="94" on="1"/>
+        <pt x="877" y="94" on="0"/>
+        <pt x="851" y="124" on="1"/>
+        <pt x="824" y="153" on="0"/>
+        <pt x="824" y="195" on="1"/>
+        <pt x="824" y="237" on="0"/>
+      </contour>
+      <contour>
+        <pt x="847" y="121" on="1"/>
+        <pt x="875" y="90" on="0"/>
+        <pt x="914" y="90" on="1"/>
+        <pt x="953" y="90" on="0"/>
+        <pt x="982" y="121" on="1"/>
+        <pt x="1010" y="151" on="0"/>
+        <pt x="1010" y="195" on="1"/>
+        <pt x="1010" y="239" on="0"/>
+        <pt x="982" y="270" on="1"/>
+        <pt x="953" y="300" on="0"/>
+        <pt x="914" y="300" on="1"/>
+        <pt x="875" y="300" on="0"/>
+        <pt x="847" y="270" on="1"/>
+        <pt x="818" y="239" on="0"/>
+        <pt x="818" y="195" on="1"/>
+        <pt x="818" y="151" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE369.1" xMin="828" yMin="116" xMax="992" yMax="284">
+      <contour>
+        <pt x="829" y="200" on="1"/>
+        <pt x="828" y="164" on="0"/>
+        <pt x="852" y="140" on="1"/>
+        <pt x="876" y="116" on="0"/>
+        <pt x="910" y="116" on="1"/>
+        <pt x="944" y="116" on="0"/>
+        <pt x="968" y="140" on="1"/>
+        <pt x="992" y="164" on="0"/>
+        <pt x="992" y="200" on="1"/>
+        <pt x="992" y="236" on="0"/>
+        <pt x="968" y="260" on="1"/>
+        <pt x="944" y="284" on="0"/>
+        <pt x="910" y="284" on="1"/>
+        <pt x="876" y="284" on="0"/>
+        <pt x="852" y="260" on="1"/>
+        <pt x="828" y="236" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE369.2" xMin="130" yMin="435" xMax="1407" yMax="667">
+      <contour>
+        <pt x="1208" y="586" on="1"/>
+        <pt x="1212" y="581" on="0"/>
+        <pt x="1217" y="581" on="1"/>
+        <pt x="1222" y="581" on="0"/>
+        <pt x="1226" y="586" on="1"/>
+        <pt x="1230" y="591" on="0"/>
+        <pt x="1230" y="598" on="1"/>
+        <pt x="1230" y="605" on="0"/>
+        <pt x="1226" y="610" on="1"/>
+        <pt x="1222" y="615" on="0"/>
+        <pt x="1217" y="615" on="1"/>
+        <pt x="1212" y="615" on="0"/>
+        <pt x="1208" y="610" on="1"/>
+        <pt x="1204" y="605" on="0"/>
+        <pt x="1204" y="598" on="1"/>
+        <pt x="1204" y="591" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1294" y="499" on="1"/>
+        <pt x="1299" y="495" on="0"/>
+        <pt x="1306" y="495" on="1"/>
+        <pt x="1313" y="495" on="0"/>
+        <pt x="1318" y="499" on="1"/>
+        <pt x="1323" y="503" on="0"/>
+        <pt x="1323" y="508" on="1"/>
+        <pt x="1323" y="513" on="0"/>
+        <pt x="1318" y="517" on="1"/>
+        <pt x="1313" y="521" on="0"/>
+        <pt x="1306" y="521" on="1"/>
+        <pt x="1299" y="521" on="0"/>
+        <pt x="1294" y="517" on="1"/>
+        <pt x="1289" y="513" on="0"/>
+        <pt x="1289" y="508" on="1"/>
+        <pt x="1289" y="503" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1371" y="566" on="1"/>
+        <pt x="1377" y="560" on="0"/>
+        <pt x="1386" y="560" on="1"/>
+        <pt x="1395" y="560" on="0"/>
+        <pt x="1401" y="566" on="1"/>
+        <pt x="1407" y="572" on="0"/>
+        <pt x="1407" y="581" on="1"/>
+        <pt x="1407" y="590" on="0"/>
+        <pt x="1401" y="596" on="1"/>
+        <pt x="1395" y="602" on="0"/>
+        <pt x="1386" y="602" on="1"/>
+        <pt x="1377" y="602" on="0"/>
+        <pt x="1371" y="596" on="1"/>
+        <pt x="1365" y="590" on="0"/>
+        <pt x="1365" y="581" on="1"/>
+        <pt x="1365" y="572" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1291" y="631" on="1"/>
+        <pt x="1297" y="625" on="0"/>
+        <pt x="1306" y="625" on="1"/>
+        <pt x="1315" y="625" on="0"/>
+        <pt x="1321" y="631" on="1"/>
+        <pt x="1327" y="637" on="0"/>
+        <pt x="1327" y="646" on="1"/>
+        <pt x="1327" y="655" on="0"/>
+        <pt x="1321" y="661" on="1"/>
+        <pt x="1315" y="667" on="0"/>
+        <pt x="1306" y="667" on="1"/>
+        <pt x="1297" y="667" on="0"/>
+        <pt x="1291" y="661" on="1"/>
+        <pt x="1285" y="655" on="0"/>
+        <pt x="1285" y="646" on="1"/>
+        <pt x="1285" y="637" on="0"/>
+      </contour>
+      <contour>
+        <pt x="908" y="556" on="1"/>
+        <pt x="912" y="551" on="0"/>
+        <pt x="917" y="551" on="1"/>
+        <pt x="922" y="551" on="0"/>
+        <pt x="926" y="556" on="1"/>
+        <pt x="930" y="561" on="0"/>
+        <pt x="930" y="568" on="1"/>
+        <pt x="930" y="575" on="0"/>
+        <pt x="926" y="580" on="1"/>
+        <pt x="922" y="585" on="0"/>
+        <pt x="917" y="585" on="1"/>
+        <pt x="912" y="585" on="0"/>
+        <pt x="908" y="580" on="1"/>
+        <pt x="904" y="575" on="0"/>
+        <pt x="904" y="568" on="1"/>
+        <pt x="904" y="561" on="0"/>
+      </contour>
+      <contour>
+        <pt x="994" y="469" on="1"/>
+        <pt x="999" y="465" on="0"/>
+        <pt x="1006" y="465" on="1"/>
+        <pt x="1013" y="465" on="0"/>
+        <pt x="1018" y="469" on="1"/>
+        <pt x="1023" y="473" on="0"/>
+        <pt x="1023" y="478" on="1"/>
+        <pt x="1023" y="483" on="0"/>
+        <pt x="1018" y="487" on="1"/>
+        <pt x="1013" y="491" on="0"/>
+        <pt x="1006" y="491" on="1"/>
+        <pt x="999" y="491" on="0"/>
+        <pt x="994" y="487" on="1"/>
+        <pt x="989" y="483" on="0"/>
+        <pt x="989" y="478" on="1"/>
+        <pt x="989" y="473" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1071" y="536" on="1"/>
+        <pt x="1077" y="530" on="0"/>
+        <pt x="1086" y="530" on="1"/>
+        <pt x="1095" y="530" on="0"/>
+        <pt x="1101" y="536" on="1"/>
+        <pt x="1107" y="542" on="0"/>
+        <pt x="1107" y="551" on="1"/>
+        <pt x="1107" y="560" on="0"/>
+        <pt x="1101" y="566" on="1"/>
+        <pt x="1095" y="572" on="0"/>
+        <pt x="1086" y="572" on="1"/>
+        <pt x="1077" y="572" on="0"/>
+        <pt x="1071" y="566" on="1"/>
+        <pt x="1065" y="560" on="0"/>
+        <pt x="1065" y="551" on="1"/>
+        <pt x="1065" y="542" on="0"/>
+      </contour>
+      <contour>
+        <pt x="991" y="601" on="1"/>
+        <pt x="997" y="595" on="0"/>
+        <pt x="1006" y="595" on="1"/>
+        <pt x="1015" y="595" on="0"/>
+        <pt x="1021" y="601" on="1"/>
+        <pt x="1027" y="607" on="0"/>
+        <pt x="1027" y="616" on="1"/>
+        <pt x="1027" y="625" on="0"/>
+        <pt x="1021" y="631" on="1"/>
+        <pt x="1015" y="637" on="0"/>
+        <pt x="1006" y="637" on="1"/>
+        <pt x="997" y="637" on="0"/>
+        <pt x="991" y="631" on="1"/>
+        <pt x="985" y="625" on="0"/>
+        <pt x="985" y="616" on="1"/>
+        <pt x="985" y="607" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1016" y="556" on="1"/>
+        <pt x="1020" y="551" on="0"/>
+        <pt x="1025" y="551" on="1"/>
+        <pt x="1030" y="551" on="0"/>
+        <pt x="1034" y="556" on="1"/>
+        <pt x="1038" y="561" on="0"/>
+        <pt x="1038" y="568" on="1"/>
+        <pt x="1038" y="575" on="0"/>
+        <pt x="1034" y="580" on="1"/>
+        <pt x="1030" y="585" on="0"/>
+        <pt x="1025" y="585" on="1"/>
+        <pt x="1020" y="585" on="0"/>
+        <pt x="1016" y="580" on="1"/>
+        <pt x="1012" y="575" on="0"/>
+        <pt x="1012" y="568" on="1"/>
+        <pt x="1012" y="561" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1102" y="469" on="1"/>
+        <pt x="1107" y="465" on="0"/>
+        <pt x="1114" y="465" on="1"/>
+        <pt x="1121" y="465" on="0"/>
+        <pt x="1126" y="469" on="1"/>
+        <pt x="1131" y="473" on="0"/>
+        <pt x="1131" y="478" on="1"/>
+        <pt x="1131" y="483" on="0"/>
+        <pt x="1126" y="487" on="1"/>
+        <pt x="1121" y="491" on="0"/>
+        <pt x="1114" y="491" on="1"/>
+        <pt x="1107" y="491" on="0"/>
+        <pt x="1102" y="487" on="1"/>
+        <pt x="1097" y="483" on="0"/>
+        <pt x="1097" y="478" on="1"/>
+        <pt x="1097" y="473" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1179" y="536" on="1"/>
+        <pt x="1185" y="530" on="0"/>
+        <pt x="1194" y="530" on="1"/>
+        <pt x="1203" y="530" on="0"/>
+        <pt x="1209" y="536" on="1"/>
+        <pt x="1215" y="542" on="0"/>
+        <pt x="1215" y="551" on="1"/>
+        <pt x="1215" y="560" on="0"/>
+        <pt x="1209" y="566" on="1"/>
+        <pt x="1203" y="572" on="0"/>
+        <pt x="1194" y="572" on="1"/>
+        <pt x="1185" y="572" on="0"/>
+        <pt x="1179" y="566" on="1"/>
+        <pt x="1173" y="560" on="0"/>
+        <pt x="1173" y="551" on="1"/>
+        <pt x="1173" y="542" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1099" y="601" on="1"/>
+        <pt x="1105" y="595" on="0"/>
+        <pt x="1114" y="595" on="1"/>
+        <pt x="1123" y="595" on="0"/>
+        <pt x="1129" y="601" on="1"/>
+        <pt x="1135" y="607" on="0"/>
+        <pt x="1135" y="616" on="1"/>
+        <pt x="1135" y="625" on="0"/>
+        <pt x="1129" y="631" on="1"/>
+        <pt x="1123" y="637" on="0"/>
+        <pt x="1114" y="637" on="1"/>
+        <pt x="1105" y="637" on="0"/>
+        <pt x="1099" y="631" on="1"/>
+        <pt x="1093" y="625" on="0"/>
+        <pt x="1093" y="616" on="1"/>
+        <pt x="1093" y="607" on="0"/>
+      </contour>
+      <contour>
+        <pt x="716" y="526" on="1"/>
+        <pt x="720" y="521" on="0"/>
+        <pt x="725" y="521" on="1"/>
+        <pt x="730" y="521" on="0"/>
+        <pt x="734" y="526" on="1"/>
+        <pt x="738" y="531" on="0"/>
+        <pt x="738" y="538" on="1"/>
+        <pt x="738" y="545" on="0"/>
+        <pt x="734" y="550" on="1"/>
+        <pt x="730" y="555" on="0"/>
+        <pt x="725" y="555" on="1"/>
+        <pt x="720" y="555" on="0"/>
+        <pt x="716" y="550" on="1"/>
+        <pt x="712" y="545" on="0"/>
+        <pt x="712" y="538" on="1"/>
+        <pt x="712" y="531" on="0"/>
+      </contour>
+      <contour>
+        <pt x="802" y="439" on="1"/>
+        <pt x="807" y="435" on="0"/>
+        <pt x="814" y="435" on="1"/>
+        <pt x="821" y="435" on="0"/>
+        <pt x="826" y="439" on="1"/>
+        <pt x="831" y="443" on="0"/>
+        <pt x="831" y="448" on="1"/>
+        <pt x="831" y="453" on="0"/>
+        <pt x="826" y="457" on="1"/>
+        <pt x="821" y="461" on="0"/>
+        <pt x="814" y="461" on="1"/>
+        <pt x="807" y="461" on="0"/>
+        <pt x="802" y="457" on="1"/>
+        <pt x="797" y="453" on="0"/>
+        <pt x="797" y="448" on="1"/>
+        <pt x="797" y="443" on="0"/>
+      </contour>
+      <contour>
+        <pt x="879" y="506" on="1"/>
+        <pt x="885" y="500" on="0"/>
+        <pt x="894" y="500" on="1"/>
+        <pt x="903" y="500" on="0"/>
+        <pt x="909" y="506" on="1"/>
+        <pt x="915" y="512" on="0"/>
+        <pt x="915" y="521" on="1"/>
+        <pt x="915" y="530" on="0"/>
+        <pt x="909" y="536" on="1"/>
+        <pt x="903" y="542" on="0"/>
+        <pt x="894" y="542" on="1"/>
+        <pt x="885" y="542" on="0"/>
+        <pt x="879" y="536" on="1"/>
+        <pt x="873" y="530" on="0"/>
+        <pt x="873" y="521" on="1"/>
+        <pt x="873" y="512" on="0"/>
+      </contour>
+      <contour>
+        <pt x="799" y="571" on="1"/>
+        <pt x="805" y="565" on="0"/>
+        <pt x="814" y="565" on="1"/>
+        <pt x="823" y="565" on="0"/>
+        <pt x="829" y="571" on="1"/>
+        <pt x="835" y="577" on="0"/>
+        <pt x="835" y="586" on="1"/>
+        <pt x="835" y="595" on="0"/>
+        <pt x="829" y="601" on="1"/>
+        <pt x="823" y="607" on="0"/>
+        <pt x="814" y="607" on="1"/>
+        <pt x="805" y="607" on="0"/>
+        <pt x="799" y="601" on="1"/>
+        <pt x="793" y="595" on="0"/>
+        <pt x="793" y="586" on="1"/>
+        <pt x="793" y="577" on="0"/>
+      </contour>
+      <contour>
+        <pt x="434" y="586" on="1"/>
+        <pt x="438" y="581" on="0"/>
+        <pt x="443" y="581" on="1"/>
+        <pt x="448" y="581" on="0"/>
+        <pt x="452" y="586" on="1"/>
+        <pt x="456" y="591" on="0"/>
+        <pt x="456" y="598" on="1"/>
+        <pt x="456" y="605" on="0"/>
+        <pt x="452" y="610" on="1"/>
+        <pt x="448" y="615" on="0"/>
+        <pt x="443" y="615" on="1"/>
+        <pt x="438" y="615" on="0"/>
+        <pt x="434" y="610" on="1"/>
+        <pt x="430" y="605" on="0"/>
+        <pt x="430" y="598" on="1"/>
+        <pt x="430" y="591" on="0"/>
+      </contour>
+      <contour>
+        <pt x="520" y="499" on="1"/>
+        <pt x="525" y="495" on="0"/>
+        <pt x="532" y="495" on="1"/>
+        <pt x="539" y="495" on="0"/>
+        <pt x="544" y="499" on="1"/>
+        <pt x="549" y="503" on="0"/>
+        <pt x="549" y="508" on="1"/>
+        <pt x="549" y="513" on="0"/>
+        <pt x="544" y="517" on="1"/>
+        <pt x="539" y="521" on="0"/>
+        <pt x="532" y="521" on="1"/>
+        <pt x="525" y="521" on="0"/>
+        <pt x="520" y="517" on="1"/>
+        <pt x="515" y="513" on="0"/>
+        <pt x="515" y="508" on="1"/>
+        <pt x="515" y="503" on="0"/>
+      </contour>
+      <contour>
+        <pt x="597" y="566" on="1"/>
+        <pt x="603" y="560" on="0"/>
+        <pt x="612" y="560" on="1"/>
+        <pt x="621" y="560" on="0"/>
+        <pt x="627" y="566" on="1"/>
+        <pt x="633" y="572" on="0"/>
+        <pt x="633" y="581" on="1"/>
+        <pt x="633" y="590" on="0"/>
+        <pt x="627" y="596" on="1"/>
+        <pt x="621" y="602" on="0"/>
+        <pt x="612" y="602" on="1"/>
+        <pt x="603" y="602" on="0"/>
+        <pt x="597" y="596" on="1"/>
+        <pt x="591" y="590" on="0"/>
+        <pt x="591" y="581" on="1"/>
+        <pt x="591" y="572" on="0"/>
+      </contour>
+      <contour>
+        <pt x="517" y="631" on="1"/>
+        <pt x="523" y="625" on="0"/>
+        <pt x="532" y="625" on="1"/>
+        <pt x="541" y="625" on="0"/>
+        <pt x="547" y="631" on="1"/>
+        <pt x="553" y="637" on="0"/>
+        <pt x="553" y="646" on="1"/>
+        <pt x="553" y="655" on="0"/>
+        <pt x="547" y="661" on="1"/>
+        <pt x="541" y="667" on="0"/>
+        <pt x="532" y="667" on="1"/>
+        <pt x="523" y="667" on="0"/>
+        <pt x="517" y="661" on="1"/>
+        <pt x="511" y="655" on="0"/>
+        <pt x="511" y="646" on="1"/>
+        <pt x="511" y="637" on="0"/>
+      </contour>
+      <contour>
+        <pt x="134" y="556" on="1"/>
+        <pt x="138" y="551" on="0"/>
+        <pt x="143" y="551" on="1"/>
+        <pt x="148" y="551" on="0"/>
+        <pt x="152" y="556" on="1"/>
+        <pt x="156" y="561" on="0"/>
+        <pt x="156" y="568" on="1"/>
+        <pt x="156" y="575" on="0"/>
+        <pt x="152" y="580" on="1"/>
+        <pt x="148" y="585" on="0"/>
+        <pt x="143" y="585" on="1"/>
+        <pt x="138" y="585" on="0"/>
+        <pt x="134" y="580" on="1"/>
+        <pt x="130" y="575" on="0"/>
+        <pt x="130" y="568" on="1"/>
+        <pt x="130" y="561" on="0"/>
+      </contour>
+      <contour>
+        <pt x="220" y="469" on="1"/>
+        <pt x="225" y="465" on="0"/>
+        <pt x="232" y="465" on="1"/>
+        <pt x="239" y="465" on="0"/>
+        <pt x="244" y="469" on="1"/>
+        <pt x="249" y="473" on="0"/>
+        <pt x="249" y="478" on="1"/>
+        <pt x="249" y="483" on="0"/>
+        <pt x="244" y="487" on="1"/>
+        <pt x="239" y="491" on="0"/>
+        <pt x="232" y="491" on="1"/>
+        <pt x="225" y="491" on="0"/>
+        <pt x="220" y="487" on="1"/>
+        <pt x="215" y="483" on="0"/>
+        <pt x="215" y="478" on="1"/>
+        <pt x="215" y="473" on="0"/>
+      </contour>
+      <contour>
+        <pt x="297" y="536" on="1"/>
+        <pt x="303" y="530" on="0"/>
+        <pt x="312" y="530" on="1"/>
+        <pt x="321" y="530" on="0"/>
+        <pt x="327" y="536" on="1"/>
+        <pt x="333" y="542" on="0"/>
+        <pt x="333" y="551" on="1"/>
+        <pt x="333" y="560" on="0"/>
+        <pt x="327" y="566" on="1"/>
+        <pt x="321" y="572" on="0"/>
+        <pt x="312" y="572" on="1"/>
+        <pt x="303" y="572" on="0"/>
+        <pt x="297" y="566" on="1"/>
+        <pt x="291" y="560" on="0"/>
+        <pt x="291" y="551" on="1"/>
+        <pt x="291" y="542" on="0"/>
+      </contour>
+      <contour>
+        <pt x="217" y="601" on="1"/>
+        <pt x="223" y="595" on="0"/>
+        <pt x="232" y="595" on="1"/>
+        <pt x="241" y="595" on="0"/>
+        <pt x="247" y="601" on="1"/>
+        <pt x="253" y="607" on="0"/>
+        <pt x="253" y="616" on="1"/>
+        <pt x="253" y="625" on="0"/>
+        <pt x="247" y="631" on="1"/>
+        <pt x="241" y="637" on="0"/>
+        <pt x="232" y="637" on="1"/>
+        <pt x="223" y="637" on="0"/>
+        <pt x="217" y="631" on="1"/>
+        <pt x="211" y="625" on="0"/>
+        <pt x="211" y="616" on="1"/>
+        <pt x="211" y="607" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE369.3" xMin="50" yMin="71" xMax="1402" yMax="716">
+      <contour>
+        <pt x="536" y="198" on="1"/>
+        <pt x="536" y="145" on="0"/>
+        <pt x="571" y="108" on="1"/>
+        <pt x="605" y="71" on="0"/>
+        <pt x="655" y="71" on="1"/>
+        <pt x="704" y="71" on="0"/>
+        <pt x="738" y="108" on="1"/>
+        <pt x="771" y="145" on="0"/>
+        <pt x="771" y="198" on="1"/>
+        <pt x="771" y="251" on="0"/>
+        <pt x="737" y="288" on="1"/>
+        <pt x="702" y="325" on="0"/>
+        <pt x="652" y="325" on="1"/>
+        <pt x="603" y="325" on="0"/>
+        <pt x="570" y="288" on="1"/>
+        <pt x="536" y="251" on="0"/>
+      </contour>
+      <contour>
+        <pt x="85" y="716" on="1"/>
+        <pt x="77" y="716" on="0"/>
+        <pt x="64" y="709" on="1"/>
+        <pt x="50" y="701" on="0"/>
+        <pt x="50" y="694" on="1"/>
+        <pt x="50" y="424" on="1"/>
+        <pt x="50" y="418" on="0"/>
+        <pt x="63" y="414" on="1"/>
+        <pt x="75" y="410" on="0"/>
+        <pt x="85" y="410" on="1"/>
+        <pt x="1384" y="410" on="1"/>
+        <pt x="1391" y="410" on="0"/>
+        <pt x="1397" y="416" on="1"/>
+        <pt x="1402" y="421" on="0"/>
+        <pt x="1402" y="428" on="1"/>
+        <pt x="1402" y="698" on="1"/>
+        <pt x="1402" y="705" on="0"/>
+        <pt x="1397" y="711" on="1"/>
+        <pt x="1391" y="716" on="0"/>
+        <pt x="1384" y="716" on="1"/>
+      </contour>
+      <contour>
+        <pt x="85" y="710" on="1"/>
+        <pt x="1384" y="710" on="1"/>
+        <pt x="1389" y="710" on="0"/>
+        <pt x="1393" y="707" on="1"/>
+        <pt x="1396" y="703" on="0"/>
+        <pt x="1396" y="698" on="1"/>
+        <pt x="1396" y="428" on="1"/>
+        <pt x="1396" y="423" on="0"/>
+        <pt x="1393" y="420" on="1"/>
+        <pt x="1389" y="416" on="0"/>
+        <pt x="1384" y="416" on="1"/>
+        <pt x="85" y="416" on="1"/>
+        <pt x="80" y="416" on="0"/>
+        <pt x="76" y="420" on="1"/>
+        <pt x="72" y="423" on="0"/>
+        <pt x="72" y="428" on="1"/>
+        <pt x="72" y="698" on="1"/>
+        <pt x="72" y="703" on="0"/>
+        <pt x="76" y="707" on="1"/>
+        <pt x="80" y="710" on="0"/>
       </contour>
       <instructions/>
     </TTGlyph>
@@ -20395,7 +21144,7 @@
       ColorEmoji
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      anir : Khaanaa : 2-12-2024
+      FontForge 2.0 : Khaanaa : 3-12-2024
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Khaanaa
@@ -20424,7 +21173,7 @@ This license is available with a FAQ at:https://openfontlicense.org
       ColorEmoji
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      anir : Khaanaa : 2-12-2024
+      FontForge 2.0 : Khaanaa : 3-12-2024
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Khaanaa
@@ -20469,6 +21218,7 @@ This license is available with a FAQ at:https://openfontlicense.org
       <psName name="uniE366"/>
       <psName name="uniE367"/>
       <psName name="uniE368"/>
+      <psName name="uniE369"/>
       <psName name="u1F64F"/>
       <psName name="A.0"/>
       <psName name="A.1"/>
@@ -20752,6 +21502,10 @@ This license is available with a FAQ at:https://openfontlicense.org
       <psName name="uniE368.1"/>
       <psName name="uniE368.2"/>
       <psName name="uniE368.3"/>
+      <psName name="uniE369.0"/>
+      <psName name="uniE369.1"/>
+      <psName name="uniE369.2"/>
+      <psName name="uniE369.3"/>
       <psName name="v.0"/>
       <psName name="v.1"/>
       <psName name="v.2"/>
@@ -49130,7 +49884,7 @@ This license is available with a FAQ at:https://openfontlicense.org
         <rawimagedata>
           89504e47 0d0a1a0a 0000000d 49484452
           0000007d 00000080 08060000 00268c66
-          e2000015 0c494441 547801ed c003a024
+          e2000014 0e494441 547801ed c003a024
           5996c6f1 ff77ee8d c8cca772 4b63ae6d
           dbb66ddb b66ddbb6 6d698c9e 964aaf9e
           323322ee f976b76a 7aa6873b 6bd54f5c
@@ -49399,76 +50153,500 @@ This license is available with a FAQ at:https://openfontlicense.org
           c2bfe42f eef1f47b cfb8fdc1 7fb0f756
           82bfe65f cb3cf80b 3e8d777b d8a58d8f
           3dd8f049 9ee9dc09 f3cdefb2 e2d60703
-          f00cc483 794ec781 e3c0adfc c70340fc
-          5732c781 5b8163bc 687e1bb8 15b815f8
-          6b6017b8 84f86bfe 8d9ef26a 5bef947d
-          7cc678dd c6f51bd7 1e3bb679 62bbf04c
-          ebd5dae3 3fdc7bb4 f4f0c4d9 85e94b1f
-          fe07073f c20b628e 032fc515 2f0d1c07
-          5e1b380e bc342f9a ef41bc37 cf761cf8
-          2ae07df8 cf0180f8 af663e1b f82cfe63
-          fc35b0cb b3fd35b0 cbf3b70b fc350ff0
-          9edfcb75 8f7a220f bfed161e 0ef0b72f
-          c9ee1fbd 0abb3ca7 97068ef3 6c2f0d1c
-          e73fc643 10b702c7 81b7023e 1b10f060
-          fe730020 feab99e3 c0adc031 fe3fbb8b
-          9fe3467e 02786be0 ad79b6df 015e9bff
-          1c0088ff 0ee6b381 cfe2ffb3 d7017e9b
-          e7e76b80 8fe63f07 00e2bf8b f96de0b5
-          f8ffe87b 80f7e605 7908702b ff390010
-          ff5dcc71 e0b78197 e2ff93df 015e9b17
-          e47780d7 e63f0f00 e2bf9339 0efc36f0
-          52fc7ff0 0ce0a581 5d5e90d7 017e9bff
-          3c0088ff 6ee6c1c0 4f032fc5 ff659780
-          d706fe9a 17e47780 d7e63f17 00e27f02
-          731cf86a e0bdf8bf e86f80f7 06fe9a17
-          e412f0da c05ff39f 0b00f13f 89796b0e
-          f871b628 fc5ff13d c04703bb bc30af03
-          fc36fff9 0010ffd3 fc0c2fc9 a3f8631e
-          c582ffed 3e06f86a fe25ef03 7c37ff35
-          0010ff33 1de763f9 233e9247 f320fef7
-          f91de0b3 81dfe65f f235c047 f35f0700
-          f13fdb47 f3de7c15 9f0d3c88 fff99e01
-          bc37f0db fc4b2e01 1f0d7c37 ffb50010
-          fff3bd34 f0d37c34 0fe2b381 63fccff3
-          0ce0b381 efe645f1 37c07b03 7fcd7f3d
-          00c4ff0e c781cf06 3e8ab706 de1a786b
-          e018ffbd 7e06f86e e0a77951 fd0cf0de
-          c02eff3d 0010ffbb 3c18f86c e0bd0078
-          6be0ad81 b7068ef1 5fe36780 9f067e1a
-          d8e545f5 0ce0bd81 dfe6bf17 00e27fa7
-          d7063e1b 782deef7 d2c04b03 2f0dbc34
-          f05afcfb 3d03f86b e0af81df 06fe1ad8
-          e55fe319 c06703df cdff0c00 88ffdd5e
-          1bf868e0 ad787e5e 1a38ce15 afcd737a
-          69e05660 9767bb15 b8952b7e 9b7f8f67
-          00df0d7c 35b0cbff 1c0088ff 1b8e036f
-          0dbc35f0 56fcf7b8 04fc34f0 ddc06ff3
-          3f1300e2 ff9ee3c0 5b036f0d bc36708c
-          ff3ccf00 fe1af86e e0a7f99f 0f00f17f
-          df71e0a5 81d7065e 1a7869e0 41fceb3d
-          03f86be0 af81df06 fe1ad8e5 7f1700c4
-          ff4f0f06 1ec4152f 0d1ce78a bf0176b9
-          6217f86b fe6f0140 fceff2d2 c031e0a5
-          81e35cf1 60e0c13c a797068e f31fef56
-          e0569ed3 adc0ad5c b10bfc35 7009f86b
-          fee70140 fccff760 e0a78097 e67f9fdf
-          06de07b8 95ff1900 10ff3bbc 35f0d2c0
-          6b73c56b f13fd7ef 00bbc05f 037f0dfc
-          34ff7300 20fef77b 6d9ed76b f3821d07
-          5e9a17ec af815d5e b0dfe639 ed027fcd
-          ff0e0088 abfe3f01 405cf5ff 0900e2aa
-          ff4f0010 57fd7f02 80b8eaff 1300c455
-          ff9f0020 aefaff04 0071d5ff 270088ab
-          fe3f0140 5cf5ff09 00e2aaff 4f001057
-          fd7f0280 b8eaff13 00c455ff 9f0020ae
-          faff0400 71d5ff27 0088abfe 3f01405c
-          f5ff0900 e2aaff4f 001057fd 7f0280b8
-          eaff1300 c455ff9f 0020aefa ff040071
-          d5ff2700 88abfe3f 01405cf5 ff0900e2
-          aaff4f00 1057fd7f 0280b8ea ff1300fe
-          11f49d6e dbef5473 08000000 0049454e
-          44ae4260 82  
+          f00cc483 f9af0380 f8af648e 03b702c7
+          78d1fc36 702b702b f0d7c02e 7009f1d7
+          fc1b3de5 d5b6de29 fbf88cf1 ba8deb37
+          ae3d766c f3c476e1 99d6abb5 c77fb8f7
+          68e9e189 b30bd397 3efc0f0e 7e8417c4
+          1c075e8a 2b5e1a38 0ebc3670 1c78695e
+          34df8378 6ffeeb00 20feab99 cf063e8b
+          ff187f0d ecf26c7f 0decf2fc ed027fcd
+          03bce7f7 72dda39e c8c36fbb 858703fc
+          ed4bb2fb 47afc22e cfe9a581 e33cdb4b
+          03c7f98f f110c4ad fcd70140 fc5733c7
+          815b8163 fcfff63d 88f7e6bf 1600e2bf
+          83f96ce0 b3f8ffed 7510bfcd 7f2d00c4
+          7f17f3db c06bf1ff d3f720de 9bff7a00
+          88ff2ee6 38f0dbc0 4bf1ffcb ef205e9b
+          ff1e0088 ff4ee638 f0dbc04b f1ffc333
+          809746ec f2df0300 f1dfcd3c 18f869e0
+          a5f8bfed 12f0da88 bfe6bf0f 00e27f02
+          731cf86a e0bdf8bf e96f80f7 46fc35ff
+          bd0010ff 9398b706 be1b38c6 ff1ddf03
+          7c346297 ff7e0088 ff69cc83 819f065e
+          8afffd3e 06f1d5fc cf0180f8 9fcabc37
+          f0d9c083 f8dfe777 80cf46fc 36ffb300
+          20fea733 ef0d7c36 f020fee7 7b06f0de
+          88dfe67f 2600c4ff 16e6a381 cf068ef1
+          3fcf3380 cf467c37 ffb30120 feb7316f
+          0dbc35f0 d6c031fe 7bfd0cf0 dd889fe6
+          7f0700c4 ff66e6ad 81b706de 1a38c67f
+          8d9f017e 1af869c4 2effbb00 20feaf30
+          2f0dbc34 f0d2c04b 03afc5bf df3380bf
+          06fe1af8 6de0af11 bbfcef05 80f8bfcc
+          bc34709c 2b5e9be7 f4d2c0ad c02ecf76
+          2b702b00 e2b7f9bf 070071d5 ff270088
+          abfe3f01 405cf5ff 0900e2ff a707030f
+          e279fd0d b0cbff5d 0088ff5d 5e1a3806
+          bc34709c 2b1e0c3c 98e7f4d2 c071fee3
+          dd0adcca 73ba15b8 952b7681 bf062e01
+          7fcdff3c 0088fff9 1e0cfc14 f0d2fcef
+          f3dbc0fb 00b7f23f 0300e27f 87b7065e
+          1a786dae 782dfee7 fa1d6017 f86be0af
+          819fe67f 0e00c4ff 7eafcdf3 7a6d5eb0
+          e3c04bf3 82fd35b0 cb0bf6db 3ca75de0
+          aff9df01 0071d5ff 270088ab fe3f0140
+          5cf5ff09 00e2aaff 4f001057 fd7f0280
+          b8eaff13 00c455ff 9f0020ae faff0400
+          71d5ff27 0088abfe 3f01405c f5ff0900
+          e2aaff4f 001057fd 7f0280b8 eaff1300
+          c455ff9f 0020aefa ff040071 d5ff2700
+          88abfe3f 01405cf5 ff0900e2 aaff4f00
+          1057fd7f 0280b8ea ff1300c4 55ff9f00
+          20aefaff 040071d5 ff270088 abfe3f01
+          405cf5ff 0900e2aa ff4f0010 57fd7f02
+          c03f02b0 a240db11 f974c300 00000049
+          454e44ae 426082  
+        </rawimagedata>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="uniE369">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="178"/>
+          <BearingX value="25"/>
+          <BearingY value="102"/>
+          <Advance value="178"/>
+        </SmallGlyphMetrics>
+        <rawimagedata>
+          89504e47 0d0a1a0a 0000000d 49484452
+          000000b2 00000080 08060000 00af3833
+          ce00001a 88494441 547801ed c003a024
+          5996c6f1 ff77ee8d c8cca772 4b63ae6d
+          dbb66ddb b66ddbb6 6d698c9e 964aaf9e
+          323322ee f976b76a 7aa6873b 6bd54f5c
+          f5eff560 e041c04b 03c701f1 bc6e051e
+          ccf332f0 d7c02ef0 3b5cf56f 85b8ea5f
+          e338f05a c04b03e2 8a5b815b 81bf0676
+          f9d77b69 e038f0da 3cdbd381 df016ee5
+          aa1705e2 aa7fc983 81b7025e 06b815f8
+          6de0b7f9 cff560e0 b5810773 c55f013f
+          c3552f08 e2aae7e7 38f056c0 cb00b702
+          3f0ddcca 7f9fb706 5e1b30f0 3dc05f73
+          d50321ae 7aa0e3c0 47012780 ef06fe9a
+          ff598e03 6f0dbc35 f053c0f7 701500e2
+          2a800703 1fcd155f 0ddccaff 7c6f0dbc
+          35f05bc0 f7f0ff1b e2aacf02 4e009f0d
+          ecf2bfcf 6b03ef0d fc34f0d3 fcff84f8
+          ffebad81 b706be1a f86bfef7 7b6fe0ad
+          818f066e e5ff17c4 ff3fc781 af067e1b
+          f86efe6f 390e7c36 60e07380 5dfe7f40
+          fcfff2da c06703ef 0ddccaff 5d2f0d7c
+          36f0d9c0 5ff37f1f e2ff8fcf 02047c36
+          ff3f1c07 be1af86d e0bbf9bf 0df1821d
+          0776f9df ef38f0d3 c06703bf cdff3f1f
+          0dbc34f0 d1c02eff 37219ebf d7063e0a
+          781bfe77 7b30f0d5 c067037f cdff5f2f
+          0d7c35f0 d6c02eff 7b7d34f0 dbc05ff3
+          9c10cfdf 6b039f0d 7c36f0db fceff4d2
+          c057036f 0dec72d5 4b039f0d bc37b0cb
+          ff4e4f07 de07f86d 9e13e2f9 7b6de038
+          f0d9c04b f3bfcf83 81df027e 1ad8e579
+          ed027fcd bfdf25e0 aff9dfe3 38f0d3c0
+          47037fcd ff2e6f0d 7c34f0d9 c06ff39c
+          10cfdf6b 03bc1eb4 97846f7d 77b88eab
+          aefa6ff4 03f0fb5f 095fc115 bfcd7342
+          3c7faffd a9f0f02f 804f034e 000f16ec
+          72d555ff 4d0cbf2d f86caef8 6d9e13e2
+          f97bed4b f06d3bf0 70e07704 afcd5557
+          fd37327c f6d7c1ee 47c25f03 bfcd7342
+          3c7faf6d f82daef8 1dc16b73 d555ff8d
+          0c9ffd75 b0fb91f0 d7c06ff3 9c10cfdf
+          6b1b7e8b 2b7e47f0 da5c75d5 7f23c367
+          7f1dec7e 24fc35f0 db3c27c4 f3f7da86
+          dfe28adf 11bc3657 5df5dfc8 f0d95f07
+          bb1f097f 0dfc36cf 09f1fcbd b6e1b7b8
+          e27704af cdff41b7 ffd81b7e 96f14703
+          087df5cd eff0ab9f c355ffe9 eef8a937
+          78694f7c 17f0d2c0 6fabf231 37bdcdaf
+          fd352f84 e1b3bf0e 763f12fe 1af86d9e
+          13e2f97b 6dc36f71 c5ef085e 9bff63ee
+          f8893778 6f27dfc5 7328af73 f33bfcf2
+          6f73d57f aadb7ef4 0d9f2ef9 c13cdb6f
+          dffc0ebf f63abc10 86cffe3a d8fd48f8
+          6be0b779 4e88e7ef b50dbfc5 15bf2378
+          6dfe8fb9 fdc7def0 b3c19fc5 73d0e7dc
+          fc0ebffa d95cf59f eaf61f7b 03f35c6e
+          7e875f13 2f84e1b3 bf0e763f 12fe1af8
+          6d9e13e2 f97b6dc3 6f71c5ef 085e9bff
+          0077fcd4 1bbcb4cd b1aaf28c ebdfe697
+          6fe5bfd1 1d3ff646 1f6df2ab 780ee575
+          6e7e875f fe6dfe8f b9f8536f 7dfcc087
+          2f0570f3 dbfedaef f022bafd 27dfe0b5
+          006e7edb 5ffb1dfe 03ddf663 6fb02b38
+          c6b3fdce cdeff06b afcd0b61 f8ecaf83
+          dd8f84bf 067e9be7 8478fe5e dbf05b5c
+          f13b82d7 e6dfe9f6 1f7f83af c67c1480
+          615794b7 b9f91d7e f9b7f96f 74fb8fbd
+          e14f83df 0a00f135 37bffdaf 7d34ffc7
+          dcfd536f fce0716a 7f25380e 80f5d337
+          bfe3afbe 0d2fc4c5 9f7aebe3 07d3e16f
+          012fcd15 7fbd5537 5fe7c4db fcf42eff
+          016effb1 377e6dd3 7e5a700c 78862a6f
+          7dd3dbfc da5ff342 183efbeb 60f723e1
+          af81dfe6 39219ebf d736fc16 57fc8ee0
+          b5f977b8 fba7def8 c1d3d49e ce73fa9d
+          9bdfe1d7 5e9babfe 53ddf663 6ff8ddc2
+          efc57328 af73f33b fcf26ff3 02dcf163
+          6ff4d126 bf8a0710 f13137bd c3af7c35
+          ff4d0c9f fd75b0fb 91f0d7c0 6ff39c10
+          cfdf6b1b 7e8b2b7e 47f0dafc 3bdcf153
+          6ff0d29e f82b9ed3 efdcfc0e bff6dafc
+          27b8fdc7 dfe0a3b0 8edffc0e bffa39fc
+          3f77fb8f bdc16f03 afc57328 af73f33b
+          fcf26ff3 02dcfe63 6ff8d9e0 cfe239e8
+          736e7e87 5ffd6c5e 883b7eea 0d5e3a27
+          bd57547f cf4d6ff3 6b7fcd7f 20c3677f
+          1dec7e24 fc35f0db 3c27c4f3 f7da86df
+          e28adf11 bc36ff4e b7ffe81b fe35f24b
+          f12cfa9c 9bdfe157 3f9bff60 b7fdf81b
+          beb5ec9f 0210f131 37bdc3af 7c35ffc3
+          5dfca9b7 3e7ed00e df8bd46b 2bf8e99b
+          defe57bf 87ff2077 fcc41bbc b793efe2
+          990c97b6 ebe6834f bccd4fef f202dcf1
+          536ff0d2 9ef82b1e 409597b9 e96d7eed
+          af79216e ffb137f8 2be0a50d bbb7bcc3
+          af9de03f 90e1b3bf 0e763f12 fe1af86d
+          9e13e2f9 7b6dc36f 71c5ef08 5e9b7fa7
+          bb7fea8d 1f3c4ef9 d9c20f16 f1d337bd
+          c3af7c35 ff096eff b137fc6c f0670118
+          7dcf2def f0abefcd bfc3c59f 7aebe307
+          d3e14f01 af6dd88d e0636e7a bb5ffb6e
+          fe03ddfe 636ff05b c06bf32c fa9c9bdf
+          e1573f9b ff2077fc c41bbcb7 93f736ba
+          35aabffa a6b7f9b5 bfe65f70 fb8fbdf1
+          6b437e34 00c457df fc0ebffc dbfc0b6e
+          ffb13730 cf546b79 c8f56ff3 cbb7f2ef
+          70c74fbc c17b67f2 5582e3c7 bef389b7
+          fef89fde f7adef7b 7ef547c0 6ff39c10
+          cfdf6b1b 7e8b2b7e 47f0dafc 2f71fb8f
+          bdf16b43 fb2d0005 ef73d3db fdda77f3
+          ef70db8f bde1770b bf17cf64 d8ddae9b
+          0f39f136 3fbdcb7f 80bb7fea 8d1f3c4d
+          ede93c80 ad5b6f79 c75f7d08 ffcbdcfe
+          636ff0db c06b01cf b8f91d7e edc1fc3b
+          dcfd536f fce0696a 4fe79976 7ef4693c
+          b58b5f79 d91f7cf2 1703bfcd 73423c7f
+          af6df82d aef81dc1 6bf302dc fe636ff8
+          d9e0cf52 f03e37bd ddaf7d37 ff03dcfe
+          636ffcda 8af6e09b deeed7be 9b7fa7db
+          7fec0d7e 1b782d9e 43799d9b dfe1977f
+          9bff0017 7feaad8f 1f4c8717 7920eb6f
+          6e7ec75f 7d695e88 bb7fea8d 1f3c8ef9
+          5b9277b7 eae6eb9c 789b9fde e54570fb
+          8fbdc16f 195e3a2a af73d3db fcda5ff3
+          1fe8e24f bdf5f1c3 69f9dea5 eaa7af7f
+          9b5fbe95 7f87db7f ec8d5f1b da6ff14c
+          3b3ffa34 2edeb4f1 94077fd5 df7d00f0
+          db3c27c4 f3f7da86 dfe28adf 11bc362f
+          c0ed3ff6 060630ec def20ebf 7682ff00
+          77fed81b bd15c046 5dfcce89 b7f9e95d
+          fe1bddf6 636ff8dd c2efc533 192e6dd7
+          cd079f78 9b9fdee5 3fc8ed3f fe065f8d
+          f9289ec9 d2dbdcf2 f6bffad3 bc10b7ff
+          d81b7e36 f8b30044 7ccc4def f02b5fcd
+          bfe08e9f 7883f776 f25d0046 df73cb3b
+          fcea7bf3 0077ffd4 1b3fb8b5 7c2d8aff
+          e6a6b7f9 b5bfe645 70f74fbd f1835bcb
+          d772f8d6 9bdff6d7 7e87ff20 77ffd41b
+          3f789ada d379a69d 1f7d1a4f ede2575e
+          f6079ffc c5c06ff3 9c10cfdf 6b1b7e8b
+          2b7e47f0 dabc00b7 ffd81b98 67baf91d
+          7e4dfc3b ddfe636f f057c04b 031876bb
+          5a5ee6fa b7f9e55b f96f72f1 a7defaf8
+          c174f8d3 c06b192e 21bdf72d 6fffab3f
+          cd7fb03b 7eea0d5e 9a295ebb 54fdf4f5
+          6ff3cbb7 f22fb8fd c7dfe0ab 311f0500
+          fa9c9bdf e1573f9b 7fc11d3f f106efed
+          e4bbb84c 3f73f33b fcea5bf3 4c77fcc4
+          1bbcb793 efe259f4 3937bfc3 af7e362f
+          c41d3ff5 062f9d13 bf25380e 80f5d337
+          bfe3afbe 0dff41ee f8893778 ef4cbe5a
+          70ecc4b7 3dfe093f fa17e7be f77dcfaf
+          fe08f86d 9e13e2f9 7b6dc36f 71c5ef08
+          5e9b17e0 f61f7f83 afc67c14 e26b6e7e
+          fb5ffb68 fe1deef8 8937786f 27dfc573
+          d0e7dcfc 0ebffad9 fc2f74f1 a7defaf8
+          810f5f6a 4b9b7f73 e26d7e7a 97ff4077
+          ffd41b3f 789cda5f 0374b5bc f4f56ff3
+          cbb7f22f b8f8536f 7dfc603c fa6dcb0f
+          16e5ad6f 7e875ffe 6d9ee9b6 1f7dc3a7
+          4b7e300f 70f33bfc 9a78216e ffb137fc
+          69f05bf1 1ccaebdc fc0ebffc dbfc0733
+          7cf6d7c1 ee47c25f 03bfcd73 423c7faf
+          6df82dae f81dc16b f35fe08e 1f7ba38f
+          36f9553c 90f89a9b dffed73e 9aff856e
+          ffb137f8 2de0b581 dfbef91d 7eed75f8
+          1fe2e24f bdf5f113 6ff3d3bb 3cc06d3f
+          f606bb82 633cc056 dd3c71e2 6d7e7a97
+          17e0f61f 7b83df06 5e8be750 5ee7e677
+          f8e5dfe6 3f98e1b3 bf0e763f 12fe1af8
+          6d9e13e2 f97b6dc3 6f71c5ef 085e9bff
+          0277ffd4 1b3f789c da5f0b8e f12ce575
+          6e7e875f fe6dfe17 bafdc7de c03cd3cd
+          eff06be2 dfe98e9f 7a8397f6 a8cf423e
+          6ee96b6e 79fb5ffd 69fe83dc fee36ff0
+          d5988fe2 d97ee7e6 77f8b5d7 e685b8e3
+          27dee0bd 9d7c17cf f68cadba f9d227de
+          e6a777f9 0f66f8ec af83dd8f 84bf067e
+          9be78478 fe5edbf0 5b5cf13b 82d7e6bf
+          c81d3ff5 062fedc6 7bdb3a2e e2bb6f7e
+          875ffe6d fe97baed c7de6057 70cc70e9
+          9677f8b5 e3fc3bdc fd536ffc e0716a7f
+          2538ce33 597a9b5b defe577f 9aff2077
+          fcd81b7d b4f16b0b fdf6665d 7cf789b7
+          f9e95dfe 05b7fdf8 1bbeb5cc 7b23dfba
+          55363ffb c4dbfcf4 2eff090c 9ffd75b0
+          fb91f0d7 c06ff39c 10cfdf6b 1b7e8b2b
+          7e47f0da fc1f75f7 4fbdf183 01ae7f9b
+          5fbe95ff 60b7fdf8 1bbeb5ec 8fb6f4d5
+          b7bcfdaf fe34ff0e 77fcc41b bcb793ef
+          e239e867 6e7e875f 7d6bfe97 bafd27df
+          e0b56e7e db5ffb1d 5e0486cf fe3ad8fd
+          48f86be0 b7794e88 e7efb50d bfc515bf
+          23786dfe 0fbaedc7 dfe0bb64 de1bc0e8
+          ab6f7987 5ffd18fe 87bafdc7 def8b5a1
+          fd160f24 bee6e6b7 ffb58fe6 7f993b7e
+          ea0d5e3a 277e4b70 dcd6add1 f96d6e7a
+          9b5ffb6b 5e08c367 7f1dec7e 24fc35f0
+          db3c27c4 f3f7da86 dfe28adf 11bc36ff
+          c75cfca9 b73e7e30 1d5ee401 6e7e875f
+          13ff83dd fe636ff8 d3e0b7e2 8a67d45a
+          5efbfab7 f9e55bf9 5fe6f61f 7f83afc6
+          7c14cfa2 cfb9f91d 7ef5b379 210c9ffd
+          75b0fb91 f0d7c06f f39c10cf df6b1b7e
+          8b2b7e47 f0dafc1f 74c74fbc c17b67f2
+          d5825d05 9f7dd3db fdda77f3 3fdced3f
+          f6c6af0d b055e77f 7de26d7e 7a97ff85
+          2efed45b 1f3f980e 7f1a782d d0cf6cd5
+          8df73ef1 363fbdcb 0b61f8ec af83dd8f
+          84bf067e 9be78478 fe5edbf0 5b5cf13b
+          82d7e63f c01d3ffe 86ef65f3 6088dfb9
+          f91d7ef9 b7b9eabf c4dd3ff5 c60f9ea6
+          7c2fe4dd adb2f93d 27dee6a7 77f9175c
+          fca9b73e 7e301d7d 14f2ee56 d9fc9e13
+          6ff3d3bb fc37327c f6d7c1ee 47c25f03
+          bfcd7342 3c7faf6d f82daef8 1dc16bf3
+          ef74fb8f bfc15763 3e8a6752 e5656e7a
+          9b5ffb6b aefa4f75 f74fbdf1 83c7a9fd
+          95e03897 e9676e7e 875f7d6b fe05b7ff
+          d81bfc15 f0d25cf1 d737bfc3 afbd0cff
+          8d0c9ffd 75b0fb91 f0d7c06f f39c10cf
+          df6b1b7e 8b2b7e47 f0dafc3b ddf6636f
+          f8ddc2ef c5b394d7 b9f91d7e f9b7b9ea
+          3fd5dd3f f5c60f9e a6f6749e 453f73f3
+          3bfcea5b f32fb8ed c7de6057 700cc070
+          e99677f8 b5e3fc37 327cf6d7 c1ee47c2
+          5f03bfcd 73423c7f af6df82d aef81dc1
+          6bf3ef74 f1a7defa f8e1b47c 6fe3e310
+          bf7df33b fcf26f73 d57f89db 7fec8d5f
+          1bf2b585 7637ebe2 bb4fbccd 4feff22f
+          b8fba7de f8c1d394 ef0d506b 7cf7f56f
+          f3cbb7f2 dfc8f0d9 5f07bb1f 097f0dfc
+          36cf09f1 fcbdb6e1 b7b8e277 04afcd55
+          ff692efe d45b1f3f 188fbe0b f9c146bf
+          7dcb3bfc eac770d5 73307cf6 d7c1ee47
+          c25f03bf cd73423c 7faf6df8 2daef81d
+          c16b73d5 7f9adb7e ec0dbf5b f8bd7826
+          05ef73d3 dbfdda77 73d5b318 3efbeb60
+          f723e1af 81dfe639 219ebfd7 36fc1657
+          fc8ee0b5 b9ea3fcd 6d3ffe86 6f2dfba7
+          000c97ba 5a5efafa b7f9e55b b9ea590c
+          9ffd75b0 fb91f0d7 c06ff39c 10cfdf6b
+          1b7e8b2b 7e47f0da 5cf59fea ee9f7ae3
+          074f130f deaaf3bf 3ef1363f bdcb55cf
+          c1f0d95f 07bb1f09 7f0dfc36 cf09f1fc
+          bdf6043f 57600bb8 55f010ae baeabf91
+          e1bb5f09 7efc4fe1 00f86d9e 13e20578
+          1bf8e69f 844703af 05fc34f0 d75c75d5
+          7f8fe380 04bbc067 f3bc102f d87b031f
+          75060e5e 15b6b8ea aaff26e7 61fa7da8
+          c0d700df cdf342fc cff5d9c0 6773d5ff
+          342f0dbc 35f0d9fc cf81f89f ebb381ef
+          066ee5aa ff495e1b 786de0b3 f99f03f1
+          3fd76703 bf0dfc36 57fd4ff2 dac04b03
+          5fcdff1c 88ffb93e 1bf86de0 b7b9ea7f
+          92d7e68a dfe67f0e c4ff5caf cd15bfcd
+          55ff93bc 3657fc36 ff7320fe e77a6de0
+          38f0d35c f53fc97b 03b702bf cdff1c88
+          ffb95e1a 786be0b3 b9ea7f92 cf06be1a
+          d8e57f0e c4ff6cdf 0dbc37ff 33bc16f0
+          d6c04380 bf065e1a 380efc35 b00bbc16
+          f0d3c0cf 00b7f27f d74f036f cdff2c88
+          ffd9be1b 786ffefb 3c18f868 e038f0db
+          c04f03bb bc602f0d bc36f0da c05f015f
+          03ecf27f cb67039f cdff2c88 ffd97e1a
+          786bfeeb 1d073e0a 7808f0d1 c02ecfc5
+          f05a3cdb df087679 4eaf0dbc 37f05bc0
+          f7f07fc7 4f036fcd ff2c88ff d9be1af8
+          6c6097ff 3a2f0d7c 36f0d1c0 ad3c93e1
+          ad80b706 de1a38ce f3f7d3c0 4f033f23
+          d8e58ad7 063e1a78 6f6097ff dd1e0cbc
+          37f0d9fc cf82f89f edadb9e2 a7f9aff1
+          dec04b03 1fcd3319 5e1bf82a e0a579d1
+          ed029f2d f81aae38 0e7c35f0 d5c05ff3
+          bfd77b03 b702bfcd ff2c88ff d98e039f
+          0d7c34ff f9de9b2b be9b6732 7c15f0d1
+          fcdbfd35 f036825b 81e3c067 03df0dfc
+          35ff7e0f 061e045c 02fe9aff 1adf0dbc
+          37fff320 fee7fb6e e0bdf9cf f5dac04b
+          035fcd33 19be0b78 6ffefd76 81d711fc
+          35577c37 f0d1c02e ff3ac781 f7021e02
+          ec02b702 b702c781 97e68a8b c0f700bb
+          fce7f86e e0bdf99f 07f13fdf 57039f0d
+          ecf29fe3 a581f706 3e9a6732 7c17f0de
+          fcc7d905 5e47f0d7 c071e0ab 81f7e645
+          f7d6c06b 035f0ddc 0a807969 e018e277
+          78b6e3c0 47031781 afe13fd6 8381f706
+          3e9bff79 10fff3bd 35701cf8 6efe737c
+          35f0d13c 93e1a381 afe23fde 5f03af23
+          d8055e1a 786be0b3 f9977d17 f03b98df
+          063e0a78 69e0b579 4e7f0dfc 35f03588
+          bf065e1a 786fe0b3 815dfe63 bc37702b
+          f0dbfccf 83f8dfe1 bb81f7e6 3fde5b03
+          bbc06f03 185e1af8 2bfef3fc b4e06db8
+          e2b381af 067679c1 be1af86e cc8381ef
+          028ef32f fb6cc4e7 002f0d7c 35f0dafc
+          c7f869e0 adf99f09 f1bfc377 031f0dec
+          f21febbb 81f7e699 0cbf05bc 36ffb95e
+          47f0dbc0 71e0a381 cfe6f9fb 681ec9c0
+          137903e0 adf9d7f9 6be06d10 c7818f02
+          de877f9f 07031f0d 7c34ff33 21fe7778
+          69e0a581 efe63fce 5b03bbc0 6f03181e
+          0c3c9dff 7cbf2d78 1daef86a e0a3795e
+          af0dbc37 e618f0d6 fcdbfc36 e275808f
+          066e057e 9a7fbb8f 067e1bf8 6bfe6742
+          fceff1d3 c05bf31f e7ab818f e6990cdf
+          0dbc17ff 351e22b8 157869e0 c1c04ff3
+          9c7e9abb f955aee3 1bf8f7f9 18c45703
+          bf0dbc36 ff763f0d bc35ff73 21fef7f8
+          68e0af81 dfe63fc6 67039fcd 33199e0e
+          3c98ff1a 1f23f86a aef86ae0 a379b697
+          063e1af3 5ac083f9 f7d9055e 06f1da5c
+          f1ddfceb bd35701c f86efee7 42fcef71
+          1cf86ee0 adf9f77b 69e0c1c0 4f03181e
+          0c3c9dff 3a3f2378 6baef86c e0b379b6
+          cfe60798 78573e8f ff189f83 f86ae0bb
+          81b7e65f efbb81f7 e67f36c4 ff2e9f0d
+          fc36f0db fcfbbc36 57fc3680 e1b581df
+          e2bfceae e004577c 36f0d93c db6f63fe
+          1af828fe 63fc0ce2 ad81df06 5e9b7f9d
+          d7061e0c 7c37ffb3 21fe7739 0e7c36f0
+          d1fcfbbc 35702bf0 d70086cf 063e8bff
+          420271c5 67039fcd b3fd3606 e0b5f88f
+          f1d78897 01be1af8 6ae0565e 743f0dbc
+          37b0cbff 6c88ff7d 3e1bf86d e0b7f9b7
+          fb6ce0b3 7926c367 039fc57f 2181b8e2
+          ad815b81 bfe68adf c600bc16 ff518480
+          cf067e1b f86d5e34 af0dbc34 f0d5fccf
+          87f8dfe9 a781b7e6 dfeeb381 cfe6990c
+          9f0d7c16 ff8504e2 8af7067e 1bb81538
+          0e7c36e6 a581d7e2 3f8a10f0 d9c06f03
+          bfcdbfec 38f0ddc0 5bf3bf03 e27fa7d7
+          065e1af8 6afe6d5e 9b2b7e1b c0f0d9c0
+          67f15f48 20aef86c e0b379b6 dfc600bc
+          16ff31fe 06f1d2c0 6703bf0d fc36ffb2
+          cf067e1b f86dfe77 40fceff5 ddc06703
+          b7f2aff7 da5cf1db 0086f706 be8bff42
+          0271c567 039fcdb3 fd36e6af 818fe23f
+          c6f720de 1bf86ce0 a781bfe6 857b30f0
+          d9c07bf3 bf07e27f af07035f 0dbc35ff
+          7a0f065e 1bf86e00 c36b03bf c57f9dbf
+          11bc3457 7c34f0d5 3cdb6f63 be1af829
+          fe637c0e e2b381df 065e9b7f d96f036f
+          0decf2bf 07e27fb7 b7065e1a f86cfef5
+          3e1bf86c 9ec960fe eb7c8de0 a3b9e2ab
+          818fe6d9 be1af86e cc4f030f e2dfe712
+          f060c42e f0d3c05b f3c27d35 f0d3c06f
+          f3bf0be2 7fbfaf06 7e1af86d fe753e1b
+          f86c9ec9 f0d3c05b f15fe36d 043f0dbc
+          35702bf0 d73cdb6b 03af8db9 15f82efe
+          7dde06f1 d3c07b03 c781afe6 057b6be0
+          a581cfe6 7f1fc4ff 0d3f0dbc 37b0cb8b
+          eea58197 06be1bc0 f0dec077 f19fef92
+          e038577c 35f0d13c af9f06de 1bf3d5c0
+          7bf16ff3 3388b7e6 8adf06de 1ad8e5f9
+          7b30f0d5 c05bf3bf 13e2ff86 e3c04f03
+          6f0decf2 a2fb6ee0 bd7926c3 adc083f8
+          cff53982 cf065e1a 7869e0bb 795eaf0d
+          bc36f0d9 98af063e 8a7f9ddf 01de1ab1
+          0bbc35f0 d2c067f3 fc1d07be 1af86860
+          97ff9d10 ff77bc34 f0dec047 f3a27b30
+          f0d6c057 0318de1b f82efef3 5c021e2c
+          d805be1b 786f5eb0 af067e1a f86dcc5b
+          03df0d1c e385bb04 7c36e2ab b9e2c1c0
+          57036fcd 0bf6dbc0 47037fcd ff5e88ff
+          5b5e1a78 6fe0a379 d17d36f0 d5c02e80
+          e1bb81f7 e23fc7db 087e1a78 6baef869
+          5eb8df06 3e1af86b cc71e0a3 81d7065e
+          1a38c6b3 fd0ef0d7 c057236e e58ae3c0
+          57031f0d ecf2fc7d 35f0ddc0 5ff3bf1b
+          e2ff9eb7 06de0a78 1f5e34c7 81af063e
+          1ad8351c 077e1b78 29fe637d 8de0a381
+          9706de1a f86cfe65 c781cf06 be1bf86b
+          1ec83c18 00712bcf eb38f0d5 c04703bb
+          3c7fdf05 7c0df0d7 fcef87f8 bfe9bd81
+          d702de87 17cd8381 8f063e1a c0f0d2c0
+          77032fc5 7f8cef11 bc37701c f86ee0ad
+          f9d7f96c 6017f86e 609717ee a38013c0
+          5703bb3c 7f5f0dfc 35f0ddfc df80f8bf
+          ebb581b7 063e9a17 cd4b03ef 0d7c36b0
+          6b380efc 36f052fc fb7c8fe0 bd819706
+          3e1af868 60977fbd 0703efcd 157f05ec
+          02cf001e c415afc3 153f0dfc 352fd857
+          03df0dfc 35ff7720 fe6f7b69 e0a3818f
+          0676f997 bd34f0d1 c04703bb 86e3c047
+          039fc5bf de25e0a3 05df0dbc 34f0dec0
+          6703bbfc fbbd3470 1c380eec 72c56ff3
+          c21d077e 1af868e0 aff9bf05 f17fdf4b
+          039f0dbc 37b0cbbf ec38f0d5 c06f01df
+          03607830 f0d9c05b 03c778e1 9e017c37
+          f0d5e2b2 8f02047c 36ff7d1e 0c7c36f0
+          d1c02eff f720fe7f 380e7c35 f0ddc06f
+          f3a2796b e0ad81ef 067e9b67 32bc35f0
+          d25cf1da c02ef0d7 5cf1d382 bfe68af7
+          02de06f8 68e056fe fbbc35f0 dac06703
+          bbfcdf84 f8ffe5a3 8163c0e7 f0a27b6f
+          e0b5818b c06f03bf 03ecf2bc 1e0cbc16
+          f03ac02e f0d3c06f f3dfebb3 815b81ef
+          e6ff36c4 ff3f2f0d 7c34f0d9 c0adbce8
+          8e036f0d 3c18380e 3c18f86b e0b581df
+          e68abf06 7e9aff7e 0f063e1b f86ae0af
+          f9bf0ff1 ffd371e0 a301039f c3ff1dc7
+          81f7068e 039fcdff 1f88ffdf 1e0c7c36
+          f0ddc06f f3bfdb5b 036f0d7c 36702bff
+          bf20ae02 786be0ad 81ef067e 9bff5d5e
+          1b786be0 b7819fe6 ff27c455 0ff4d6c0
+          4b037f05 fc0cffb3 bd17f03a c07703bf
+          cdff6f88 ab9e9fd7 06de1ab8 087c0f70
+          2bff333c 18f82840 c04f03bf cd550088
+          ab5e98e3 c05b032f 0d3c1df8 19e056fe
+          6b3d1878 2be00470 2bf0d3c0 2e573d10
+          e2aa17d5 8381d706 1ecc1517 81df01fe
+          9aff582f 0dbc1670 02380efc 35f0d3c0
+          2e57bd20 88abfead 1e0cbc34 f0d2c02e
+          709c2b0c fc35b0cb 0b771c78 69403ca7
+          bf067e1b d8e5aa17 15e2aaff 0c0f061e
+          cc0bf7d7 c02e57fd 47405c75 d5ff7e88
+          abaefadf 0f71d555 fffb21ae baea7f3f
+          c45557fd ef87b8ea aafffd10 575df5bf
+          1fe2aaab fef7435c 75d5ff7e 88abaefa
+          df0f71d5 55fffb21 aebaea7f 3fc45557
+          fdef87b8 eaaafffd 10575df5 bf1fe2aa
+          abfef743 5c75d5ff 7e88abae fadf0f71
+          d555fffb 21aebaea 7f3fc455 57fdef87
+          b8eaaaff fd10575d f5bf1fff 08089bd1
+          dbe6af53 9d000000 0049454e 44ae4260
+          82   
         </rawimagedata>
       </cbdt_bitmap_format_17>
       <cbdt_bitmap_format_17 name="u1F64F">
@@ -50058,7 +51236,7 @@ This license is available with a FAQ at:https://openfontlicense.org
         <sbitLineMetrics direction="hori">
           <ascender value="102"/>
           <descender value="-26"/>
-          <widthMax value="129"/>
+          <widthMax value="178"/>
           <caretSlopeNumerator value="0"/>
           <caretSlopeDenominator value="0"/>
           <caretOffset value="0"/>
@@ -50072,7 +51250,7 @@ This license is available with a FAQ at:https://openfontlicense.org
         <sbitLineMetrics direction="vert">
           <ascender value="102"/>
           <descender value="-26"/>
-          <widthMax value="129"/>
+          <widthMax value="178"/>
           <caretSlopeNumerator value="0"/>
           <caretSlopeDenominator value="0"/>
           <caretOffset value="0"/>
@@ -50085,7 +51263,7 @@ This license is available with a FAQ at:https://openfontlicense.org
         </sbitLineMetrics>
         <colorRef value="0"/>
         <startGlyphIndex value="4"/>
-        <endGlyphIndex value="101"/>
+        <endGlyphIndex value="102"/>
         <ppemX value="125"/>
         <ppemY value="125"/>
         <bitDepth value="32"/>
@@ -50093,7 +51271,7 @@ This license is available with a FAQ at:https://openfontlicense.org
       </bitmapSizeTable>
       <!-- GlyphIds are written but not read. The firstGlyphIndex and
            lastGlyphIndex values will be recalculated by the compiler. -->
-      <eblc_index_sub_table_1 imageFormat="17" firstGlyphIndex="4" lastGlyphIndex="101">
+      <eblc_index_sub_table_1 imageFormat="17" firstGlyphIndex="4" lastGlyphIndex="102">
         <glyphLoc id="4" name="exclam"/>
         <glyphLoc id="5" name="quotedbl"/>
         <glyphLoc id="6" name="numbersign"/>
@@ -50191,7 +51369,8 @@ This license is available with a FAQ at:https://openfontlicense.org
         <glyphLoc id="98" name="uniE366"/>
         <glyphLoc id="99" name="uniE367"/>
         <glyphLoc id="100" name="uniE368"/>
-        <glyphLoc id="101" name="u1F64F"/>
+        <glyphLoc id="101" name="uniE369"/>
+        <glyphLoc id="102" name="u1F64F"/>
       </eblc_index_sub_table_1>
     </strike>
   </CBLC>
@@ -50201,7 +51380,7 @@ This license is available with a FAQ at:https://openfontlicense.org
     <!-- BaseGlyphRecordCount=0 -->
     <!-- LayerRecordCount=0 -->
     <BaseGlyphList>
-      <!-- BaseGlyphCount=98 -->
+      <!-- BaseGlyphCount=99 -->
       <BaseGlyphPaintRecord index="0">
         <BaseGlyph value="exclam"/>
         <Paint Format="1"><!-- PaintColrLayers -->
@@ -50882,15 +52061,22 @@ This license is available with a FAQ at:https://openfontlicense.org
         </Paint>
       </BaseGlyphPaintRecord>
       <BaseGlyphPaintRecord index="97">
-        <BaseGlyph value="u1F64F"/>
+        <BaseGlyph value="uniE369"/>
         <Paint Format="1"><!-- PaintColrLayers -->
           <NumLayers value="4"/>
           <FirstLayerIndex value="384"/>
         </Paint>
       </BaseGlyphPaintRecord>
+      <BaseGlyphPaintRecord index="98">
+        <BaseGlyph value="u1F64F"/>
+        <Paint Format="1"><!-- PaintColrLayers -->
+          <NumLayers value="4"/>
+          <FirstLayerIndex value="388"/>
+        </Paint>
+      </BaseGlyphPaintRecord>
     </BaseGlyphList>
     <LayerList>
-      <!-- LayerCount=388 -->
+      <!-- LayerCount=392 -->
       <Paint index="0" Format="10"><!-- PaintGlyph -->
         <Paint Format="2"><!-- PaintSolid -->
           <PaletteIndex value="0"/>
@@ -53980,23 +55166,51 @@ This license is available with a FAQ at:https://openfontlicense.org
           <PaletteIndex value="0"/>
           <Alpha value="1.0"/>
         </Paint>
-        <Glyph value="u1F64F.0"/>
+        <Glyph value="uniE369.0"/>
       </Paint>
       <Paint index="385" Format="10"><!-- PaintGlyph -->
         <Paint Format="2"><!-- PaintSolid -->
           <PaletteIndex value="1"/>
           <Alpha value="1.0"/>
         </Paint>
-        <Glyph value="u1F64F.1"/>
+        <Glyph value="uniE369.1"/>
       </Paint>
       <Paint index="386" Format="10"><!-- PaintGlyph -->
         <Paint Format="2"><!-- PaintSolid -->
           <PaletteIndex value="2"/>
           <Alpha value="1.0"/>
         </Paint>
-        <Glyph value="u1F64F.2"/>
+        <Glyph value="uniE369.2"/>
       </Paint>
       <Paint index="387" Format="10"><!-- PaintGlyph -->
+        <Paint Format="2"><!-- PaintSolid -->
+          <PaletteIndex value="3"/>
+          <Alpha value="1.0"/>
+        </Paint>
+        <Glyph value="uniE369.3"/>
+      </Paint>
+      <Paint index="388" Format="10"><!-- PaintGlyph -->
+        <Paint Format="2"><!-- PaintSolid -->
+          <PaletteIndex value="0"/>
+          <Alpha value="1.0"/>
+        </Paint>
+        <Glyph value="u1F64F.0"/>
+      </Paint>
+      <Paint index="389" Format="10"><!-- PaintGlyph -->
+        <Paint Format="2"><!-- PaintSolid -->
+          <PaletteIndex value="1"/>
+          <Alpha value="1.0"/>
+        </Paint>
+        <Glyph value="u1F64F.1"/>
+      </Paint>
+      <Paint index="390" Format="10"><!-- PaintGlyph -->
+        <Paint Format="2"><!-- PaintSolid -->
+          <PaletteIndex value="2"/>
+          <Alpha value="1.0"/>
+        </Paint>
+        <Glyph value="u1F64F.2"/>
+      </Paint>
+      <Paint index="391" Format="10"><!-- PaintGlyph -->
         <Paint Format="2"><!-- PaintSolid -->
           <PaletteIndex value="3"/>
           <Alpha value="1.0"/>
@@ -54722,6 +55936,15 @@ This license is available with a FAQ at:https://openfontlicense.org
         </ClipBox>
       </Clip>
       <Clip>
+        <Glyph value="uniE369"/>
+        <ClipBox Format="1">
+          <xMin value="40"/>
+          <yMin value="-20"/>
+          <xMax value="1420"/>
+          <yMax value="840"/>
+        </ClipBox>
+      </Clip>
+      <Clip>
         <Glyph value="v"/>
         <ClipBox Format="1">
           <xMin value="40"/>
@@ -54788,6 +56011,14 @@ This license is available with a FAQ at:https://openfontlicense.org
       <color index="3" value="#FF0000FF"/>
     </palette>
   </CPAL>
+
+  <FFTM>
+    <!-- FontForge's timestamp, font source creation and modification dates -->
+    <version value="1"/>
+    <FFTimeStamp value="Mon Jun 24 13:55:18 2024"/>
+    <sourceCreated value="Fri Nov 29 10:11:58 2024"/>
+    <sourceModified value="Tue Dec  3 08:28:51 2024"/>
+  </FFTM>
 
   <GDEF>
     <Version value="0x00010000"/>
@@ -54885,6 +56116,7 @@ This license is available with a FAQ at:https://openfontlicense.org
       <ClassDef glyph="uniE366" class="2"/>
       <ClassDef glyph="uniE367" class="2"/>
       <ClassDef glyph="uniE368" class="2"/>
+      <ClassDef glyph="uniE369" class="2"/>
       <ClassDef glyph="v" class="1"/>
       <ClassDef glyph="w" class="1"/>
       <ClassDef glyph="x" class="1"/>
@@ -54978,6 +56210,9 @@ This license is available with a FAQ at:https://openfontlicense.org
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <LigatureSubst index="0">
+          <LigatureSet glyph="d">
+            <Ligature components="o,s,a" glyph="uniE369"/>
+          </LigatureSet>
           <LigatureSet glyph="j">
             <Ligature components="a,l,e,b,i" glyph="uniE366"/>
           </LigatureSet>

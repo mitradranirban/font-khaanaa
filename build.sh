@@ -1,8 +1,13 @@
 #!/bin/bash
+
+cd sources/sfd
+./generate.pe *.sfd
+cd ../..
+mv sources/sfd/*.ttf sources/ttf/
 rm -rf fonts
 rm -rf build
 source venv/bin/activate
-fonts2svg -c 000000,00ff00,e3ab45,ff0000  sources/ttf/Khaanaa-Black.ttf sources/ttf/Khaanaa-green.ttf \
+fonts2svg -c 000000,00ff00,e3ab45,ff0000  sources/ttf/Khaanaa-black.ttf sources/ttf/Khaanaa-green.ttf \
 sources/ttf/Khaanaa-yellow.ttf sources/ttf/Khaanaa-red.ttf
 addsvg sources/ttf/SVGs/ sources/ttf/Khaanaa.ttf
 maximum_color --bitmaps sources/ttf/Khaanaa.ttf
@@ -15,6 +20,5 @@ ttx -d fonts/woff2/ --flavor woff2 KhaanaaColorEmoji.ttx
 ttx -d fonts/cbdt/ KhaanaaCBDT.ttx
 mv KhaanaaColorEmoji.ttx sources/ttx/
 mv KhaanaaCBDT.ttx sources/ttx/
-cp sources/ttf/SVGs public/
-cp fonts/woff2/* public/woff2/*
-
+cp -r sources/ttf/SVGs public/
+cp fonts/woff2/* public/woff2/* 
