@@ -15,4 +15,6 @@ ttx -d fonts/woff2/ --flavor woff2 KhaanaaColorEmoji.ttx
 ttx -d fonts/cbdt/ KhaanaaCBDT.ttx
 mv KhaanaaColorEmoji.ttx sources/ttx/
 mv KhaanaaCBDT.ttx sources/ttx/
+cp sources/ttf/SVGs public/
+cp fonts/woff2/* public/woff2/*
 
