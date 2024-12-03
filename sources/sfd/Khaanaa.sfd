@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1732875118
-ModificationTime: 1733066595
+ModificationTime: 1733154524
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +54,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 128580 10 4
+WinInfo: 58200 10 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -63,7 +63,7 @@ Grid
 -512 581.632 m 0
  1536 581.632 l 1024
 EndSplineSet
-BeginChars: 1114112 99
+BeginChars: 1114112 100
 
 StartChar: A
 Encoding: 65 65 0
@@ -1050,7 +1050,9 @@ Encoding: 100 100 29
 GlifName: d
 Width: 512
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 3 151<242.454 332> 367 151<243.471 332>
+VStem: 50 151<196.066 324.529> 332 152<4 4.10351 154.011 366.989 516.896 780>
 LayerCount: 2
 Fore
 SplineSet
@@ -1378,13 +1380,15 @@ Encoding: 108 108 38
 GlifName: l
 Width: 419
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -3 151<233.008 363.885> 741 20G<50 217>
+VStem: 53 164<166.215 761>
 LayerCount: 2
 Fore
 SplineSet
 369 6 m 257
  346.333333333 0 322.666666667 -3 298 -3 c 0
- 240 -3 188.666666667 14.3333333333 144 49 c 128
+ 240 -3 188.666666667 14.3333333333 144 49 c 0
  99.3333333333 83.6666666667 69 128.666666667 53 184 c 257
  50 761 l 257
  217 761 l 257
@@ -3348,6 +3352,48 @@ SplineSet
 EndSplineSet
 LCarets2: 5 0 0 0 0 0
 Ligature2: "'dlig' Discretionary Ligatures in Latin lookup 0-1" s a m o s a
+EndChar
+
+StartChar: uniE368
+Encoding: 58216 58216 99
+Width: 1024
+HStem: 96 131<380.037 646.025> 232 192<475.943 598.057> 246 192<279.943 402.057> 413 192<562.943 685.057> 423 192<364.943 487.057>
+VStem: 245 192<280.943 403.057> 330 192<457.943 580.057> 441 192<266.943 389.057> 528 192<447.943 570.057> 644 192<280.943 403.057>
+LayerCount: 2
+Fore
+SplineSet
+330 519 m 0x8a
+ 330 572 373 615 426 615 c 0
+ 479 615 522 572 522 519 c 0
+ 522 466 479 423 426 423 c 0
+ 373 423 330 466 330 519 c 0x8a
+528 509 m 0x9080
+ 528 562 571 605 624 605 c 0
+ 677 605 720 562 720 509 c 0
+ 720 456 677 413 624 413 c 0
+ 571 413 528 456 528 509 c 0x9080
+644 342 m 0xa040
+ 644 395 687 438 740 438 c 0
+ 793 438 836 395 836 342 c 0
+ 836 289 793 246 740 246 c 0
+ 687 246 644 289 644 342 c 0xa040
+441 328 m 0xc1
+ 441 381 484 424 537 424 c 0
+ 590 424 633 381 633 328 c 0
+ 633 275 590 232 537 232 c 0
+ 484 232 441 275 441 328 c 0xc1
+245 342 m 0xa4
+ 245 395 288 438 341 438 c 0
+ 394 438 437 395 437 342 c 0
+ 437 289 394 246 341 246 c 0
+ 288 246 245 289 245 342 c 0xa4
+790 277 m 0
+ 790 177 666 96 514 96 c 0
+ 362 96 220 179 220 279 c 0
+ 220 250 348 227 505 227 c 0
+ 662 227 790 248 790 277 c 0
+EndSplineSet
+Ligature2: "'dlig' Discretionary Ligatures in Latin lookup 0-1" l a d d o o
 EndChar
 EndChars
 EndSplineFont
