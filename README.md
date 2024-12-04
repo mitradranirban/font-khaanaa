@@ -7,13 +7,17 @@ In this font we will showcase various famous Indian food as multicolour emojis, 
 
 ## Sample 
 ![Khaanaa font](public/images/khaanaa-font.png)
-(see [test file](test.html))
+(see [test file](https://fonts.atipra.in/khaanaa-test.html)
 ## Emoji list 
-View [here](public/codepoints.html) 
+View [here](public/codepoints.md) 
 
 ## About 
 This font is created by Dr Anirban Mitra, an amateure Typographer and Free Software Enthusiast.
+## Download 
+From release section
 
+# Build instructions 
+coming soon
  
 ## Changelog
 December 2 Version 0.001 - One Emoji added 
