@@ -13,8 +13,8 @@ addsvg sources/ttf/SVGs/ sources/ttf/Khaanaa.ttf
 maximum_color --bitmaps sources/ttf/Khaanaa.ttf
 mkdir -p fonts/otsvg fonts/ttf fonts/woff2 fonts/cbdt
 cp sources/ttf/Khaanaa.ttf fonts/otsvg/
-ttx -x SVG   -o KhaanaaColorEmoji.ttx -v build/Khaanaa.keep_glyph_names.added_glyf_colr_1.ttf
-ttx -x SVG -o KhaanaaCBDT.ttx -v build/Khaanaa.added_cbdt.ttf
+ttx -x SVG -x FFTM  -o KhaanaaColorEmoji.ttx -v build/Khaanaa.keep_glyph_names.added_glyf_colr_1.ttf
+ttx -x SVG -x FFTM -o KhaanaaCBDT.ttx -v build/Khaanaa.added_cbdt.ttf
 ttx -d fonts/ttf/ KhaanaaColorEmoji.ttx
 ttx -d fonts/woff2/ --flavor woff2 KhaanaaColorEmoji.ttx
 ttx -d fonts/cbdt/ KhaanaaCBDT.ttx

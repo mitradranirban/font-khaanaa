@@ -8,6 +8,9 @@
  |---    |----       |------            |----------|
  | 1 | namaste | &#1F64F | ![namaste](SVGs/u1F64F.svg) |
  |2 | jalebi | &#xE366 |  ![jalebi](SVGs/uniE366.svg) |
- | 3 |  samosa |  &#E367 |  ![samosa](SVGs/uniE367.svg) |
- | 4 |  laddoo |  &#E368 | ![laddoo](SVGs/uniE368.svg) |
- | 5 |  dosa |  &#E369 |  ![dosa](SVGs/uniE369.svg) |
+ | 3 |  samosa |  &#xE367 |  ![samosa](SVGs/uniE367.svg) |
+ | 4 |  laddoo |  &#xE368 | ![laddoo](SVGs/uniE368.svg) |
+ | 5 |  dosa |  &#xE369 |  ![dosa](SVGs/uniE369.svg) |
+ |6| medubada| &#xE36A | ![medu bada](SVGs/uniE36A.svg)|
+|7|dhokla| &#xE36B | ![dhokla](SVGs/uniE36B.svg)|
+
