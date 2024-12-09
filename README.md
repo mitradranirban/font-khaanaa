@@ -17,10 +17,21 @@ This font is created by Dr Anirban Mitra, an amateure Typographer and Free Softw
 From release section
 
 # Build instructions 
-coming soon
+In Linux or Unix /MacOS you need Python, pip, and Fontforge.
+
+```
+git clone https://gitlab.com/mitradranirban/font-khaanaa
+cd font-khaanaa
+./setup.sh # for first time
+./build.sh
+```
+now you can use the fonts in *fonts* directory. 
+
  
 ## Changelog
-December 2 Version 0.001 - One Emoji added 
+December 2, 2024 -  Version 0.001 - One Emoji added
+
+December 10, 2024 - Version 0.010 - Ten Emojies added
 
 We plan to include 1000 emojis by the time we reach version 1.000 
 
