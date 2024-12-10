@@ -444,12 +444,12 @@
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="0.01"/>
-    <checkSumAdjustment value="0x5352a576"/>
+    <checkSumAdjustment value="0xdda3ca99"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00001001"/>
     <unitsPerEm value="1024"/>
     <created value="Fri Nov 29 10:11:58 2024"/>
-    <modified value="Mon Dec  9 16:22:21 2024"/>
+    <modified value="Tue Dec 10 06:08:12 2024"/>
     <xMin value="-22"/>
     <yMin value="-325"/>
     <xMax value="1103"/>
@@ -29177,7 +29177,7 @@
       ColorEmoji
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      FontForge 2.0 : Khaanaa : 9-12-2024
+      FontForge 2.0 : Khaanaa : 10-12-2024
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Khaanaa
@@ -29204,7 +29204,7 @@
       ColorEmoji
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      FontForge 2.0 : Khaanaa : 9-12-2024
+      FontForge 2.0 : Khaanaa : 10-12-2024
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Khaanaa
