@@ -8,16 +8,17 @@ In this font we will showcase various famous Indian food as multicolour emojis, 
 ## Sample 
 ![Khaanaa font](public/images/khaanaa-font.png)
 (see [test file](https://fonts.atipra.in/khaanaa-test.html)
-## Emoji list 
-View [here](public/codepoints.md) 
+## Emoji list
+View [here](public/codepoints.md)
 
-## About 
+## About
 This font is created by Dr Anirban Mitra, an amateure Typographer and Free Software Enthusiast.
-## Download 
-From release section
+## Download
+You can download readymade fonts in 3 technologies, OT-SVG, CBDT and COLRv0 webfont from [fonts.atipra.in](https://fonts.atipra.in/khaanaa.html)
 
-# Build instructions 
-In Linux or Unix /MacOS you need Python, pip, and Fontforge.
+# Build instructions
+Yu can also build the font from source
+In Linux or Unix /MacOS you need git, Python 3, pip, and Fontforge.
 
 ```
 git clone https://gitlab.com/mitradranirban/font-khaanaa
