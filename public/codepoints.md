@@ -17,6 +17,7 @@
 |9| chingrim| &#E36D |![Chingri Malaikari](SVGs/uniE36D.svg)|
 |10|ilish| &#E36E| ![Ilish Sorshe](SVGs/uniE36E.svg)|
 |11|barfi|&#E36F|![Barfi](SVGs/uniE36F.svg)|
+|11|naan|&#E370|![Naan](SVGs/uniE370.svg)|
 
 
 

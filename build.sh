@@ -9,7 +9,7 @@ rm -rf fonts
 rm -rf build
 
 source venv/bin/activate
-fonts2svg -c 000000,00ff00,e3ab45,ff0000  sources/ttf/Khaanaa-black.ttf sources/ttf/Khaanaa-green.ttf \
+fonts2svg -c 000000,60a04c,fdb70d,f40224  sources/ttf/Khaanaa-black.ttf sources/ttf/Khaanaa-green.ttf \
 sources/ttf/Khaanaa-yellow.ttf sources/ttf/Khaanaa-red.ttf
 addsvg sources/ttf/SVGs/ sources/ttf/Khaanaa.ttf
 maximum_color --colr_version 0 --bitmaps sources/ttf/Khaanaa.ttf
