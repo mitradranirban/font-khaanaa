@@ -1,13 +1,13 @@
 # Khaanaa Font Project
 
-## A Color Emoji Font dedicated to Indian Food Lovers 
+## A Color Emoji Font dedicated to Indian Food Lovers
 We Indians Love foods. A country where cuisine changes every hundred kilometeres or so, there are some favourites all over.
 
 In this font we will showcase various famous Indian food as multicolour emojis, which can be accessed directly, or by web typograpghy as well as in Word Processors like Libreoffice Writer by switching on "dlig" discretionalry ligature feature in your web page of word processor.
 
 ## Sample 
 ![Khaanaa font](public/images/khaanaa-font.png)
-(see [test file](https://fonts.atipra.in/khaanaa-test.html)
+(see [test file](https://fonts.atipra.in/khaanaa-test.html))
 ## Emoji list
 View [here](public/codepoints.md)
 

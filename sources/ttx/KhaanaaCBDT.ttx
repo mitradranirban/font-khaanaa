@@ -110,433 +110,439 @@
     <GlyphID id="104" name="uniE36C"/>
     <GlyphID id="105" name="uniE36D"/>
     <GlyphID id="106" name="uniE36E"/>
-    <GlyphID id="107" name="u1F64F"/>
-    <GlyphID id="108" name="A.0"/>
-    <GlyphID id="109" name="A.1"/>
-    <GlyphID id="110" name="A.2"/>
-    <GlyphID id="111" name="A.3"/>
-    <GlyphID id="112" name="B.0"/>
-    <GlyphID id="113" name="B.1"/>
-    <GlyphID id="114" name="B.2"/>
-    <GlyphID id="115" name="B.3"/>
-    <GlyphID id="116" name="C.0"/>
-    <GlyphID id="117" name="C.1"/>
-    <GlyphID id="118" name="C.2"/>
-    <GlyphID id="119" name="C.3"/>
-    <GlyphID id="120" name="D.0"/>
-    <GlyphID id="121" name="D.1"/>
-    <GlyphID id="122" name="D.2"/>
-    <GlyphID id="123" name="D.3"/>
-    <GlyphID id="124" name="E.0"/>
-    <GlyphID id="125" name="E.1"/>
-    <GlyphID id="126" name="E.2"/>
-    <GlyphID id="127" name="E.3"/>
-    <GlyphID id="128" name="F.0"/>
-    <GlyphID id="129" name="F.1"/>
-    <GlyphID id="130" name="F.2"/>
-    <GlyphID id="131" name="F.3"/>
-    <GlyphID id="132" name="G.0"/>
-    <GlyphID id="133" name="G.1"/>
-    <GlyphID id="134" name="G.2"/>
-    <GlyphID id="135" name="G.3"/>
-    <GlyphID id="136" name="H.0"/>
-    <GlyphID id="137" name="H.1"/>
-    <GlyphID id="138" name="H.2"/>
-    <GlyphID id="139" name="H.3"/>
-    <GlyphID id="140" name="I.0"/>
-    <GlyphID id="141" name="I.1"/>
-    <GlyphID id="142" name="J.0"/>
-    <GlyphID id="143" name="J.1"/>
-    <GlyphID id="144" name="J.2"/>
-    <GlyphID id="145" name="J.3"/>
-    <GlyphID id="146" name="K.0"/>
-    <GlyphID id="147" name="K.1"/>
-    <GlyphID id="148" name="K.2"/>
-    <GlyphID id="149" name="K.3"/>
-    <GlyphID id="150" name="L.0"/>
-    <GlyphID id="151" name="L.1"/>
-    <GlyphID id="152" name="L.2"/>
-    <GlyphID id="153" name="L.3"/>
-    <GlyphID id="154" name="M.0"/>
-    <GlyphID id="155" name="M.1"/>
-    <GlyphID id="156" name="M.2"/>
-    <GlyphID id="157" name="M.3"/>
-    <GlyphID id="158" name="N.0"/>
-    <GlyphID id="159" name="N.1"/>
-    <GlyphID id="160" name="N.2"/>
-    <GlyphID id="161" name="N.3"/>
-    <GlyphID id="162" name="O.0"/>
-    <GlyphID id="163" name="O.1"/>
-    <GlyphID id="164" name="O.2"/>
-    <GlyphID id="165" name="O.3"/>
-    <GlyphID id="166" name="P.0"/>
-    <GlyphID id="167" name="P.1"/>
-    <GlyphID id="168" name="P.2"/>
-    <GlyphID id="169" name="P.3"/>
-    <GlyphID id="170" name="Q.0"/>
-    <GlyphID id="171" name="Q.1"/>
-    <GlyphID id="172" name="Q.2"/>
-    <GlyphID id="173" name="Q.3"/>
-    <GlyphID id="174" name="R.0"/>
-    <GlyphID id="175" name="R.1"/>
-    <GlyphID id="176" name="R.2"/>
-    <GlyphID id="177" name="R.3"/>
-    <GlyphID id="178" name="S.0"/>
-    <GlyphID id="179" name="S.1"/>
-    <GlyphID id="180" name="S.2"/>
-    <GlyphID id="181" name="S.3"/>
-    <GlyphID id="182" name="T.0"/>
-    <GlyphID id="183" name="T.1"/>
-    <GlyphID id="184" name="T.2"/>
-    <GlyphID id="185" name="T.3"/>
-    <GlyphID id="186" name="U.0"/>
-    <GlyphID id="187" name="U.1"/>
-    <GlyphID id="188" name="U.2"/>
-    <GlyphID id="189" name="U.3"/>
-    <GlyphID id="190" name="V.0"/>
-    <GlyphID id="191" name="V.1"/>
-    <GlyphID id="192" name="V.2"/>
-    <GlyphID id="193" name="V.3"/>
-    <GlyphID id="194" name="W.0"/>
-    <GlyphID id="195" name="W.1"/>
-    <GlyphID id="196" name="W.2"/>
-    <GlyphID id="197" name="W.3"/>
-    <GlyphID id="198" name="X.0"/>
-    <GlyphID id="199" name="X.1"/>
-    <GlyphID id="200" name="X.2"/>
-    <GlyphID id="201" name="X.3"/>
-    <GlyphID id="202" name="Y.0"/>
-    <GlyphID id="203" name="Y.1"/>
-    <GlyphID id="204" name="Y.2"/>
-    <GlyphID id="205" name="Y.3"/>
-    <GlyphID id="206" name="Z.0"/>
-    <GlyphID id="207" name="Z.1"/>
-    <GlyphID id="208" name="Z.2"/>
-    <GlyphID id="209" name="Z.3"/>
-    <GlyphID id="210" name="a.0"/>
-    <GlyphID id="211" name="a.1"/>
-    <GlyphID id="212" name="a.2"/>
-    <GlyphID id="213" name="a.3"/>
-    <GlyphID id="214" name="ampersand.0"/>
-    <GlyphID id="215" name="ampersand.1"/>
-    <GlyphID id="216" name="ampersand.2"/>
-    <GlyphID id="217" name="ampersand.3"/>
-    <GlyphID id="218" name="asciicircum.0"/>
-    <GlyphID id="219" name="asciicircum.1"/>
-    <GlyphID id="220" name="asciicircum.2"/>
-    <GlyphID id="221" name="asciicircum.3"/>
-    <GlyphID id="222" name="asciitilde.0"/>
-    <GlyphID id="223" name="asciitilde.1"/>
-    <GlyphID id="224" name="asciitilde.2"/>
-    <GlyphID id="225" name="asciitilde.3"/>
-    <GlyphID id="226" name="asterisk.0"/>
-    <GlyphID id="227" name="asterisk.1"/>
-    <GlyphID id="228" name="asterisk.2"/>
-    <GlyphID id="229" name="asterisk.3"/>
-    <GlyphID id="230" name="at.0"/>
-    <GlyphID id="231" name="at.1"/>
-    <GlyphID id="232" name="at.2"/>
-    <GlyphID id="233" name="at.3"/>
-    <GlyphID id="234" name="b.0"/>
-    <GlyphID id="235" name="b.1"/>
-    <GlyphID id="236" name="b.2"/>
-    <GlyphID id="237" name="b.3"/>
-    <GlyphID id="238" name="backslash.0"/>
-    <GlyphID id="239" name="backslash.1"/>
-    <GlyphID id="240" name="backslash.2"/>
-    <GlyphID id="241" name="backslash.3"/>
-    <GlyphID id="242" name="bar.0"/>
-    <GlyphID id="243" name="bar.1"/>
-    <GlyphID id="244" name="bar.2"/>
-    <GlyphID id="245" name="bar.3"/>
-    <GlyphID id="246" name="braceleft.0"/>
-    <GlyphID id="247" name="braceleft.1"/>
-    <GlyphID id="248" name="braceleft.2"/>
-    <GlyphID id="249" name="braceleft.3"/>
-    <GlyphID id="250" name="braceright.0"/>
-    <GlyphID id="251" name="braceright.1"/>
-    <GlyphID id="252" name="braceright.2"/>
-    <GlyphID id="253" name="braceright.3"/>
-    <GlyphID id="254" name="bracketleft.0"/>
-    <GlyphID id="255" name="bracketleft.1"/>
-    <GlyphID id="256" name="bracketleft.2"/>
-    <GlyphID id="257" name="bracketleft.3"/>
-    <GlyphID id="258" name="bracketright.0"/>
-    <GlyphID id="259" name="bracketright.1"/>
-    <GlyphID id="260" name="bracketright.2"/>
-    <GlyphID id="261" name="bracketright.3"/>
-    <GlyphID id="262" name="c.0"/>
-    <GlyphID id="263" name="c.1"/>
-    <GlyphID id="264" name="c.2"/>
-    <GlyphID id="265" name="c.3"/>
-    <GlyphID id="266" name="colon.0"/>
-    <GlyphID id="267" name="colon.1"/>
-    <GlyphID id="268" name="colon.2"/>
-    <GlyphID id="269" name="colon.3"/>
-    <GlyphID id="270" name="comma.0"/>
-    <GlyphID id="271" name="comma.1"/>
-    <GlyphID id="272" name="comma.2"/>
-    <GlyphID id="273" name="comma.3"/>
-    <GlyphID id="274" name="d.0"/>
-    <GlyphID id="275" name="d.1"/>
-    <GlyphID id="276" name="d.2"/>
-    <GlyphID id="277" name="d.3"/>
-    <GlyphID id="278" name="dollar.0"/>
-    <GlyphID id="279" name="dollar.1"/>
-    <GlyphID id="280" name="dollar.2"/>
-    <GlyphID id="281" name="dollar.3"/>
-    <GlyphID id="282" name="e.0"/>
-    <GlyphID id="283" name="e.1"/>
-    <GlyphID id="284" name="e.2"/>
-    <GlyphID id="285" name="e.3"/>
-    <GlyphID id="286" name="eight.0"/>
-    <GlyphID id="287" name="eight.1"/>
-    <GlyphID id="288" name="eight.2"/>
-    <GlyphID id="289" name="eight.3"/>
-    <GlyphID id="290" name="equal.0"/>
-    <GlyphID id="291" name="equal.1"/>
-    <GlyphID id="292" name="equal.2"/>
-    <GlyphID id="293" name="equal.3"/>
-    <GlyphID id="294" name="exclam.0"/>
-    <GlyphID id="295" name="exclam.1"/>
-    <GlyphID id="296" name="exclam.2"/>
-    <GlyphID id="297" name="exclam.3"/>
-    <GlyphID id="298" name="f.0"/>
-    <GlyphID id="299" name="f.1"/>
-    <GlyphID id="300" name="f.2"/>
-    <GlyphID id="301" name="f.3"/>
-    <GlyphID id="302" name="five.0"/>
-    <GlyphID id="303" name="five.1"/>
-    <GlyphID id="304" name="five.2"/>
-    <GlyphID id="305" name="five.3"/>
-    <GlyphID id="306" name="four.0"/>
-    <GlyphID id="307" name="four.1"/>
-    <GlyphID id="308" name="four.2"/>
-    <GlyphID id="309" name="four.3"/>
-    <GlyphID id="310" name="g.0"/>
-    <GlyphID id="311" name="g.1"/>
-    <GlyphID id="312" name="g.2"/>
-    <GlyphID id="313" name="g.3"/>
-    <GlyphID id="314" name="grave.0"/>
-    <GlyphID id="315" name="grave.1"/>
-    <GlyphID id="316" name="grave.2"/>
-    <GlyphID id="317" name="grave.3"/>
-    <GlyphID id="318" name="greater.0"/>
-    <GlyphID id="319" name="greater.1"/>
-    <GlyphID id="320" name="greater.2"/>
-    <GlyphID id="321" name="greater.3"/>
-    <GlyphID id="322" name="h.0"/>
-    <GlyphID id="323" name="h.1"/>
-    <GlyphID id="324" name="h.2"/>
-    <GlyphID id="325" name="h.3"/>
-    <GlyphID id="326" name="hyphen.0"/>
-    <GlyphID id="327" name="hyphen.1"/>
-    <GlyphID id="328" name="hyphen.2"/>
-    <GlyphID id="329" name="hyphen.3"/>
-    <GlyphID id="330" name="i.0"/>
-    <GlyphID id="331" name="i.1"/>
-    <GlyphID id="332" name="i.2"/>
-    <GlyphID id="333" name="i.3"/>
-    <GlyphID id="334" name="j.0"/>
-    <GlyphID id="335" name="j.1"/>
-    <GlyphID id="336" name="j.2"/>
-    <GlyphID id="337" name="j.3"/>
-    <GlyphID id="338" name="k.0"/>
-    <GlyphID id="339" name="k.1"/>
-    <GlyphID id="340" name="k.2"/>
-    <GlyphID id="341" name="k.3"/>
-    <GlyphID id="342" name="l.0"/>
-    <GlyphID id="343" name="l.1"/>
-    <GlyphID id="344" name="l.2"/>
-    <GlyphID id="345" name="l.3"/>
-    <GlyphID id="346" name="less.0"/>
-    <GlyphID id="347" name="less.1"/>
-    <GlyphID id="348" name="less.2"/>
-    <GlyphID id="349" name="less.3"/>
-    <GlyphID id="350" name="m.0"/>
-    <GlyphID id="351" name="m.1"/>
-    <GlyphID id="352" name="m.2"/>
-    <GlyphID id="353" name="m.3"/>
-    <GlyphID id="354" name="n.0"/>
-    <GlyphID id="355" name="n.1"/>
-    <GlyphID id="356" name="n.2"/>
-    <GlyphID id="357" name="n.3"/>
-    <GlyphID id="358" name="nine.0"/>
-    <GlyphID id="359" name="nine.1"/>
-    <GlyphID id="360" name="nine.2"/>
-    <GlyphID id="361" name="nine.3"/>
-    <GlyphID id="362" name="numbersign.0"/>
-    <GlyphID id="363" name="numbersign.1"/>
-    <GlyphID id="364" name="numbersign.2"/>
-    <GlyphID id="365" name="numbersign.3"/>
-    <GlyphID id="366" name="o.0"/>
-    <GlyphID id="367" name="o.1"/>
-    <GlyphID id="368" name="o.2"/>
-    <GlyphID id="369" name="o.3"/>
-    <GlyphID id="370" name="one.0"/>
-    <GlyphID id="371" name="one.1"/>
-    <GlyphID id="372" name="one.2"/>
-    <GlyphID id="373" name="one.3"/>
-    <GlyphID id="374" name="p.0"/>
-    <GlyphID id="375" name="p.1"/>
-    <GlyphID id="376" name="p.2"/>
-    <GlyphID id="377" name="p.3"/>
-    <GlyphID id="378" name="parenleft.0"/>
-    <GlyphID id="379" name="parenleft.1"/>
-    <GlyphID id="380" name="parenleft.2"/>
-    <GlyphID id="381" name="parenleft.3"/>
-    <GlyphID id="382" name="parenright.0"/>
-    <GlyphID id="383" name="parenright.1"/>
-    <GlyphID id="384" name="parenright.2"/>
-    <GlyphID id="385" name="parenright.3"/>
-    <GlyphID id="386" name="percent.0"/>
-    <GlyphID id="387" name="percent.1"/>
-    <GlyphID id="388" name="percent.2"/>
-    <GlyphID id="389" name="percent.3"/>
-    <GlyphID id="390" name="period.0"/>
-    <GlyphID id="391" name="period.1"/>
-    <GlyphID id="392" name="period.2"/>
-    <GlyphID id="393" name="period.3"/>
-    <GlyphID id="394" name="plus.0"/>
-    <GlyphID id="395" name="plus.1"/>
-    <GlyphID id="396" name="plus.2"/>
-    <GlyphID id="397" name="plus.3"/>
-    <GlyphID id="398" name="q.0"/>
-    <GlyphID id="399" name="q.1"/>
-    <GlyphID id="400" name="q.2"/>
-    <GlyphID id="401" name="q.3"/>
-    <GlyphID id="402" name="question.0"/>
-    <GlyphID id="403" name="question.1"/>
-    <GlyphID id="404" name="question.2"/>
-    <GlyphID id="405" name="question.3"/>
-    <GlyphID id="406" name="quotedbl.0"/>
-    <GlyphID id="407" name="quotedbl.1"/>
-    <GlyphID id="408" name="quotedbl.2"/>
-    <GlyphID id="409" name="quotedbl.3"/>
-    <GlyphID id="410" name="quotesingle.0"/>
-    <GlyphID id="411" name="quotesingle.1"/>
-    <GlyphID id="412" name="quotesingle.2"/>
-    <GlyphID id="413" name="quotesingle.3"/>
-    <GlyphID id="414" name="r.0"/>
-    <GlyphID id="415" name="r.1"/>
-    <GlyphID id="416" name="r.2"/>
-    <GlyphID id="417" name="r.3"/>
-    <GlyphID id="418" name="s.0"/>
-    <GlyphID id="419" name="s.1"/>
-    <GlyphID id="420" name="s.2"/>
-    <GlyphID id="421" name="s.3"/>
-    <GlyphID id="422" name="semicolon.0"/>
-    <GlyphID id="423" name="semicolon.1"/>
-    <GlyphID id="424" name="semicolon.2"/>
-    <GlyphID id="425" name="semicolon.3"/>
-    <GlyphID id="426" name="seven.0"/>
-    <GlyphID id="427" name="seven.1"/>
-    <GlyphID id="428" name="seven.2"/>
-    <GlyphID id="429" name="seven.3"/>
-    <GlyphID id="430" name="six.0"/>
-    <GlyphID id="431" name="six.1"/>
-    <GlyphID id="432" name="six.2"/>
-    <GlyphID id="433" name="six.3"/>
-    <GlyphID id="434" name="slash.0"/>
-    <GlyphID id="435" name="slash.1"/>
-    <GlyphID id="436" name="slash.2"/>
-    <GlyphID id="437" name="slash.3"/>
-    <GlyphID id="438" name="t.0"/>
-    <GlyphID id="439" name="t.1"/>
-    <GlyphID id="440" name="t.2"/>
-    <GlyphID id="441" name="t.3"/>
-    <GlyphID id="442" name="three.0"/>
-    <GlyphID id="443" name="three.1"/>
-    <GlyphID id="444" name="three.2"/>
-    <GlyphID id="445" name="three.3"/>
-    <GlyphID id="446" name="two.0"/>
-    <GlyphID id="447" name="two.1"/>
-    <GlyphID id="448" name="two.2"/>
-    <GlyphID id="449" name="two.3"/>
-    <GlyphID id="450" name="u.0"/>
-    <GlyphID id="451" name="u.1"/>
-    <GlyphID id="452" name="u.2"/>
-    <GlyphID id="453" name="u.3"/>
-    <GlyphID id="454" name="u1F64F.0"/>
-    <GlyphID id="455" name="u1F64F.1"/>
-    <GlyphID id="456" name="u1F64F.2"/>
-    <GlyphID id="457" name="u1F64F.3"/>
-    <GlyphID id="458" name="underscore.0"/>
-    <GlyphID id="459" name="underscore.1"/>
-    <GlyphID id="460" name="underscore.2"/>
-    <GlyphID id="461" name="underscore.3"/>
-    <GlyphID id="462" name="uniE366.0"/>
-    <GlyphID id="463" name="uniE366.1"/>
-    <GlyphID id="464" name="uniE366.2"/>
-    <GlyphID id="465" name="uniE366.3"/>
-    <GlyphID id="466" name="uniE367.0"/>
-    <GlyphID id="467" name="uniE367.1"/>
-    <GlyphID id="468" name="uniE367.2"/>
-    <GlyphID id="469" name="uniE367.3"/>
-    <GlyphID id="470" name="uniE368.0"/>
-    <GlyphID id="471" name="uniE368.1"/>
-    <GlyphID id="472" name="uniE368.2"/>
-    <GlyphID id="473" name="uniE368.3"/>
-    <GlyphID id="474" name="uniE369.0"/>
-    <GlyphID id="475" name="uniE369.1"/>
-    <GlyphID id="476" name="uniE369.2"/>
-    <GlyphID id="477" name="uniE369.3"/>
-    <GlyphID id="478" name="uniE36A.0"/>
-    <GlyphID id="479" name="uniE36A.1"/>
-    <GlyphID id="480" name="uniE36A.2"/>
-    <GlyphID id="481" name="uniE36A.3"/>
-    <GlyphID id="482" name="uniE36B.0"/>
-    <GlyphID id="483" name="uniE36B.1"/>
-    <GlyphID id="484" name="uniE36B.2"/>
-    <GlyphID id="485" name="uniE36B.3"/>
-    <GlyphID id="486" name="uniE36C.0"/>
-    <GlyphID id="487" name="uniE36C.1"/>
-    <GlyphID id="488" name="uniE36C.2"/>
-    <GlyphID id="489" name="uniE36C.3"/>
-    <GlyphID id="490" name="uniE36D.0"/>
-    <GlyphID id="491" name="uniE36D.1"/>
-    <GlyphID id="492" name="uniE36D.2"/>
-    <GlyphID id="493" name="uniE36D.3"/>
-    <GlyphID id="494" name="uniE36E.0"/>
-    <GlyphID id="495" name="uniE36E.1"/>
-    <GlyphID id="496" name="uniE36E.2"/>
-    <GlyphID id="497" name="uniE36E.3"/>
-    <GlyphID id="498" name="v.0"/>
-    <GlyphID id="499" name="v.1"/>
-    <GlyphID id="500" name="v.2"/>
-    <GlyphID id="501" name="v.3"/>
-    <GlyphID id="502" name="w.0"/>
-    <GlyphID id="503" name="w.1"/>
-    <GlyphID id="504" name="w.2"/>
-    <GlyphID id="505" name="w.3"/>
-    <GlyphID id="506" name="x.0"/>
-    <GlyphID id="507" name="x.1"/>
-    <GlyphID id="508" name="x.2"/>
-    <GlyphID id="509" name="x.3"/>
-    <GlyphID id="510" name="y.0"/>
-    <GlyphID id="511" name="y.1"/>
-    <GlyphID id="512" name="y.2"/>
-    <GlyphID id="513" name="y.3"/>
-    <GlyphID id="514" name="z.0"/>
-    <GlyphID id="515" name="z.1"/>
-    <GlyphID id="516" name="z.2"/>
-    <GlyphID id="517" name="z.3"/>
-    <GlyphID id="518" name="zero.0"/>
-    <GlyphID id="519" name="zero.1"/>
-    <GlyphID id="520" name="zero.2"/>
-    <GlyphID id="521" name="zero.3"/>
+    <GlyphID id="107" name="uniE36F"/>
+    <GlyphID id="108" name="uniE370"/>
+    <GlyphID id="109" name="u1F64F"/>
+    <GlyphID id="110" name="A.0"/>
+    <GlyphID id="111" name="A.1"/>
+    <GlyphID id="112" name="A.2"/>
+    <GlyphID id="113" name="A.3"/>
+    <GlyphID id="114" name="B.0"/>
+    <GlyphID id="115" name="B.1"/>
+    <GlyphID id="116" name="B.2"/>
+    <GlyphID id="117" name="B.3"/>
+    <GlyphID id="118" name="C.0"/>
+    <GlyphID id="119" name="C.1"/>
+    <GlyphID id="120" name="C.2"/>
+    <GlyphID id="121" name="C.3"/>
+    <GlyphID id="122" name="D.0"/>
+    <GlyphID id="123" name="D.1"/>
+    <GlyphID id="124" name="D.2"/>
+    <GlyphID id="125" name="D.3"/>
+    <GlyphID id="126" name="E.0"/>
+    <GlyphID id="127" name="E.1"/>
+    <GlyphID id="128" name="E.2"/>
+    <GlyphID id="129" name="E.3"/>
+    <GlyphID id="130" name="F.0"/>
+    <GlyphID id="131" name="F.1"/>
+    <GlyphID id="132" name="F.2"/>
+    <GlyphID id="133" name="F.3"/>
+    <GlyphID id="134" name="G.0"/>
+    <GlyphID id="135" name="G.1"/>
+    <GlyphID id="136" name="G.2"/>
+    <GlyphID id="137" name="G.3"/>
+    <GlyphID id="138" name="H.0"/>
+    <GlyphID id="139" name="H.1"/>
+    <GlyphID id="140" name="H.2"/>
+    <GlyphID id="141" name="H.3"/>
+    <GlyphID id="142" name="I.0"/>
+    <GlyphID id="143" name="I.1"/>
+    <GlyphID id="144" name="J.0"/>
+    <GlyphID id="145" name="J.1"/>
+    <GlyphID id="146" name="J.2"/>
+    <GlyphID id="147" name="J.3"/>
+    <GlyphID id="148" name="K.0"/>
+    <GlyphID id="149" name="K.1"/>
+    <GlyphID id="150" name="K.2"/>
+    <GlyphID id="151" name="K.3"/>
+    <GlyphID id="152" name="L.0"/>
+    <GlyphID id="153" name="L.1"/>
+    <GlyphID id="154" name="L.2"/>
+    <GlyphID id="155" name="L.3"/>
+    <GlyphID id="156" name="M.0"/>
+    <GlyphID id="157" name="M.1"/>
+    <GlyphID id="158" name="M.2"/>
+    <GlyphID id="159" name="M.3"/>
+    <GlyphID id="160" name="N.0"/>
+    <GlyphID id="161" name="N.1"/>
+    <GlyphID id="162" name="N.2"/>
+    <GlyphID id="163" name="N.3"/>
+    <GlyphID id="164" name="O.0"/>
+    <GlyphID id="165" name="O.1"/>
+    <GlyphID id="166" name="O.2"/>
+    <GlyphID id="167" name="O.3"/>
+    <GlyphID id="168" name="P.0"/>
+    <GlyphID id="169" name="P.1"/>
+    <GlyphID id="170" name="P.2"/>
+    <GlyphID id="171" name="P.3"/>
+    <GlyphID id="172" name="Q.0"/>
+    <GlyphID id="173" name="Q.1"/>
+    <GlyphID id="174" name="Q.2"/>
+    <GlyphID id="175" name="Q.3"/>
+    <GlyphID id="176" name="R.0"/>
+    <GlyphID id="177" name="R.1"/>
+    <GlyphID id="178" name="R.2"/>
+    <GlyphID id="179" name="R.3"/>
+    <GlyphID id="180" name="S.0"/>
+    <GlyphID id="181" name="S.1"/>
+    <GlyphID id="182" name="S.2"/>
+    <GlyphID id="183" name="S.3"/>
+    <GlyphID id="184" name="T.0"/>
+    <GlyphID id="185" name="T.1"/>
+    <GlyphID id="186" name="T.2"/>
+    <GlyphID id="187" name="T.3"/>
+    <GlyphID id="188" name="U.0"/>
+    <GlyphID id="189" name="U.1"/>
+    <GlyphID id="190" name="U.2"/>
+    <GlyphID id="191" name="U.3"/>
+    <GlyphID id="192" name="V.0"/>
+    <GlyphID id="193" name="V.1"/>
+    <GlyphID id="194" name="V.2"/>
+    <GlyphID id="195" name="V.3"/>
+    <GlyphID id="196" name="W.0"/>
+    <GlyphID id="197" name="W.1"/>
+    <GlyphID id="198" name="W.2"/>
+    <GlyphID id="199" name="W.3"/>
+    <GlyphID id="200" name="X.0"/>
+    <GlyphID id="201" name="X.1"/>
+    <GlyphID id="202" name="X.2"/>
+    <GlyphID id="203" name="X.3"/>
+    <GlyphID id="204" name="Y.0"/>
+    <GlyphID id="205" name="Y.1"/>
+    <GlyphID id="206" name="Y.2"/>
+    <GlyphID id="207" name="Y.3"/>
+    <GlyphID id="208" name="Z.0"/>
+    <GlyphID id="209" name="Z.1"/>
+    <GlyphID id="210" name="Z.2"/>
+    <GlyphID id="211" name="Z.3"/>
+    <GlyphID id="212" name="a.0"/>
+    <GlyphID id="213" name="a.1"/>
+    <GlyphID id="214" name="a.2"/>
+    <GlyphID id="215" name="a.3"/>
+    <GlyphID id="216" name="ampersand.0"/>
+    <GlyphID id="217" name="ampersand.1"/>
+    <GlyphID id="218" name="ampersand.2"/>
+    <GlyphID id="219" name="ampersand.3"/>
+    <GlyphID id="220" name="asciicircum.0"/>
+    <GlyphID id="221" name="asciicircum.1"/>
+    <GlyphID id="222" name="asciicircum.2"/>
+    <GlyphID id="223" name="asciicircum.3"/>
+    <GlyphID id="224" name="asciitilde.0"/>
+    <GlyphID id="225" name="asciitilde.1"/>
+    <GlyphID id="226" name="asciitilde.2"/>
+    <GlyphID id="227" name="asciitilde.3"/>
+    <GlyphID id="228" name="asterisk.0"/>
+    <GlyphID id="229" name="asterisk.1"/>
+    <GlyphID id="230" name="asterisk.2"/>
+    <GlyphID id="231" name="asterisk.3"/>
+    <GlyphID id="232" name="at.0"/>
+    <GlyphID id="233" name="at.1"/>
+    <GlyphID id="234" name="at.2"/>
+    <GlyphID id="235" name="at.3"/>
+    <GlyphID id="236" name="b.0"/>
+    <GlyphID id="237" name="b.1"/>
+    <GlyphID id="238" name="b.2"/>
+    <GlyphID id="239" name="b.3"/>
+    <GlyphID id="240" name="backslash.0"/>
+    <GlyphID id="241" name="backslash.1"/>
+    <GlyphID id="242" name="backslash.2"/>
+    <GlyphID id="243" name="backslash.3"/>
+    <GlyphID id="244" name="bar.0"/>
+    <GlyphID id="245" name="bar.1"/>
+    <GlyphID id="246" name="bar.2"/>
+    <GlyphID id="247" name="bar.3"/>
+    <GlyphID id="248" name="braceleft.0"/>
+    <GlyphID id="249" name="braceleft.1"/>
+    <GlyphID id="250" name="braceleft.2"/>
+    <GlyphID id="251" name="braceleft.3"/>
+    <GlyphID id="252" name="braceright.0"/>
+    <GlyphID id="253" name="braceright.1"/>
+    <GlyphID id="254" name="braceright.2"/>
+    <GlyphID id="255" name="braceright.3"/>
+    <GlyphID id="256" name="bracketleft.0"/>
+    <GlyphID id="257" name="bracketleft.1"/>
+    <GlyphID id="258" name="bracketleft.2"/>
+    <GlyphID id="259" name="bracketleft.3"/>
+    <GlyphID id="260" name="bracketright.0"/>
+    <GlyphID id="261" name="bracketright.1"/>
+    <GlyphID id="262" name="bracketright.2"/>
+    <GlyphID id="263" name="bracketright.3"/>
+    <GlyphID id="264" name="c.0"/>
+    <GlyphID id="265" name="c.1"/>
+    <GlyphID id="266" name="c.2"/>
+    <GlyphID id="267" name="c.3"/>
+    <GlyphID id="268" name="colon.0"/>
+    <GlyphID id="269" name="colon.1"/>
+    <GlyphID id="270" name="colon.2"/>
+    <GlyphID id="271" name="colon.3"/>
+    <GlyphID id="272" name="comma.0"/>
+    <GlyphID id="273" name="comma.1"/>
+    <GlyphID id="274" name="comma.2"/>
+    <GlyphID id="275" name="comma.3"/>
+    <GlyphID id="276" name="d.0"/>
+    <GlyphID id="277" name="d.1"/>
+    <GlyphID id="278" name="d.2"/>
+    <GlyphID id="279" name="d.3"/>
+    <GlyphID id="280" name="dollar.0"/>
+    <GlyphID id="281" name="dollar.1"/>
+    <GlyphID id="282" name="dollar.2"/>
+    <GlyphID id="283" name="dollar.3"/>
+    <GlyphID id="284" name="e.0"/>
+    <GlyphID id="285" name="e.1"/>
+    <GlyphID id="286" name="e.2"/>
+    <GlyphID id="287" name="e.3"/>
+    <GlyphID id="288" name="eight.0"/>
+    <GlyphID id="289" name="eight.1"/>
+    <GlyphID id="290" name="eight.2"/>
+    <GlyphID id="291" name="eight.3"/>
+    <GlyphID id="292" name="equal.0"/>
+    <GlyphID id="293" name="equal.1"/>
+    <GlyphID id="294" name="equal.2"/>
+    <GlyphID id="295" name="equal.3"/>
+    <GlyphID id="296" name="exclam.0"/>
+    <GlyphID id="297" name="exclam.1"/>
+    <GlyphID id="298" name="exclam.2"/>
+    <GlyphID id="299" name="exclam.3"/>
+    <GlyphID id="300" name="f.0"/>
+    <GlyphID id="301" name="f.1"/>
+    <GlyphID id="302" name="f.2"/>
+    <GlyphID id="303" name="f.3"/>
+    <GlyphID id="304" name="five.0"/>
+    <GlyphID id="305" name="five.1"/>
+    <GlyphID id="306" name="five.2"/>
+    <GlyphID id="307" name="five.3"/>
+    <GlyphID id="308" name="four.0"/>
+    <GlyphID id="309" name="four.1"/>
+    <GlyphID id="310" name="four.2"/>
+    <GlyphID id="311" name="four.3"/>
+    <GlyphID id="312" name="g.0"/>
+    <GlyphID id="313" name="g.1"/>
+    <GlyphID id="314" name="g.2"/>
+    <GlyphID id="315" name="g.3"/>
+    <GlyphID id="316" name="grave.0"/>
+    <GlyphID id="317" name="grave.1"/>
+    <GlyphID id="318" name="grave.2"/>
+    <GlyphID id="319" name="grave.3"/>
+    <GlyphID id="320" name="greater.0"/>
+    <GlyphID id="321" name="greater.1"/>
+    <GlyphID id="322" name="greater.2"/>
+    <GlyphID id="323" name="greater.3"/>
+    <GlyphID id="324" name="h.0"/>
+    <GlyphID id="325" name="h.1"/>
+    <GlyphID id="326" name="h.2"/>
+    <GlyphID id="327" name="h.3"/>
+    <GlyphID id="328" name="hyphen.0"/>
+    <GlyphID id="329" name="hyphen.1"/>
+    <GlyphID id="330" name="hyphen.2"/>
+    <GlyphID id="331" name="hyphen.3"/>
+    <GlyphID id="332" name="i.0"/>
+    <GlyphID id="333" name="i.1"/>
+    <GlyphID id="334" name="i.2"/>
+    <GlyphID id="335" name="i.3"/>
+    <GlyphID id="336" name="j.0"/>
+    <GlyphID id="337" name="j.1"/>
+    <GlyphID id="338" name="j.2"/>
+    <GlyphID id="339" name="j.3"/>
+    <GlyphID id="340" name="k.0"/>
+    <GlyphID id="341" name="k.1"/>
+    <GlyphID id="342" name="k.2"/>
+    <GlyphID id="343" name="k.3"/>
+    <GlyphID id="344" name="l.0"/>
+    <GlyphID id="345" name="l.1"/>
+    <GlyphID id="346" name="l.2"/>
+    <GlyphID id="347" name="l.3"/>
+    <GlyphID id="348" name="less.0"/>
+    <GlyphID id="349" name="less.1"/>
+    <GlyphID id="350" name="less.2"/>
+    <GlyphID id="351" name="less.3"/>
+    <GlyphID id="352" name="m.0"/>
+    <GlyphID id="353" name="m.1"/>
+    <GlyphID id="354" name="m.2"/>
+    <GlyphID id="355" name="m.3"/>
+    <GlyphID id="356" name="n.0"/>
+    <GlyphID id="357" name="n.1"/>
+    <GlyphID id="358" name="n.2"/>
+    <GlyphID id="359" name="n.3"/>
+    <GlyphID id="360" name="nine.0"/>
+    <GlyphID id="361" name="nine.1"/>
+    <GlyphID id="362" name="nine.2"/>
+    <GlyphID id="363" name="nine.3"/>
+    <GlyphID id="364" name="numbersign.0"/>
+    <GlyphID id="365" name="numbersign.1"/>
+    <GlyphID id="366" name="numbersign.2"/>
+    <GlyphID id="367" name="numbersign.3"/>
+    <GlyphID id="368" name="o.0"/>
+    <GlyphID id="369" name="o.1"/>
+    <GlyphID id="370" name="o.2"/>
+    <GlyphID id="371" name="o.3"/>
+    <GlyphID id="372" name="one.0"/>
+    <GlyphID id="373" name="one.1"/>
+    <GlyphID id="374" name="one.2"/>
+    <GlyphID id="375" name="one.3"/>
+    <GlyphID id="376" name="p.0"/>
+    <GlyphID id="377" name="p.1"/>
+    <GlyphID id="378" name="p.2"/>
+    <GlyphID id="379" name="p.3"/>
+    <GlyphID id="380" name="parenleft.0"/>
+    <GlyphID id="381" name="parenleft.1"/>
+    <GlyphID id="382" name="parenleft.2"/>
+    <GlyphID id="383" name="parenleft.3"/>
+    <GlyphID id="384" name="parenright.0"/>
+    <GlyphID id="385" name="parenright.1"/>
+    <GlyphID id="386" name="parenright.2"/>
+    <GlyphID id="387" name="parenright.3"/>
+    <GlyphID id="388" name="percent.0"/>
+    <GlyphID id="389" name="percent.1"/>
+    <GlyphID id="390" name="percent.2"/>
+    <GlyphID id="391" name="percent.3"/>
+    <GlyphID id="392" name="period.0"/>
+    <GlyphID id="393" name="period.1"/>
+    <GlyphID id="394" name="period.2"/>
+    <GlyphID id="395" name="period.3"/>
+    <GlyphID id="396" name="plus.0"/>
+    <GlyphID id="397" name="plus.1"/>
+    <GlyphID id="398" name="plus.2"/>
+    <GlyphID id="399" name="plus.3"/>
+    <GlyphID id="400" name="q.0"/>
+    <GlyphID id="401" name="q.1"/>
+    <GlyphID id="402" name="q.2"/>
+    <GlyphID id="403" name="q.3"/>
+    <GlyphID id="404" name="question.0"/>
+    <GlyphID id="405" name="question.1"/>
+    <GlyphID id="406" name="question.2"/>
+    <GlyphID id="407" name="question.3"/>
+    <GlyphID id="408" name="quotedbl.0"/>
+    <GlyphID id="409" name="quotedbl.1"/>
+    <GlyphID id="410" name="quotedbl.2"/>
+    <GlyphID id="411" name="quotedbl.3"/>
+    <GlyphID id="412" name="quotesingle.0"/>
+    <GlyphID id="413" name="quotesingle.1"/>
+    <GlyphID id="414" name="quotesingle.2"/>
+    <GlyphID id="415" name="quotesingle.3"/>
+    <GlyphID id="416" name="r.0"/>
+    <GlyphID id="417" name="r.1"/>
+    <GlyphID id="418" name="r.2"/>
+    <GlyphID id="419" name="r.3"/>
+    <GlyphID id="420" name="s.0"/>
+    <GlyphID id="421" name="s.1"/>
+    <GlyphID id="422" name="s.2"/>
+    <GlyphID id="423" name="s.3"/>
+    <GlyphID id="424" name="semicolon.0"/>
+    <GlyphID id="425" name="semicolon.1"/>
+    <GlyphID id="426" name="semicolon.2"/>
+    <GlyphID id="427" name="semicolon.3"/>
+    <GlyphID id="428" name="seven.0"/>
+    <GlyphID id="429" name="seven.1"/>
+    <GlyphID id="430" name="seven.2"/>
+    <GlyphID id="431" name="seven.3"/>
+    <GlyphID id="432" name="six.0"/>
+    <GlyphID id="433" name="six.1"/>
+    <GlyphID id="434" name="six.2"/>
+    <GlyphID id="435" name="six.3"/>
+    <GlyphID id="436" name="slash.0"/>
+    <GlyphID id="437" name="slash.1"/>
+    <GlyphID id="438" name="slash.2"/>
+    <GlyphID id="439" name="slash.3"/>
+    <GlyphID id="440" name="t.0"/>
+    <GlyphID id="441" name="t.1"/>
+    <GlyphID id="442" name="t.2"/>
+    <GlyphID id="443" name="t.3"/>
+    <GlyphID id="444" name="three.0"/>
+    <GlyphID id="445" name="three.1"/>
+    <GlyphID id="446" name="three.2"/>
+    <GlyphID id="447" name="three.3"/>
+    <GlyphID id="448" name="two.0"/>
+    <GlyphID id="449" name="two.1"/>
+    <GlyphID id="450" name="two.2"/>
+    <GlyphID id="451" name="two.3"/>
+    <GlyphID id="452" name="u.0"/>
+    <GlyphID id="453" name="u.1"/>
+    <GlyphID id="454" name="u.2"/>
+    <GlyphID id="455" name="u.3"/>
+    <GlyphID id="456" name="u1F64F.0"/>
+    <GlyphID id="457" name="u1F64F.1"/>
+    <GlyphID id="458" name="u1F64F.2"/>
+    <GlyphID id="459" name="u1F64F.3"/>
+    <GlyphID id="460" name="underscore.0"/>
+    <GlyphID id="461" name="underscore.1"/>
+    <GlyphID id="462" name="underscore.2"/>
+    <GlyphID id="463" name="underscore.3"/>
+    <GlyphID id="464" name="uniE366.0"/>
+    <GlyphID id="465" name="uniE366.1"/>
+    <GlyphID id="466" name="uniE366.2"/>
+    <GlyphID id="467" name="uniE366.3"/>
+    <GlyphID id="468" name="uniE367.0"/>
+    <GlyphID id="469" name="uniE367.1"/>
+    <GlyphID id="470" name="uniE367.2"/>
+    <GlyphID id="471" name="uniE367.3"/>
+    <GlyphID id="472" name="uniE368.0"/>
+    <GlyphID id="473" name="uniE368.1"/>
+    <GlyphID id="474" name="uniE368.2"/>
+    <GlyphID id="475" name="uniE368.3"/>
+    <GlyphID id="476" name="uniE369.0"/>
+    <GlyphID id="477" name="uniE369.1"/>
+    <GlyphID id="478" name="uniE369.2"/>
+    <GlyphID id="479" name="uniE369.3"/>
+    <GlyphID id="480" name="uniE36A.0"/>
+    <GlyphID id="481" name="uniE36A.1"/>
+    <GlyphID id="482" name="uniE36A.2"/>
+    <GlyphID id="483" name="uniE36A.3"/>
+    <GlyphID id="484" name="uniE36B.0"/>
+    <GlyphID id="485" name="uniE36B.1"/>
+    <GlyphID id="486" name="uniE36B.2"/>
+    <GlyphID id="487" name="uniE36B.3"/>
+    <GlyphID id="488" name="uniE36C.0"/>
+    <GlyphID id="489" name="uniE36C.1"/>
+    <GlyphID id="490" name="uniE36C.2"/>
+    <GlyphID id="491" name="uniE36C.3"/>
+    <GlyphID id="492" name="uniE36D.0"/>
+    <GlyphID id="493" name="uniE36D.1"/>
+    <GlyphID id="494" name="uniE36D.2"/>
+    <GlyphID id="495" name="uniE36D.3"/>
+    <GlyphID id="496" name="uniE36E.0"/>
+    <GlyphID id="497" name="uniE36E.1"/>
+    <GlyphID id="498" name="uniE36E.2"/>
+    <GlyphID id="499" name="uniE36E.3"/>
+    <GlyphID id="500" name="uniE36F.0"/>
+    <GlyphID id="501" name="uniE36F.1"/>
+    <GlyphID id="502" name="uniE36F.2"/>
+    <GlyphID id="503" name="uniE36F.3"/>
+    <GlyphID id="504" name="v.0"/>
+    <GlyphID id="505" name="v.1"/>
+    <GlyphID id="506" name="v.2"/>
+    <GlyphID id="507" name="v.3"/>
+    <GlyphID id="508" name="w.0"/>
+    <GlyphID id="509" name="w.1"/>
+    <GlyphID id="510" name="w.2"/>
+    <GlyphID id="511" name="w.3"/>
+    <GlyphID id="512" name="x.0"/>
+    <GlyphID id="513" name="x.1"/>
+    <GlyphID id="514" name="x.2"/>
+    <GlyphID id="515" name="x.3"/>
+    <GlyphID id="516" name="y.0"/>
+    <GlyphID id="517" name="y.1"/>
+    <GlyphID id="518" name="y.2"/>
+    <GlyphID id="519" name="y.3"/>
+    <GlyphID id="520" name="z.0"/>
+    <GlyphID id="521" name="z.1"/>
+    <GlyphID id="522" name="z.2"/>
+    <GlyphID id="523" name="z.3"/>
+    <GlyphID id="524" name="zero.0"/>
+    <GlyphID id="525" name="zero.1"/>
+    <GlyphID id="526" name="zero.2"/>
+    <GlyphID id="527" name="zero.3"/>
   </GlyphOrder>
 
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="0.01"/>
-    <checkSumAdjustment value="0xc4126335"/>
+    <fontRevision value="0.015"/>
+    <checkSumAdjustment value="0xf441457e"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00001001"/>
     <unitsPerEm value="1024"/>
     <created value="Fri Nov 29 10:11:58 2024"/>
-    <modified value="Wed Dec 11 05:20:29 2024"/>
+    <modified value="Sun May 18 14:30:53 2025"/>
     <xMin value="-22"/>
     <yMin value="-325"/>
     <xMax value="1103"/>
@@ -565,13 +571,13 @@
     <reserved2 value="0"/>
     <reserved3 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfHMetrics value="519"/>
+    <numberOfHMetrics value="525"/>
   </hhea>
 
   <maxp>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="0x10000"/>
-    <numGlyphs value="522"/>
+    <numGlyphs value="528"/>
     <maxPoints value="2183"/>
     <maxContours value="231"/>
     <maxCompositePoints value="104"/>
@@ -1114,8 +1120,8 @@
     <mtx name="uniE36B.2" width="1024" lsb="48"/>
     <mtx name="uniE36B.3" width="1024" lsb="45"/>
     <mtx name="uniE36C" width="1024" lsb="73"/>
-    <mtx name="uniE36C.0" width="1024" lsb="226"/>
-    <mtx name="uniE36C.1" width="1024" lsb="73"/>
+    <mtx name="uniE36C.0" width="1024" lsb="228"/>
+    <mtx name="uniE36C.1" width="1024" lsb="76"/>
     <mtx name="uniE36C.2" width="1024" lsb="124"/>
     <mtx name="uniE36C.3" width="1024" lsb="122"/>
     <mtx name="uniE36D" width="1024" lsb="13"/>
@@ -1128,6 +1134,12 @@
     <mtx name="uniE36E.1" width="1024" lsb="447"/>
     <mtx name="uniE36E.2" width="1024" lsb="174"/>
     <mtx name="uniE36E.3" width="1024" lsb="158"/>
+    <mtx name="uniE36F" width="810" lsb="18"/>
+    <mtx name="uniE36F.0" width="810" lsb="228"/>
+    <mtx name="uniE36F.1" width="810" lsb="18"/>
+    <mtx name="uniE36F.2" width="810" lsb="178"/>
+    <mtx name="uniE36F.3" width="810" lsb="176"/>
+    <mtx name="uniE370" width="1024" lsb="182"/>
     <mtx name="v" width="652" lsb="50"/>
     <mtx name="v.0" width="652" lsb="85"/>
     <mtx name="v.1" width="652" lsb="116"/>
@@ -1267,6 +1279,8 @@
       <map code="0xe36c" name="uniE36C"/><!-- ???? -->
       <map code="0xe36d" name="uniE36D"/><!-- ???? -->
       <map code="0xe36e" name="uniE36E"/><!-- ???? -->
+      <map code="0xe36f" name="uniE36F"/><!-- ???? -->
+      <map code="0xe370" name="uniE370"/><!-- ???? -->
     </cmap_format_4>
     <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="52" language="0" nGroups="3">
       <map code="0x20" name="space"/><!-- SPACE -->
@@ -1373,6 +1387,8 @@
       <map code="0xe36c" name="uniE36C"/><!-- ???? -->
       <map code="0xe36d" name="uniE36D"/><!-- ???? -->
       <map code="0xe36e" name="uniE36E"/><!-- ???? -->
+      <map code="0xe36f" name="uniE36F"/><!-- ???? -->
+      <map code="0xe370" name="uniE370"/><!-- ???? -->
       <map code="0x1f64f" name="u1F64F"/><!-- PERSON WITH FOLDED HANDS -->
     </cmap_format_12>
     <cmap_format_0 platformID="1" platEncID="0" language="0">
@@ -1582,6 +1598,8 @@
       <map code="0xe36c" name="uniE36C"/><!-- ???? -->
       <map code="0xe36d" name="uniE36D"/><!-- ???? -->
       <map code="0xe36e" name="uniE36E"/><!-- ???? -->
+      <map code="0xe36f" name="uniE36F"/><!-- ???? -->
+      <map code="0xe370" name="uniE370"/><!-- ???? -->
     </cmap_format_4>
     <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="52" language="0" nGroups="3">
       <map code="0x20" name="space"/><!-- SPACE -->
@@ -1688,6 +1706,8 @@
       <map code="0xe36c" name="uniE36C"/><!-- ???? -->
       <map code="0xe36d" name="uniE36D"/><!-- ???? -->
       <map code="0xe36e" name="uniE36E"/><!-- ???? -->
+      <map code="0xe36f" name="uniE36F"/><!-- ???? -->
+      <map code="0xe370" name="uniE370"/><!-- ???? -->
       <map code="0x1f64f" name="u1F64F"/><!-- PERSON WITH FOLDED HANDS -->
     </cmap_format_12>
   </cmap>
@@ -22555,7 +22575,32 @@
       <instructions/>
     </TTGlyph>
 
-    <TTGlyph name="uniE36C" xMin="73" yMin="224" xMax="856" yMax="612">
+    <TTGlyph name="uniE36C" xMin="73" yMin="-22" xMax="870" yMax="612">
+      <contour>
+        <pt x="76" y="272" on="1"/>
+        <pt x="76" y="272" on="0"/>
+        <pt x="98" y="266" on="1"/>
+        <pt x="120" y="259" on="0"/>
+        <pt x="203" y="238" on="0"/>
+        <pt x="303" y="218" on="0"/>
+        <pt x="435" y="205" on="0"/>
+        <pt x="496" y="206" on="1"/>
+        <pt x="568" y="208" on="0"/>
+        <pt x="690" y="233" on="0"/>
+        <pt x="758" y="261" on="0"/>
+        <pt x="839" y="291" on="0"/>
+        <pt x="870" y="296" on="1"/>
+        <pt x="865" y="283" on="0"/>
+        <pt x="845" y="240" on="0"/>
+        <pt x="774" y="131" on="0"/>
+        <pt x="694" y="47" on="0"/>
+        <pt x="565" y="-22" on="0"/>
+        <pt x="496" y="-22" on="1"/>
+        <pt x="414" y="-22" on="0"/>
+        <pt x="260" y="46" on="0"/>
+        <pt x="156" y="146" on="0"/>
+        <pt x="88" y="238" on="0"/>
+      </contour>
       <contour>
         <pt x="728" y="609" on="1"/>
         <pt x="737" y="612" on="1"/>
@@ -22566,26 +22611,25 @@
         <pt x="761" y="561" on="0"/>
         <pt x="734" y="510" on="1"/>
         <pt x="728" y="499" on="0"/>
-        <pt x="716" y="454" on="0"/>
+        <pt x="715" y="454" on="0"/>
         <pt x="710" y="444" on="1"/>
         <pt x="704" y="432" on="0"/>
         <pt x="685" y="381" on="0"/>
         <pt x="665" y="344" on="0"/>
         <pt x="650" y="330" on="1"/>
         <pt x="647" y="327" on="0"/>
-        <pt x="634" y="314" on="0"/>
-        <pt x="626" y="307" on="0"/>
+        <pt x="634" y="313" on="0"/>
+        <pt x="626" y="306" on="0"/>
         <pt x="614" y="300" on="0"/>
         <pt x="608" y="300" on="1"/>
         <pt x="569" y="300" on="1"/>
         <pt x="560" y="302" on="0"/>
-        <pt x="518" y="304" on="0"/>
-        <pt x="487" y="309" on="0"/>
-        <pt x="455" y="318" on="0"/>
-        <pt x="440" y="342" on="0"/>
+        <pt x="507" y="306" on="0"/>
+        <pt x="475" y="312" on="0"/>
+        <pt x="445" y="337" on="0"/>
         <pt x="443" y="360" on="1"/>
-        <pt x="439" y="409" on="0"/>
-        <pt x="511" y="469" on="0"/>
+        <pt x="440" y="406" on="0"/>
+        <pt x="506" y="456" on="0"/>
         <pt x="563" y="471" on="1"/>
         <pt x="573" y="474" on="0"/>
         <pt x="625" y="484" on="0"/>
@@ -22599,8 +22643,8 @@
       </contour>
       <contour>
         <pt x="454" y="293" on="1"/>
-        <pt x="454" y="295" on="0"/>
-        <pt x="449" y="296" on="0"/>
+        <pt x="455" y="295" on="0"/>
+        <pt x="450" y="296" on="0"/>
         <pt x="444" y="295" on="0"/>
         <pt x="442" y="296" on="1"/>
         <pt x="441" y="295" on="0"/>
@@ -22620,7 +22664,9 @@
         <pt x="442" y="287" on="1"/>
         <pt x="430" y="287" on="0"/>
         <pt x="430" y="290" on="1"/>
-        <pt x="430" y="291" on="0"/>
+        <pt x="434" y="292" on="1"/>
+        <pt x="439" y="295" on="0"/>
+        <pt x="444" y="297" on="1"/>
         <pt x="448" y="299" on="1"/>
       </contour>
       <contour>
@@ -22651,13 +22697,10 @@
         <pt x="189" y="308" on="0"/>
         <pt x="221" y="293" on="0"/>
         <pt x="226" y="290" on="1"/>
-        <pt x="260" y="272" on="0"/>
-        <pt x="290" y="257" on="0"/>
-        <pt x="350" y="237" on="0"/>
+        <pt x="285" y="259" on="0"/>
         <pt x="376" y="236" on="1"/>
-        <pt x="417" y="229" on="0"/>
-        <pt x="465" y="234" on="0"/>
-        <pt x="548" y="248" on="0"/>
+        <pt x="408" y="228" on="0"/>
+        <pt x="541" y="257" on="0"/>
         <pt x="574" y="248" on="1"/>
         <pt x="601" y="241" on="0"/>
         <pt x="650" y="257" on="0"/>
@@ -22668,19 +22711,17 @@
         <pt x="780" y="320" on="0"/>
         <pt x="811" y="341" on="0"/>
         <pt x="811" y="365" on="0"/>
-        <pt x="790" y="386" on="1"/>
-        <pt x="765" y="411" on="0"/>
+        <pt x="769" y="407" on="0"/>
         <pt x="748" y="407" on="1"/>
         <pt x="726" y="407" on="0"/>
         <pt x="703" y="416" on="1"/>
-        <pt x="696" y="419" on="0"/>
-        <pt x="671" y="419" on="0"/>
+        <pt x="695" y="419" on="0"/>
         <pt x="664" y="419" on="1"/>
         <pt x="653" y="419" on="0"/>
         <pt x="613" y="430" on="0"/>
         <pt x="604" y="431" on="1"/>
-        <pt x="588" y="432" on="0"/>
-        <pt x="522" y="453" on="0"/>
+        <pt x="584" y="432" on="0"/>
+        <pt x="517" y="450" on="0"/>
         <pt x="502" y="452" on="1"/>
         <pt x="481" y="455" on="0"/>
         <pt x="404" y="439" on="0"/>
@@ -22704,46 +22745,65 @@
       <instructions/>
     </TTGlyph>
 
-    <TTGlyph name="uniE36C.0" xMin="226" yMin="14" xMax="778" yMax="68">
+    <TTGlyph name="uniE36C.0" xMin="228" yMin="-222" xMax="780" yMax="-168">
       <contour>
-        <pt x="307" y="22" on="1"/>
-        <pt x="388" y="14" on="0"/>
-        <pt x="502" y="14" on="1"/>
-        <pt x="616" y="14" on="0"/>
-        <pt x="697" y="22" on="1"/>
-        <pt x="778" y="30" on="0"/>
-        <pt x="778" y="41" on="1"/>
-        <pt x="778" y="52" on="0"/>
-        <pt x="697" y="60" on="1"/>
-        <pt x="616" y="68" on="0"/>
-        <pt x="502" y="68" on="1"/>
-        <pt x="388" y="68" on="0"/>
-        <pt x="307" y="60" on="1"/>
-        <pt x="226" y="52" on="0"/>
-        <pt x="226" y="41" on="1"/>
-        <pt x="226" y="30" on="0"/>
+        <pt x="309" y="-214" on="1"/>
+        <pt x="390" y="-222" on="0"/>
+        <pt x="504" y="-222" on="1"/>
+        <pt x="618" y="-222" on="0"/>
+        <pt x="699" y="-214" on="1"/>
+        <pt x="780" y="-206" on="0"/>
+        <pt x="780" y="-195" on="1"/>
+        <pt x="780" y="-184" on="0"/>
+        <pt x="699" y="-176" on="1"/>
+        <pt x="618" y="-168" on="0"/>
+        <pt x="504" y="-168" on="1"/>
+        <pt x="390" y="-168" on="0"/>
+        <pt x="309" y="-176" on="1"/>
+        <pt x="228" y="-184" on="0"/>
+        <pt x="228" y="-195" on="1"/>
+        <pt x="228" y="-206" on="0"/>
       </contour>
       <instructions/>
     </TTGlyph>
 
-    <TTGlyph name="uniE36C.1" xMin="73" yMin="224" xMax="856" yMax="473">
+    <TTGlyph name="uniE36C.1" xMin="76" yMin="-22" xMax="870" yMax="296">
       <contour>
-        <pt x="188" y="260" on="1"/>
-        <pt x="302" y="224" on="0"/>
-        <pt x="463" y="224" on="1"/>
-        <pt x="624" y="224" on="0"/>
-        <pt x="740" y="262" on="1"/>
-        <pt x="856" y="299" on="0"/>
-        <pt x="856" y="350" on="1"/>
-        <pt x="856" y="401" on="0"/>
-        <pt x="742" y="437" on="1"/>
-        <pt x="627" y="473" on="0"/>
-        <pt x="466" y="473" on="1"/>
-        <pt x="305" y="473" on="0"/>
-        <pt x="189" y="436" on="1"/>
-        <pt x="73" y="398" on="0"/>
-        <pt x="73" y="347" on="1"/>
-        <pt x="73" y="296" on="0"/>
+        <pt x="76" y="272" on="1"/>
+        <pt x="88" y="238" on="0"/>
+        <pt x="122" y="192" on="1"/>
+        <pt x="156" y="146" on="0"/>
+        <pt x="208" y="96" on="1"/>
+        <pt x="260" y="46" on="0"/>
+        <pt x="337" y="12" on="1"/>
+        <pt x="414" y="-22" on="0"/>
+        <pt x="496" y="-22" on="1"/>
+        <pt x="565" y="-22" on="0"/>
+        <pt x="630" y="13" on="1"/>
+        <pt x="694" y="47" on="0"/>
+        <pt x="734" y="89" on="1"/>
+        <pt x="774" y="131" on="0"/>
+        <pt x="810" y="186" on="1"/>
+        <pt x="845" y="240" on="0"/>
+        <pt x="855" y="262" on="1"/>
+        <pt x="865" y="283" on="0"/>
+        <pt x="870" y="296" on="1"/>
+        <pt x="839" y="291" on="0"/>
+        <pt x="799" y="276" on="1"/>
+        <pt x="758" y="261" on="0"/>
+        <pt x="724" y="247" on="1"/>
+        <pt x="690" y="233" on="0"/>
+        <pt x="629" y="221" on="1"/>
+        <pt x="568" y="208" on="0"/>
+        <pt x="496" y="206" on="1"/>
+        <pt x="435" y="205" on="0"/>
+        <pt x="369" y="212" on="1"/>
+        <pt x="303" y="218" on="0"/>
+        <pt x="253" y="228" on="1"/>
+        <pt x="203" y="238" on="0"/>
+        <pt x="162" y="249" on="1"/>
+        <pt x="120" y="259" on="0"/>
+        <pt x="98" y="266" on="1"/>
       </contour>
       <instructions/>
     </TTGlyph>
@@ -28893,6 +28953,840 @@
       <instructions/>
     </TTGlyph>
 
+    <TTGlyph name="uniE36F" xMin="18" yMin="-86" xMax="751" yMax="822">
+      <contour>
+        <pt x="228" y="-66" on="0"/>
+        <pt x="228" y="-34" on="0"/>
+        <pt x="328" y="-14" on="0"/>
+        <pt x="470" y="-14" on="0"/>
+        <pt x="570" y="-34" on="0"/>
+        <pt x="570" y="-50" on="1"/>
+        <pt x="570" y="-66" on="0"/>
+        <pt x="470" y="-86" on="0"/>
+        <pt x="328" y="-86" on="0"/>
+      </contour>
+      <contour>
+        <pt x="18" y="433" on="1"/>
+        <pt x="314" y="-9" on="1"/>
+        <pt x="466" y="-9" on="1"/>
+        <pt x="170" y="433" on="1"/>
+      </contour>
+      <contour>
+        <pt x="346" y="822" on="1"/>
+        <pt x="36" y="440" on="1"/>
+        <pt x="172" y="440" on="1"/>
+        <pt x="482" y="822" on="1"/>
+      </contour>
+      <contour>
+        <pt x="493" y="815" on="1"/>
+        <pt x="178" y="431" on="1"/>
+        <pt x="466" y="0" on="1"/>
+        <pt x="751" y="395" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE36F.0" xMin="228" yMin="-86" xMax="570" yMax="-14">
+      <contour>
+        <pt x="570" y="-50" on="1"/>
+        <pt x="570" y="-34" on="0"/>
+        <pt x="520" y="-24" on="1"/>
+        <pt x="470" y="-14" on="0"/>
+        <pt x="399" y="-14" on="1"/>
+        <pt x="328" y="-14" on="0"/>
+        <pt x="278" y="-24" on="1"/>
+        <pt x="228" y="-34" on="0"/>
+        <pt x="228" y="-50" on="1"/>
+        <pt x="228" y="-66" on="0"/>
+        <pt x="278" y="-76" on="1"/>
+        <pt x="328" y="-86" on="0"/>
+        <pt x="399" y="-86" on="1"/>
+        <pt x="470" y="-86" on="0"/>
+        <pt x="520" y="-76" on="1"/>
+        <pt x="570" y="-66" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE36F.1" xMin="18" yMin="-9" xMax="482" yMax="822">
+      <contour>
+        <pt x="18" y="433" on="1"/>
+        <pt x="170" y="433" on="1"/>
+        <pt x="466" y="-9" on="1"/>
+        <pt x="314" y="-9" on="1"/>
+      </contour>
+      <contour>
+        <pt x="346" y="822" on="1"/>
+        <pt x="482" y="822" on="1"/>
+        <pt x="172" y="440" on="1"/>
+        <pt x="36" y="440" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE36F.2" xMin="178" yMin="0" xMax="751" yMax="815">
+      <contour>
+        <pt x="493" y="815" on="1"/>
+        <pt x="751" y="395" on="1"/>
+        <pt x="466" y="0" on="1"/>
+        <pt x="178" y="431" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE36F.3" xMin="176" yMin="-2" xMax="754" yMax="818">
+      <contour>
+        <pt x="753" y="394" on="1"/>
+        <pt x="754" y="394" on="0"/>
+        <pt x="754" y="395" on="1"/>
+        <pt x="754" y="396" on="0"/>
+        <pt x="753" y="396" on="1"/>
+        <pt x="495" y="816" on="1"/>
+        <pt x="494" y="818" on="0"/>
+        <pt x="493" y="818" on="1"/>
+        <pt x="492" y="818" on="0"/>
+        <pt x="491" y="817" on="1"/>
+        <pt x="176" y="433" on="1"/>
+        <pt x="176" y="432" on="0"/>
+        <pt x="176" y="431" on="1"/>
+        <pt x="176" y="430" on="0"/>
+        <pt x="176" y="430" on="1"/>
+        <pt x="464" y="-1" on="1"/>
+        <pt x="465" y="-2" on="0"/>
+        <pt x="466" y="-2" on="1"/>
+        <pt x="467" y="-2" on="0"/>
+        <pt x="468" y="-1" on="1"/>
+      </contour>
+      <contour>
+        <pt x="748" y="395" on="1"/>
+        <pt x="466" y="4" on="1"/>
+        <pt x="181" y="431" on="1"/>
+        <pt x="493" y="811" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE370" xMin="183" yMin="113" xMax="731" yMax="779">
+      <contour>
+        <pt x="426" y="244" on="1"/>
+        <pt x="425" y="244" on="1"/>
+        <pt x="424" y="244" on="1"/>
+        <pt x="423" y="244" on="1"/>
+        <pt x="422" y="244" on="0"/>
+        <pt x="418" y="242" on="0"/>
+        <pt x="417" y="242" on="1"/>
+        <pt x="408" y="243" on="0"/>
+        <pt x="406" y="239" on="1"/>
+        <pt x="402" y="232" on="0"/>
+        <pt x="421" y="228" on="1"/>
+        <pt x="430" y="226" on="0"/>
+        <pt x="436" y="226" on="1"/>
+        <pt x="449" y="226" on="0"/>
+        <pt x="449" y="240" on="0"/>
+      </contour>
+      <contour>
+        <pt x="439" y="266" on="1"/>
+        <pt x="435" y="266" on="1"/>
+        <pt x="424" y="267" on="0"/>
+        <pt x="423" y="262" on="1"/>
+        <pt x="423" y="256" on="1"/>
+        <pt x="423" y="255" on="0"/>
+        <pt x="427" y="254" on="0"/>
+        <pt x="430" y="255" on="0"/>
+        <pt x="432" y="254" on="1"/>
+        <pt x="442" y="256" on="1"/>
+        <pt x="442" y="258" on="1"/>
+        <pt x="442" y="259" on="0"/>
+        <pt x="443" y="261" on="0"/>
+        <pt x="443" y="262" on="1"/>
+      </contour>
+      <contour>
+        <pt x="401" y="281" on="1"/>
+        <pt x="392" y="281" on="0"/>
+        <pt x="392" y="268" on="1"/>
+        <pt x="392" y="261" on="0"/>
+        <pt x="414" y="261" on="0"/>
+        <pt x="414" y="267" on="1"/>
+        <pt x="414" y="268" on="0"/>
+        <pt x="415" y="271" on="0"/>
+        <pt x="415" y="272" on="1"/>
+        <pt x="415" y="274" on="0"/>
+        <pt x="411" y="277" on="0"/>
+        <pt x="405" y="280" on="0"/>
+        <pt x="404" y="280" on="1"/>
+      </contour>
+      <contour>
+        <pt x="440" y="290" on="1"/>
+        <pt x="423" y="290" on="1"/>
+        <pt x="420" y="288" on="0"/>
+        <pt x="420" y="286" on="1"/>
+        <pt x="420" y="283" on="0"/>
+        <pt x="423" y="281" on="1"/>
+        <pt x="439" y="271" on="0"/>
+        <pt x="449" y="271" on="1"/>
+        <pt x="451" y="271" on="0"/>
+        <pt x="458" y="275" on="0"/>
+        <pt x="458" y="276" on="1"/>
+        <pt x="458" y="280" on="0"/>
+        <pt x="453" y="284" on="0"/>
+        <pt x="444" y="288" on="0"/>
+        <pt x="443" y="289" on="1"/>
+      </contour>
+      <contour>
+        <pt x="499" y="467" on="1"/>
+        <pt x="497" y="467" on="0"/>
+        <pt x="497" y="469" on="1"/>
+        <pt x="497" y="472" on="0"/>
+        <pt x="501" y="484" on="0"/>
+        <pt x="501" y="487" on="1"/>
+        <pt x="501" y="489" on="0"/>
+        <pt x="500" y="496" on="0"/>
+        <pt x="500" y="497" on="1"/>
+        <pt x="500" y="501" on="1"/>
+        <pt x="498" y="504" on="0"/>
+        <pt x="493" y="500" on="1"/>
+        <pt x="491" y="498" on="0"/>
+        <pt x="437" y="472" on="0"/>
+        <pt x="432" y="460" on="1"/>
+        <pt x="431" y="459" on="0"/>
+        <pt x="439" y="443" on="0"/>
+        <pt x="439" y="435" on="1"/>
+        <pt x="439" y="428" on="0"/>
+        <pt x="428" y="404" on="0"/>
+        <pt x="428" y="399" on="1"/>
+        <pt x="428" y="395" on="0"/>
+        <pt x="438" y="395" on="1"/>
+        <pt x="447" y="395" on="1"/>
+        <pt x="459" y="395" on="0"/>
+        <pt x="502" y="368" on="0"/>
+        <pt x="517" y="368" on="1"/>
+        <pt x="575" y="368" on="0"/>
+        <pt x="575" y="379" on="1"/>
+        <pt x="575" y="380" on="0"/>
+        <pt x="536" y="405" on="0"/>
+        <pt x="536" y="416" on="1"/>
+        <pt x="536" y="419" on="0"/>
+        <pt x="593" y="431" on="0"/>
+        <pt x="599" y="431" on="1"/>
+        <pt x="604" y="431" on="1"/>
+        <pt x="606" y="431" on="0"/>
+        <pt x="606" y="433" on="1"/>
+        <pt x="606" y="449" on="0"/>
+        <pt x="530" y="464" on="0"/>
+        <pt x="506" y="464" on="1"/>
+        <pt x="505" y="464" on="0"/>
+        <pt x="500" y="465" on="1"/>
+      </contour>
+      <contour>
+        <pt x="396" y="195" on="1"/>
+        <pt x="390" y="191" on="0"/>
+        <pt x="386" y="188" on="1"/>
+        <pt x="382" y="185" on="1"/>
+        <pt x="388" y="185" on="1"/>
+        <pt x="394" y="185" on="0"/>
+        <pt x="395" y="182" on="1"/>
+        <pt x="396" y="179" on="0"/>
+        <pt x="412" y="182" on="0"/>
+        <pt x="419" y="186" on="1"/>
+        <pt x="426" y="192" on="0"/>
+        <pt x="426" y="194" on="0"/>
+        <pt x="416" y="194" on="0"/>
+        <pt x="416" y="197" on="1"/>
+        <pt x="415" y="199" on="0"/>
+        <pt x="400" y="198" on="0"/>
+      </contour>
+      <contour>
+        <pt x="407" y="300" on="1"/>
+        <pt x="420" y="303" on="0"/>
+        <pt x="440" y="297" on="1"/>
+        <pt x="466" y="289" on="0"/>
+        <pt x="466" y="262" on="1"/>
+        <pt x="466" y="246" on="0"/>
+        <pt x="454" y="221" on="0"/>
+        <pt x="443" y="217" on="1"/>
+        <pt x="434" y="214" on="0"/>
+        <pt x="403" y="219" on="0"/>
+        <pt x="397" y="225" on="1"/>
+        <pt x="385" y="237" on="0"/>
+        <pt x="385" y="268" on="1"/>
+        <pt x="385" y="283" on="0"/>
+        <pt x="394" y="297" on="0"/>
+      </contour>
+      <contour>
+        <pt x="513" y="312" on="1"/>
+        <pt x="516" y="318" on="0"/>
+        <pt x="527" y="313" on="1"/>
+        <pt x="532" y="311" on="0"/>
+        <pt x="532" y="306" on="1"/>
+        <pt x="532" y="299" on="0"/>
+        <pt x="524" y="292" on="0"/>
+        <pt x="518" y="294" on="1"/>
+        <pt x="508" y="298" on="0"/>
+      </contour>
+      <contour>
+        <pt x="623" y="348" on="0"/>
+        <pt x="631" y="355" on="0"/>
+        <pt x="635" y="353" on="0"/>
+        <pt x="644" y="353" on="0"/>
+        <pt x="644" y="350" on="0"/>
+        <pt x="648" y="350" on="1"/>
+        <pt x="657" y="350" on="0"/>
+        <pt x="648" y="343" on="1"/>
+        <pt x="637" y="335" on="0"/>
+        <pt x="635" y="337" on="1"/>
+        <pt x="632" y="339" on="0"/>
+        <pt x="629" y="337" on="1"/>
+        <pt x="624" y="334" on="0"/>
+        <pt x="624" y="341" on="0"/>
+        <pt x="616" y="340" on="1"/>
+        <pt x="613" y="342" on="1"/>
+        <pt x="614" y="344" on="0"/>
+        <pt x="618" y="346" on="1"/>
+      </contour>
+      <contour>
+        <pt x="429" y="386" on="1"/>
+        <pt x="439" y="391" on="0"/>
+        <pt x="447" y="384" on="1"/>
+        <pt x="451" y="380" on="0"/>
+        <pt x="449" y="377" on="1"/>
+        <pt x="448" y="374" on="0"/>
+        <pt x="434" y="366" on="0"/>
+        <pt x="431" y="366" on="1"/>
+        <pt x="429" y="366" on="0"/>
+        <pt x="420" y="372" on="0"/>
+        <pt x="422" y="379" on="0"/>
+        <pt x="425" y="379" on="0"/>
+        <pt x="424" y="383" on="0"/>
+      </contour>
+      <contour>
+        <pt x="235" y="389" on="1"/>
+        <pt x="235" y="391" on="0"/>
+        <pt x="245" y="390" on="0"/>
+        <pt x="257" y="387" on="0"/>
+        <pt x="259" y="385" on="1"/>
+        <pt x="259" y="384" on="0"/>
+        <pt x="266" y="383" on="0"/>
+        <pt x="280" y="378" on="0"/>
+        <pt x="317" y="370" on="0"/>
+        <pt x="317" y="366" on="0"/>
+        <pt x="323" y="361" on="0"/>
+        <pt x="323" y="363" on="1"/>
+        <pt x="323" y="364" on="0"/>
+        <pt x="318" y="368" on="0"/>
+        <pt x="319" y="370" on="0"/>
+        <pt x="324" y="367" on="1"/>
+        <pt x="335" y="362" on="0"/>
+        <pt x="339" y="344" on="0"/>
+        <pt x="331" y="329" on="1"/>
+        <pt x="328" y="324" on="0"/>
+        <pt x="316" y="311" on="0"/>
+        <pt x="312" y="311" on="0"/>
+        <pt x="312" y="307" on="0"/>
+        <pt x="307" y="309" on="0"/>
+        <pt x="308" y="307" on="1"/>
+        <pt x="310" y="300" on="0"/>
+        <pt x="284" y="303" on="1"/>
+        <pt x="247" y="308" on="0"/>
+        <pt x="243" y="326" on="1"/>
+        <pt x="242" y="330" on="0"/>
+        <pt x="239" y="330" on="0"/>
+        <pt x="241" y="332" on="0"/>
+        <pt x="238" y="338" on="0"/>
+        <pt x="236" y="351" on="0"/>
+        <pt x="235" y="353" on="1"/>
+        <pt x="233" y="358" on="0"/>
+        <pt x="232" y="375" on="1"/>
+        <pt x="232" y="385" on="0"/>
+        <pt x="234" y="385" on="1"/>
+        <pt x="236" y="385" on="0"/>
+        <pt x="238" y="387" on="0"/>
+        <pt x="244" y="386" on="1"/>
+        <pt x="252" y="385" on="1"/>
+        <pt x="251" y="386" on="0"/>
+        <pt x="248" y="387" on="1"/>
+        <pt x="242" y="389" on="0"/>
+        <pt x="235" y="388" on="0"/>
+      </contour>
+      <contour>
+        <pt x="258" y="367" on="1"/>
+        <pt x="258" y="367" on="0"/>
+        <pt x="256" y="368" on="0"/>
+        <pt x="255" y="367" on="1"/>
+        <pt x="252" y="366" on="0"/>
+        <pt x="260" y="362" on="0"/>
+        <pt x="260" y="364" on="1"/>
+        <pt x="260" y="366" on="0"/>
+        <pt x="274" y="364" on="0"/>
+        <pt x="276" y="366" on="1"/>
+        <pt x="281" y="368" on="0"/>
+        <pt x="271" y="372" on="1"/>
+        <pt x="258" y="376" on="0"/>
+      </contour>
+      <contour>
+        <pt x="272" y="377" on="1"/>
+        <pt x="270" y="378" on="1"/>
+        <pt x="266" y="379" on="0"/>
+        <pt x="270" y="376" on="0"/>
+      </contour>
+      <contour>
+        <pt x="280" y="375" on="0"/>
+        <pt x="278" y="378" on="0"/>
+        <pt x="277" y="378" on="0"/>
+        <pt x="275" y="375" on="0"/>
+      </contour>
+      <contour>
+        <pt x="315" y="369" on="1"/>
+        <pt x="312" y="369" on="1"/>
+        <pt x="314" y="368" on="0"/>
+      </contour>
+      <contour>
+        <pt x="308" y="367" on="1"/>
+        <pt x="307" y="368" on="0"/>
+        <pt x="305" y="368" on="1"/>
+        <pt x="302" y="367" on="1"/>
+        <pt x="303" y="367" on="0"/>
+        <pt x="305" y="366" on="1"/>
+      </contour>
+      <contour>
+        <pt x="330" y="360" on="0"/>
+        <pt x="330" y="363" on="0"/>
+        <pt x="326" y="363" on="0"/>
+        <pt x="328" y="360" on="0"/>
+      </contour>
+      <contour>
+        <pt x="332" y="348" on="1"/>
+        <pt x="333" y="350" on="0"/>
+        <pt x="332" y="351" on="1"/>
+        <pt x="331" y="349" on="1"/>
+      </contour>
+      <contour>
+        <pt x="327" y="331" on="1"/>
+        <pt x="325" y="337" on="0"/>
+        <pt x="325" y="332" on="1"/>
+        <pt x="325" y="331" on="0"/>
+        <pt x="326" y="330" on="1"/>
+      </contour>
+      <contour>
+        <pt x="323" y="323" on="0"/>
+        <pt x="325" y="325" on="0"/>
+        <pt x="320" y="331" on="0"/>
+        <pt x="320" y="329" on="1"/>
+        <pt x="320" y="328" on="0"/>
+        <pt x="321" y="326" on="1"/>
+      </contour>
+      <contour>
+        <pt x="318" y="321" on="1"/>
+        <pt x="319" y="325" on="0"/>
+        <pt x="317" y="325" on="0"/>
+        <pt x="316" y="321" on="0"/>
+        <pt x="316" y="317" on="1"/>
+        <pt x="316" y="313" on="1"/>
+        <pt x="316" y="313" on="0"/>
+        <pt x="321" y="320" on="0"/>
+        <pt x="319" y="318" on="1"/>
+        <pt x="317" y="317" on="0"/>
+        <pt x="317" y="319" on="1"/>
+        <pt x="317" y="319" on="0"/>
+      </contour>
+      <contour>
+        <pt x="607" y="414" on="1"/>
+        <pt x="614" y="416" on="0"/>
+        <pt x="637" y="413" on="0"/>
+        <pt x="641" y="408" on="1"/>
+        <pt x="644" y="404" on="0"/>
+        <pt x="639" y="393" on="1"/>
+        <pt x="635" y="384" on="0"/>
+        <pt x="635" y="383" on="1"/>
+        <pt x="635" y="381" on="0"/>
+        <pt x="623" y="364" on="0"/>
+        <pt x="620" y="361" on="1"/>
+        <pt x="607" y="353" on="0"/>
+        <pt x="594" y="357" on="1"/>
+        <pt x="576" y="361" on="0"/>
+        <pt x="586" y="389" on="1"/>
+        <pt x="593" y="409" on="0"/>
+      </contour>
+      <contour>
+        <pt x="295" y="422" on="1"/>
+        <pt x="290" y="417" on="0"/>
+        <pt x="307" y="416" on="1"/>
+        <pt x="319" y="416" on="0"/>
+        <pt x="319" y="423" on="1"/>
+        <pt x="319" y="427" on="0"/>
+        <pt x="307" y="427" on="1"/>
+        <pt x="306" y="427" on="0"/>
+        <pt x="302" y="425" on="0"/>
+        <pt x="297" y="423" on="0"/>
+      </contour>
+      <contour>
+        <pt x="306" y="438" on="1"/>
+        <pt x="315" y="435" on="0"/>
+        <pt x="304" y="434" on="1"/>
+        <pt x="306" y="433" on="1"/>
+        <pt x="307" y="431" on="0"/>
+        <pt x="309" y="432" on="1"/>
+        <pt x="309" y="433" on="0"/>
+        <pt x="310" y="432" on="0"/>
+        <pt x="310" y="430" on="1"/>
+        <pt x="312" y="432" on="1"/>
+        <pt x="314" y="434" on="0"/>
+        <pt x="313" y="438" on="0"/>
+        <pt x="312" y="439" on="1"/>
+        <pt x="301" y="444" on="0"/>
+        <pt x="300" y="442" on="1"/>
+        <pt x="305" y="438" on="1"/>
+      </contour>
+      <contour>
+        <pt x="301" y="442" on="0"/>
+        <pt x="302" y="443" on="0"/>
+        <pt x="312" y="443" on="1"/>
+        <pt x="319" y="443" on="0"/>
+        <pt x="322" y="442" on="0"/>
+        <pt x="324" y="438" on="1"/>
+        <pt x="325" y="435" on="0"/>
+        <pt x="326" y="427" on="0"/>
+        <pt x="326" y="422" on="0"/>
+        <pt x="325" y="422" on="1"/>
+        <pt x="323" y="422" on="0"/>
+        <pt x="324" y="420" on="1"/>
+        <pt x="325" y="419" on="0"/>
+        <pt x="318" y="407" on="0"/>
+        <pt x="316" y="407" on="1"/>
+        <pt x="313" y="406" on="0"/>
+        <pt x="303" y="404" on="0"/>
+        <pt x="294" y="405" on="0"/>
+        <pt x="294" y="406" on="1"/>
+        <pt x="294" y="407" on="0"/>
+        <pt x="292" y="407" on="1"/>
+        <pt x="289" y="407" on="0"/>
+        <pt x="276" y="424" on="1"/>
+        <pt x="270" y="433" on="0"/>
+        <pt x="270" y="437" on="1"/>
+        <pt x="271" y="440" on="0"/>
+        <pt x="275" y="441" on="0"/>
+        <pt x="286" y="441" on="1"/>
+      </contour>
+      <contour>
+        <pt x="291" y="474" on="0"/>
+        <pt x="300" y="482" on="0"/>
+        <pt x="303" y="479" on="0"/>
+        <pt x="312" y="481" on="0"/>
+        <pt x="314" y="476" on="0"/>
+        <pt x="319" y="476" on="1"/>
+        <pt x="322" y="476" on="0"/>
+        <pt x="323" y="475" on="0"/>
+        <pt x="321" y="473" on="1"/>
+        <pt x="318" y="470" on="0"/>
+        <pt x="313" y="470" on="0"/>
+        <pt x="313" y="466" on="0"/>
+        <pt x="309" y="466" on="0"/>
+        <pt x="309" y="464" on="0"/>
+        <pt x="301" y="463" on="0"/>
+        <pt x="292" y="464" on="0"/>
+        <pt x="291" y="466" on="1"/>
+        <pt x="289" y="468" on="0"/>
+        <pt x="281" y="466" on="0"/>
+        <pt x="281" y="469" on="0"/>
+        <pt x="287" y="474" on="0"/>
+        <pt x="288" y="474" on="1"/>
+      </contour>
+      <contour>
+        <pt x="374" y="492" on="0"/>
+        <pt x="385" y="496" on="0"/>
+        <pt x="389" y="496" on="1"/>
+        <pt x="393" y="496" on="0"/>
+        <pt x="410" y="487" on="0"/>
+        <pt x="412" y="483" on="1"/>
+        <pt x="416" y="478" on="0"/>
+        <pt x="412" y="461" on="1"/>
+        <pt x="408" y="442" on="0"/>
+        <pt x="418" y="429" on="1"/>
+        <pt x="424" y="421" on="0"/>
+        <pt x="419" y="416" on="1"/>
+        <pt x="414" y="410" on="0"/>
+        <pt x="398" y="418" on="1"/>
+        <pt x="390" y="422" on="0"/>
+        <pt x="385" y="430" on="0"/>
+        <pt x="383" y="441" on="1"/>
+        <pt x="382" y="449" on="0"/>
+        <pt x="373" y="471" on="0"/>
+        <pt x="371" y="471" on="1"/>
+        <pt x="370" y="471" on="0"/>
+        <pt x="370" y="477" on="0"/>
+        <pt x="371" y="485" on="0"/>
+        <pt x="372" y="488" on="1"/>
+      </contour>
+      <contour>
+        <pt x="458" y="550" on="0"/>
+        <pt x="464" y="553" on="0"/>
+        <pt x="466" y="553" on="1"/>
+        <pt x="468" y="553" on="0"/>
+        <pt x="475" y="547" on="0"/>
+        <pt x="475" y="543" on="1"/>
+        <pt x="476" y="538" on="0"/>
+        <pt x="473" y="524" on="0"/>
+        <pt x="471" y="524" on="1"/>
+        <pt x="469" y="524" on="0"/>
+        <pt x="471" y="521" on="0"/>
+        <pt x="465" y="515" on="0"/>
+        <pt x="459" y="511" on="1"/>
+        <pt x="444" y="502" on="0"/>
+        <pt x="409" y="521" on="1"/>
+        <pt x="399" y="527" on="0"/>
+        <pt x="394" y="533" on="0"/>
+        <pt x="395" y="543" on="0"/>
+        <pt x="408" y="550" on="0"/>
+      </contour>
+      <contour>
+        <pt x="568" y="553" on="1"/>
+        <pt x="574" y="555" on="0"/>
+        <pt x="585" y="552" on="1"/>
+        <pt x="608" y="546" on="0"/>
+        <pt x="617" y="536" on="1"/>
+        <pt x="627" y="525" on="0"/>
+        <pt x="617" y="505" on="1"/>
+        <pt x="604" y="481" on="0"/>
+        <pt x="595" y="476" on="1"/>
+        <pt x="584" y="471" on="0"/>
+        <pt x="564" y="474" on="1"/>
+        <pt x="547" y="476" on="0"/>
+        <pt x="527" y="510" on="0"/>
+        <pt x="532" y="526" on="1"/>
+        <pt x="534" y="530" on="0"/>
+        <pt x="532" y="531" on="0"/>
+        <pt x="530" y="531" on="0"/>
+        <pt x="523" y="538" on="0"/>
+        <pt x="516" y="536" on="0"/>
+        <pt x="516" y="538" on="1"/>
+        <pt x="516" y="540" on="0"/>
+        <pt x="521" y="543" on="1"/>
+        <pt x="527" y="545" on="0"/>
+        <pt x="535" y="552" on="0"/>
+        <pt x="538" y="548" on="0"/>
+        <pt x="547" y="550" on="0"/>
+        <pt x="551" y="546" on="0"/>
+        <pt x="563" y="553" on="0"/>
+        <pt x="564" y="551" on="0"/>
+      </contour>
+      <contour>
+        <pt x="348" y="619" on="1"/>
+        <pt x="353" y="622" on="0"/>
+        <pt x="356" y="622" on="1"/>
+        <pt x="359" y="622" on="0"/>
+        <pt x="375" y="610" on="0"/>
+        <pt x="379" y="605" on="1"/>
+        <pt x="386" y="597" on="0"/>
+        <pt x="381" y="585" on="1"/>
+        <pt x="377" y="576" on="0"/>
+        <pt x="350" y="556" on="0"/>
+        <pt x="342" y="556" on="1"/>
+        <pt x="334" y="556" on="0"/>
+        <pt x="317" y="579" on="0"/>
+        <pt x="319" y="588" on="1"/>
+        <pt x="320" y="591" on="0"/>
+        <pt x="342" y="615" on="0"/>
+      </contour>
+      <contour>
+        <pt x="589" y="665" on="1"/>
+        <pt x="600" y="665" on="0"/>
+        <pt x="609" y="661" on="0"/>
+        <pt x="607" y="657" on="1"/>
+        <pt x="605" y="646" on="0"/>
+        <pt x="589" y="639" on="1"/>
+        <pt x="583" y="636" on="0"/>
+        <pt x="577" y="642" on="0"/>
+        <pt x="569" y="645" on="1"/>
+        <pt x="557" y="651" on="0"/>
+        <pt x="560" y="656" on="1"/>
+        <pt x="562" y="660" on="0"/>
+        <pt x="570" y="662" on="0"/>
+        <pt x="577" y="664" on="0"/>
+      </contour>
+      <contour>
+        <pt x="589" y="646" on="0"/>
+        <pt x="589" y="650" on="0"/>
+        <pt x="586" y="650" on="0"/>
+        <pt x="586" y="646" on="0"/>
+      </contour>
+      <contour>
+        <pt x="451" y="680" on="1"/>
+        <pt x="457" y="683" on="0"/>
+        <pt x="457" y="681" on="1"/>
+        <pt x="458" y="680" on="1"/>
+        <pt x="460" y="682" on="0"/>
+        <pt x="483" y="668" on="0"/>
+        <pt x="486" y="662" on="1"/>
+        <pt x="489" y="655" on="0"/>
+        <pt x="473" y="635" on="0"/>
+        <pt x="463" y="635" on="1"/>
+        <pt x="457" y="635" on="0"/>
+        <pt x="445" y="639" on="0"/>
+        <pt x="445" y="641" on="1"/>
+        <pt x="445" y="643" on="0"/>
+        <pt x="439" y="645" on="0"/>
+        <pt x="439" y="659" on="0"/>
+        <pt x="442" y="662" on="0"/>
+        <pt x="447" y="679" on="0"/>
+      </contour>
+      <contour>
+        <pt x="530" y="721" on="1"/>
+        <pt x="532" y="725" on="0"/>
+        <pt x="558" y="720" on="0"/>
+        <pt x="558" y="716" on="1"/>
+        <pt x="558" y="714" on="0"/>
+        <pt x="551" y="710" on="0"/>
+        <pt x="550" y="709" on="1"/>
+        <pt x="544" y="700" on="0"/>
+        <pt x="533" y="700" on="1"/>
+        <pt x="528" y="702" on="1"/>
+        <pt x="529" y="703" on="0"/>
+        <pt x="527" y="706" on="1"/>
+        <pt x="523" y="711" on="0"/>
+      </contour>
+      <contour>
+        <pt x="537" y="713" on="1"/>
+        <pt x="537" y="717" on="0"/>
+        <pt x="535" y="714" on="1"/>
+        <pt x="534" y="712" on="0"/>
+        <pt x="535" y="711" on="1"/>
+        <pt x="536" y="711" on="0"/>
+        <pt x="537" y="712" on="0"/>
+      </contour>
+      <contour>
+        <pt x="501" y="731" on="0"/>
+        <pt x="507" y="736" on="0"/>
+        <pt x="521" y="736" on="0"/>
+        <pt x="523" y="732" on="0"/>
+        <pt x="527" y="732" on="1"/>
+        <pt x="534" y="732" on="0"/>
+        <pt x="524" y="724" on="1"/>
+        <pt x="518" y="720" on="0"/>
+        <pt x="502" y="718" on="0"/>
+        <pt x="501" y="721" on="1"/>
+        <pt x="500" y="724" on="0"/>
+        <pt x="490" y="722" on="0"/>
+        <pt x="491" y="727" on="0"/>
+      </contour>
+      <contour>
+        <pt x="509" y="776" on="1"/>
+        <pt x="540" y="779" on="0"/>
+        <pt x="612" y="768" on="0"/>
+        <pt x="635" y="756" on="1"/>
+        <pt x="701" y="723" on="0"/>
+        <pt x="721" y="638" on="1"/>
+        <pt x="731" y="592" on="0"/>
+        <pt x="718" y="466" on="0"/>
+        <pt x="696" y="401" on="1"/>
+        <pt x="663" y="304" on="0"/>
+        <pt x="601" y="234" on="1"/>
+        <pt x="586" y="216" on="0"/>
+        <pt x="535" y="173" on="0"/>
+        <pt x="530" y="173" on="1"/>
+        <pt x="527" y="173" on="0"/>
+        <pt x="527" y="171" on="1"/>
+        <pt x="525" y="166" on="0"/>
+        <pt x="473" y="138" on="0"/>
+        <pt x="450" y="130" on="1"/>
+        <pt x="416" y="117" on="0"/>
+        <pt x="387" y="116" on="1"/>
+        <pt x="364" y="116" on="0"/>
+        <pt x="353" y="113" on="1"/>
+        <pt x="264" y="138" on="1"/>
+        <pt x="264" y="144" on="1"/>
+        <pt x="223" y="191" on="1"/>
+        <pt x="222" y="199" on="1"/>
+        <pt x="193" y="286" on="1"/>
+        <pt x="192" y="329" on="0"/>
+        <pt x="191" y="344" on="0"/>
+        <pt x="186" y="345" on="0"/>
+        <pt x="185" y="353" on="0"/>
+        <pt x="184" y="374" on="1"/>
+        <pt x="183" y="403" on="0"/>
+        <pt x="189" y="407" on="0"/>
+        <pt x="193" y="408" on="1"/>
+        <pt x="201" y="410" on="0"/>
+        <pt x="198" y="421" on="1"/>
+        <pt x="198" y="425" on="0"/>
+        <pt x="201" y="427" on="0"/>
+        <pt x="201" y="431" on="1"/>
+        <pt x="201" y="443" on="0"/>
+        <pt x="212" y="476" on="1"/>
+        <pt x="215" y="485" on="0"/>
+        <pt x="220" y="488" on="0"/>
+        <pt x="220" y="497" on="0"/>
+        <pt x="223" y="501" on="1"/>
+        <pt x="226" y="507" on="0"/>
+        <pt x="222" y="507" on="1"/>
+        <pt x="238" y="547" on="0"/>
+        <pt x="240" y="547" on="1"/>
+        <pt x="252" y="547" on="0"/>
+        <pt x="252" y="551" on="1"/>
+        <pt x="287" y="601" on="1"/>
+        <pt x="292" y="601" on="0"/>
+        <pt x="293" y="614" on="0"/>
+        <pt x="296" y="618" on="0"/>
+        <pt x="294" y="619" on="1"/>
+        <pt x="290" y="622" on="0"/>
+        <pt x="293" y="624" on="1"/>
+        <pt x="330" y="659" on="1"/>
+        <pt x="331" y="673" on="1"/>
+        <pt x="372" y="709" on="1"/>
+        <pt x="385" y="709" on="1"/>
+        <pt x="386" y="721" on="1"/>
+        <pt x="389" y="727" on="0"/>
+        <pt x="402" y="735" on="0"/>
+        <pt x="423" y="742" on="0"/>
+        <pt x="427" y="745" on="1"/>
+        <pt x="442" y="745" on="1"/>
+        <pt x="427" y="734" on="1"/>
+        <pt x="401" y="716" on="0"/>
+        <pt x="372" y="687" on="1"/>
+        <pt x="306" y="621" on="0"/>
+        <pt x="254" y="532" on="1"/>
+        <pt x="228" y="487" on="0"/>
+        <pt x="210" y="421" on="0"/>
+        <pt x="209" y="364" on="1"/>
+        <pt x="208" y="300" on="0"/>
+        <pt x="216" y="256" on="1"/>
+        <pt x="223" y="216" on="0"/>
+        <pt x="236" y="192" on="1"/>
+        <pt x="250" y="166" on="0"/>
+        <pt x="327" y="131" on="0"/>
+        <pt x="382" y="126" on="1"/>
+        <pt x="417" y="123" on="0"/>
+        <pt x="480" y="155" on="1"/>
+        <pt x="594" y="212" on="0"/>
+        <pt x="656" y="336" on="1"/>
+        <pt x="682" y="388" on="0"/>
+        <pt x="698" y="452" on="1"/>
+        <pt x="716" y="524" on="0"/>
+        <pt x="714" y="586" on="1"/>
+        <pt x="712" y="641" on="0"/>
+        <pt x="692" y="683" on="1"/>
+        <pt x="670" y="725" on="0"/>
+        <pt x="633" y="745" on="1"/>
+        <pt x="594" y="766" on="0"/>
+        <pt x="536" y="766" on="1"/>
+        <pt x="486" y="766" on="0"/>
+        <pt x="455" y="750" on="1"/>
+        <pt x="444" y="745" on="1"/>
+        <pt x="444" y="752" on="1"/>
+        <pt x="477" y="768" on="1"/>
+        <pt x="487" y="768" on="0"/>
+        <pt x="487" y="770" on="1"/>
+        <pt x="487" y="774" on="0"/>
+      </contour>
+      <contour>
+        <pt x="204" y="248" on="1"/>
+        <pt x="201" y="260" on="1"/>
+        <pt x="201" y="259" on="0"/>
+        <pt x="201" y="254" on="1"/>
+        <pt x="206" y="236" on="1"/>
+        <pt x="206" y="238" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
     <TTGlyph name="v" xMin="50" yMin="0" xMax="602" yMax="511">
       <contour>
         <pt x="50" y="511" on="1"/>
@@ -29726,7 +30620,7 @@
 
   <name>
     <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Copyright 2024 The Khaanaa Font Authors
+      Copyright 2025 The Khaanaa Font Authors https://gitlab.com/mitradranirban
     </namerecord>
     <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Khaanaa
@@ -29735,13 +30629,13 @@
       ColorEmoji
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      FontForge 2.0 : Khaanaa : 11-12-2024
+      FontForge 2.0 : Khaanaa : 18-5-2025
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Khaanaa
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 0.010
+      Version 0.015
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Khaanaa
@@ -29753,7 +30647,7 @@
       https://openfontlicense.org
     </namerecord>
     <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
-      Copyright 2024 The Khaanaa Font Authors
+      Copyright 2025 The Khaanaa Font Authors https://gitlab.com/mitradranirban
     </namerecord>
     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
       Khaanaa
@@ -29762,13 +30656,13 @@
       ColorEmoji
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      FontForge 2.0 : Khaanaa : 11-12-2024
+      FontForge 2.0 : Khaanaa : 18-5-2025
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Khaanaa
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 0.010
+      Version 0.015
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Khaanaa
@@ -29811,6 +30705,8 @@
       <psName name="uniE36C"/>
       <psName name="uniE36D"/>
       <psName name="uniE36E"/>
+      <psName name="uniE36F"/>
+      <psName name="uniE370"/>
       <psName name="u1F64F"/>
       <psName name="A.0"/>
       <psName name="A.1"/>
@@ -30202,6 +31098,10 @@
       <psName name="uniE36E.1"/>
       <psName name="uniE36E.2"/>
       <psName name="uniE36E.3"/>
+      <psName name="uniE36F.0"/>
+      <psName name="uniE36F.1"/>
+      <psName name="uniE36F.2"/>
+      <psName name="uniE36F.3"/>
       <psName name="v.0"/>
       <psName name="v.1"/>
       <psName name="v.2"/>
@@ -59905,7 +60805,7 @@
         <rawimagedata>
           89504e47 0d0a1a0a 0000000d 49484452
           0000007d 00000080 08060000 00268c66
-          e200000d 86494441 547801ed c003a024
+          e200000e 6b494441 547801ed c003a024
           5996c6f1 ff77ee8d c8cca772 4b63ae6d
           dbb66ddb b66ddbb6 6d698c9e 964aaf9e
           323322ee f976b76a 7aa6873b 6bd54f5c
@@ -59937,192 +60837,207 @@
           e7795d02 1e2cd8e5 bf1f00e2 aa7f35c3
           71e0ad80 b706de9a 17ee7b04 efcdff0c
           0088abfe 45869706 5e0a7869 e0b58197
-          e645f73e 82efe67f 0600c4ff 05e6c1c0
-          83f8b779 06e2569e c9701c78 2de0a581
-          d7065e1a 38cebfdd 09c12eff 330020fe
-          a7322f0d 1c031e0c 3c982b5e 9b2b1e0c
-          3c987fa7 97fe6b78 addf81d7 fe6d78f0
-          adf0d27f cd7fb49f 11bc35ff 730020fe
-          bb990703 0f025e1b 7869e0c1 c04bf39f
-          e0a5ff1a 8e5d8207 df0a9ffd d9f0e05b
-          f9cff631 82afe67f 0e00c47f 35f35ac0
-          6b03af0d bc36ffc1 1e7c2bbc d8532a6f
-          fdab1d2f f7d7627d cd8cebce 170eafeb
-          b9e6aff7 39f3d7fb fc17b904 3c58b0cb
-          ff1c0088 ff6ce6c1 c05b01af 0dbc3670
-          fcad7e06 defc0f16 cc3378e8 3f4c3cee
-          2582df7f b1253ff3 56b07b9c 17eaa5ff
-          1adeea67 e0d177cf d9be6486 edc24bfc
-          8db9eb51 331ef674 d1dd741c 3dfa14d3
-          9905ed9a 39f73bf6 dd4f62fb 179ec17f
-          95cff92c f8eccfe6 b781df06 7e06f1d7
-          fcf70340 fc67300f 063e0a78 6be0c100
-          0fbe153e ef4b7a5e fcae0567 1e7c03f1
-          a8d3b46b e600e870 62b86397 c3df7c12
-          dff8ae6b bee9fd26 1ee8a5ff 1a3ef65b
-          7b5ee689 1df55167 38f1d0eb 181fbccd
-          8beac437 fe039bbf 7517ff95 1ef274b8
-          f5c13cd0 2ef0ddc0 f720fe9a ff1e0088
-          ff28e638 f056c047 032fcd33 1ddf85ef
-          fab08e97 be708cd9 5b3c8676 cd9c17a6
-          fcf2ad9c 7ffa5dfc f1cb252f f7d7a2ef
-          7b366f3c c5eca56e a05d33e7 5febc437
-          fe039bbf 7517ff95 bee7bde0 bdbf9b17
-          e6af81ef 06be07b1 cb7f1d00 c4bf9779
-          69e0a380 b7068ef3 00affddb f0ed9fb8
-          60eb1d5f 8af1c1db fc579bff e9594e7f
-          d95ff35f edaf5e7f 833f7af9 c6b7bdd3
-          9abf7e69 fe253f0d 7c0ce256 fef30120
-          feadcc71 e0b3808f e6f9f890 6faf7cda
-          8f9dc01f f0d2fc77 b9eec37e 9f7adf92
-          ff4ad399 05f77ce3 ab53ee5b b1fe9bbb
-          287f7e0f f7dc126c dc33b02e c96d0f82
-          9f7ec391 ef792f9e db67035f 83d8e53f
-          0f00e2df c2bc17f0 d5c0719e 8f77fdf1
-          ca977edb 09fc012f cd7f97f9 9f9ee5f4
-          97fd35ff d5f6dee1 61ecbde3 43794174
-          38b1fc9b 3b39fae3 5b79ab1f 1cb8f5c1
-          3cd02ef0 d188efe1 3f0700e2 5fc31c07
-          7e0b7869 5e8097fe 6bf8b18f de61fee1
-          afc47fa7 63dffd44 b67fe136 feabddfd
-          0daf41bb 66cebf44 8713ab6f f863defe
-          5b97fcf5 4bf3dcbe 1bf13efc c70340fc
-          6b98bf02 5e9a0778 f0adf036 bfdaf38a
-          7f19dc70 34e796b3 95ee9d5f 026f56fe
-          3b5df389 7f4cfff4 7dfe2b1d bef60d5c
-          fcb017e3 5f63f5f5 7fc21b7c f71eb73e
-          98e7f635 888fe63f 1600e245 65be0b78
-          6f1ee0a7 deade395 0eafa1be ccf5ac5f
-          ec04ff56 bf7ac359 5ef9ec09 76c6ca7f
-          949bdee1 d7f8af76 f6b35f9e f58b9de0
-          5f438713 bfffa4bf e1833fe1 02bbc779
-          6eef83f8 6efee300 205e14e6 bd81efe2
-          b9fcc3fb dcc0ce9b bd18ff5e eff85a7f
-          c15e37f2 d97ff328 5ef9ec09 fe23dcf4
-          0ebfc67f a5f58b9d e0ec67bf 3cff163a
-          9c78dc2f fc316ff8 a34b9ecb ad8887f0
-          1f0700f1 a230df0d bc17cfe5 e96f729a
-          fa7e2fc3 bfd7fbbf cadff02b 37de07c0
-          8bed6ef3 b18f7b18 6f78d719 fe3d6e7a
-          875fe3bf d2bd5ff6 ca8c0fde e6dfeaec
-          2ffd1d6f fb19f770 eb83796e 0f41dcca
-          7f0c00c4 8bc25c04 8ef35c7e eafd3778
-          9547bf24 e383b7f9 f7f8aac7 3e8daf7c
-          ec5379a0 1ffb9d97 e795cf9e e0dfeaa6
-          77f835fe abecbdc3 c3d87bc7 87f2ef31
-          fb89a7f0 8e1ff474 7efbb579 6e1f83f8
-          6afe6300 205e1466 1738c673 79f0adf0
-          37afdab3 fcd89765 7cf036ff 56dff1f0
-          dbf8ec97 7e220ff4 b18f7b18 1ff3b887
-          f26f75c3 7bff3671 38f29f6d 78f036f7
-          7dd92bf3 efa1c389 f2457fc4 f54f58f1
-          7cbc0ee2 b7f98f01 80785198 9f06de8a
-          e7e3a5ff 1a7ee15d 66f46ff1 1856af78
-          867f8bdb 3756bcc9 ebff3197 fa91fb7d
-          ece31ec6 c73ceea1 fc5b9df8 867f60f3
-          b7efe23f d3f0e06d ce7ef6cb e3cdcabf
-          950e27fc b57fca5b 7cc7217f fdd23cb7
-          4b88e3fc c70140bc 28cc7b03 dfc50b70
-          7c17beee 537adef0 efb6183f e0a5f066
-          e55feb8f ce5ce43b 1e711b77 6c2cb963
-          63c5b7fd d14bf12a 674ff06f a5c389eb
-          3fecf789 c391ff0c c383b739 fbd92f8f
-          372bff16 3a9c58fd ed5ddcf1 8cdb79ef
-          2f3fe2d6 07f3fc7c 0fe2bdf9 8f038078
-          5198e3c0 6f032fc5 0bf1d27f 0ddff509
-          1bdc78fa 5a86377e 30deacfc 77ea6edd
-          67eb176e 63f3b7ef e23fd2f0 e06dce7e
-          f6cbe3cd cabf4487 13abbfbd 8bdb0fcf
-          f3c4ebd7 d4c30980 7327cc0f bfc98abf
-          7e695e90 bf015e1b b1cb7f1c 00c48bca
-          1c077e1b 7829fe05 6ff66b95 6ffdc882
-          dff0a1f8 356ee2bf 5bb96fc5 ec711798
-          fdc345ba 5bf7e96f dde7df6a 78f03667
-          3ffbe5f1 66e585d1 e1c4a5df 7e227fdf
-          5fe0933e 65c5ad0f e65fe36f 80d746ec
-          f21f0b00 f1af618e 03bf0dbc 142f820f
-          f9f6cac7 7d6bc7fc 551e8c5f e326feab
-          fdf1998b 3c76779b 9db1f2dc ca7d2bea
-          d92500e5 ec927adf 0a807276 493dbbe4
-          f9397ced 1b387aed 1bf8971c fecd9d3c
-          f5c94fe5 c3be78cd ad0fe65f eb7780b7
-          46ecf21f 0f00f16f 613e1af8 6ce0182f
-          82d7fe6d f8ecafdf e0e1373e 08bfc64d
-          fc67fbe3 3317f9ca c73e8dc7 1ddbe752
-          3ff2405f f9672fce 3b3ce37a fe33e870
-          e2be5ffe 3bbefced 76f9c1b7 9ff8577a
-          06f0d188 9fe63f0f 00e2dfca 1c07be1a
-          782f5e44 6ff66b95 cffac605 37dc7213
-          7e8d9bf8 cff2558f 7d1a5ff9 d8a7f2dc
-          dee8ce6b f8f63f7a 29fe330c 77ec72fe
-          17ff9e77 fcd625b7 3e987f8d 4bc05703
-          5f8dd8e5 3f1700e2 dfcbbc34 f0d1c05b
-          03c77811 bceb8f57 3efa0716 9c79f987
-          531f759a ff68dff1 f0dbf8ec 977e22cf
-          ed0f7ff1 35b8f968 ce7f34fd de1dfcf9
-          d9a7f0d6 3f38f2af f00ce0ab 819f46dc
-          ca7f0d00 c47f1473 1c786be0 bd81d7e2
-          45f021df 5e799f5f 5870e6e5 1f4e7dd4
-          69fe237d fb236ee3 576eb80f 803b3756
-          ec8c955f fef557e6 3f920e27 c61ffe3b
-          beeeadf7 f8ca0f1a 78115c02 7e1af86e
-          c46ff35f 0f00f19f c13c1878 6fe0ad81
-          97e25ff0 21df5e79 9f5f5870 c32d37e1
-          d7b889ff 0de67f7a 967bfee2 c9bcc757
-          1cf2d72f cd0b7309 f86de0a7 819f46ec
-          f2df0700 f19fcd1c 075e1b78 6be0b581
-          07f102bc f66fc347 7dff068f d8dfe4da
-          07dfc8ea 15cef0df 458713de ac3c900e
-          27567f7b 17cbbfbe 836f7c97 35dff4fe
-          132fc0ef 00bf0dfc 36e2b7f9 9f0300f1
-          5fcd3c18 786de0b5 810703af c5f3f1ae
-          3f5e79b7 5f9c73fd 72ce899d 632c1e71
-          86f1c1db fc47983d ee2217a6 23daedbb
-          0c170ed9 3b263877 04c0935f bcb08e04
-          e0c59e52 585f3b07 e0417f7e c49fbd6c
-          f2151f34 f0d72fcd 033d03b8 15f86de0
-          af81df46 ecf23f13 00e27f02 f360e0c1
-          c06b030f 061e0cbc 16cff4e0 5be1bd7f
-          b4e7a673 8507ddd7 919b9533 ab1e6df4
-          dc78e61a 00d68f3d 014077eb 3e713401
-          309c3fe4 d2de2536 9f76c833 1e248e3f
-          e588df7f 4df1e4eb d6fcf54b c3ad0f86
-          5b1fccbf c6ef007f 0ddc0afc 35f0d788
-          5dfef700 40fc4f67 5e1a38ce 15afcd15
-          0f061efc eabfcfd6 2bfe199b 0fbe95f9
-          2c4b9445 7f0bc03a 921f7be3 3500b73e
-          186e7d30 cfcfeff0 bcfe1ad8 057681bf
-          e68a5b11 b7f27f03 00e2aaff 4f001057
-          fd7f0280 b8eaff13 00c455ff 9f0020ae
-          faff0400 71d5ff27 0088abfe 3f01405c
-          f5ff0900 e2aaff4f 001057fd 7f0280b8
-          eaff1300 c455ff9f 0020aefa ff040071
-          d5ff2700 88abfe3f 01405cf5 ff0900e2
-          aaff4f00 1057fd7f 0280b8ea ff1300c4
-          ff6c0f06 1ec415c7 8197e639 bd34709c
-          17eeb579 d1ec027f cd0bf7d7 c02ecfe9
-          b779b6df e17f3600 c47faf07 032f05bc
-          34701c78 69e038f0 d2fcefb6 0bfc35b0
-          0bfc35b0 0bfc35f0 37c02eff 7d0010ff
-          f5de0b78 6be0adf9 ffe956e0 a781af01
-          6ee5bf16 00e2bfd6 6b03bfc5 5500bf03
-          bc36ffb5 0010fff5 1e0cbc35 f0d6c083
-          8107f1ff c7ef00b7 023f0dfc 34fff500
-          10fffd8e 032f0d1c 075e9a2b 5e9b2b8e
-          032fc5ff 0e9780bf e68a5b81 5b815de0
-          af815de0 aff9ef07 80f8dfe5 b5794e0f
-          061eccbf ecb579e1 6e056ee5 5ff6db3c
-          a75de0af f9df0300 71d5ff27 0088abfe
-          3f01405c f5ff0900 e2aaff4f 001057fd
-          7f0280b8 eaff1300 c455ff9f 0020aefa
-          ff040071 d5ff2700 88abfe3f 01405cf5
-          ff0900e2 aaff4f00 1057fd7f 0280b8ea
-          ff1300c4 55ff9f00 20aefaff 040071d5
-          ff270088 abfe3f01 405cf5ff 0900e2aa
-          ff4f0010 57fd7f02 80b8eaff 1300c455
-          ff9f0020 aefaff04 0071d5ff 270088ab
-          fe3f0140 5cf5ff09 00ff0867 ec38ae48
-          7e421d00 00000049 454e44ae 426082
+          e645f73e 82efe67f 0600c455 cfc1701c
+          782de0a5 81d7065e 1a38cebf dd09c12e
+          ff330020 fe1f33bc 34f05ac0 6b030f06
+          5e9aff58 3f23786b fee70040 fc3f6278
+          69e018f0 60e0b381 07f39feb 63045fcd
+          ff1c0088 ff630c0f e6413b2f 3654de5e
+          43bedc74 ed6242ba 7e3a3d5f cd9fb87b
+          bc7bdade 71fe6b5c 021e2cd8 e57f0e00
+          c47f03c3 5b0d0fdb 796bfa32 8ff3ab87
+          e476f7f8 fea97bbf 0dfc8c60 9717c2f0
+          d2c05b0d 376dbd78 4cb9951b 75d4727a
+          8976cde6 3d4cede1 c3a38f6f ad5fe2e4
+          7c3ab3a0 5d33e77e c7befb49 6cffc233
+          f82ff439 82cfe67f 1600c47f 11c383db
+          b58b2f98 4e2f5efa f035ae7f f0fa254e
+          6eb46be6 00e870a2 7bdadec1 89ef7dd2
+          1ddda5f6 b5ba78f4 4d3c80e1 a5dbb58b
+          8fcf457d b9a357ba 767bf5f2 a76f1c1f
+          bccd8bea c437fe03 9bbf7517 ffc51e22
+          b895ff59 0010ffc9 0cc7dba9 d9f70c0f
+          3df68abb effda8eb da35735e 98cd9f7d
+          c672ebf7 ee7e868b fe5843be 5c3b395b
+          ac5fecd4 c9a357bb f664bb66 cebfd689
+          6ffc0736 7feb2efe 8b7d8fe0 bdf99f07
+          00f19fc8 f0daedba 8def3af7 712ff9e0
+          f1c1dbfc 579bffe9 594e7fd9 5ff35f6d
+          bc79ebef 02fea0dc 7ef02d82 bfe67f0e
+          00c47f92 7662e343 578fdafe bc0b1ff7
+          9227f96f 72dd87fd 3ef5be25 ff95a633
+          0beef9c6 57a7dcb7 62e30fee bdb0f8fd
+          bb0616f5 9e38b79a c7982b77 baad9c5f
+          ffa4e07b f8af0780 f84f305d b3f96eeb
+          876e7ded 858f7bc9 93fc3799 ffe9594e
+          7fd95ff3 5f6def1d 1ec6de3b 3e941744
+          87131b7f 70cfb963 3ffeb47b e2e2fa2d
+          04b7f25f 0700f11f ccf0d2eb 471dff99
+          b39fff0a b7f0dfe8 d8773f91 ed5fb88d
+          ff6a777f c36bd0ae 99f32fd1 e1c4759f
+          fc27b796 7b8ede46 f0d7fcd7 0040fc3b
+          191e3c3d 68fbedb2 f995f3d4 e226f77a
+          f0850f7b b1ebbc59 f9ef74cd 27fe31fd
+          d3f7f9af 74f8da37 70f1c35e 8c7f8d33
+          9ffe67b7 cd9eb8fb 5a825bf9 cf0780f8
+          77984ecd 7e66f9b2 d7bcf6f2 d5aedd59
+          bfd809fe edf433c6 af2d38c6 7f909bde
+          e1d7f8af 76f6b35f 9ef58b9d e05f4387
+          1327bee3 893fbdf1 7b77bd8f 6097ff5c
+          00887f87 8337b9e5 e917dff7 510fe6df
+          adbc8e6a dbf5c457 03afc57f 809bdee1
+          d7f8afb4 7eb1139c fdec97e7 df428713
+          d77cfa9f fd567fc7 c1ebf29f 0b00f1ef
+          70f40ad7 dc7dfe13 5fea3afe 9d2cbdcd
+          2d6fffab 3f0d70c7 4fbdc14b 7bd26783
+          df8a7f87 9bdee1d7 f8af74ef 97bd32e3
+          83b7f9b7 3af16d8f 7fc2e6af def12682
+          5bf9cf03 80f87758 3f74e7e7 2e7ec863
+          df7c7cf0 36ff3efa 9c9bdfe1 573f9b07
+          b8fdc7de e0b781d7 e2dfe8a6 77f835fe
+          abecbdc3 c3d87bc7 87f2ef71 ec879fba
+          dafe89a7 bd89e0b7 f9cf0380 f877303c
+          3877fabf 3bfb192f bb353e78 9b7f33f1
+          3537bffd af7d340f 70fb8fbd e167833f
+          8b7fa31b defbb789 c391ff6c c383b7b9
+          efcb5e99 7f0f1d4e 5cf7f17f 7cb69e5b
+          5ec37f2e 00c4bf93 e1a5f3e4 fc972ebc
+          dfa3af5b bde219fe 2d6cddba dd6dbccc
+          89b7f9e9 5d9ee9f6 1f7bc3cf 067f16ff
+          4627bee1 1fd8fced bbf8cf34 3c789bb3
+          9ffdf278 b3f26fa5 c3896b3f f3cfeea9
+          b71dbc89 e0aff9cf 0580f80f 6038deae
+          5d7cc374 ddc69b9d fb98973c e6cdcabf
+          c16f07f1 d5aef98c 4d366f3d 980e7f0a
+          786dfe8d 743871fd 87fd3e71 38f29f61
+          78f03667 3ffbe5f1 66e5df42 87139b7f
+          78efb9ad 5fbbfd09 f5e9fbef 21b895ff
+          7c0088ff 4086979e 6edefade e52b5df3
+          88bd377f d0dc9b95 ff4eddad fb6cfdc2
+          6d6cfef6 5dfc471a 1ebccdd9 cf7e79bc
+          59f997e8 7062f30f ef3dd73f 71f729b1
+          3f3e2e2e ad0b97e9 6cffd44b 3f20f86b
+          feeb0020 fe134cb7 6cbfb90e c66fdb7d
+          a787ed1c bdee0d1b fc372bf7 ad983dee
+          02b37fb8 4877eb3e fdadfbfc 5b0d0fde
+          e6ec67bf 3cdeacbc 303a9c38 fea34fbd
+          75f6b717 fea2de71 f0f1825b f9ef0780
+          f84fd44e 6c7ca8e7 7cc2a5b7 7ec83547
+          af7bc306 fff57ec7 f0d28263 3c9772df
+          8a7a7609 4039bba4 deb702a0 9c5d52cf
+          2e797e0e 5ffb068e 5efb06fe 258b3fbc
+          f7be633f f094bfaa f71d7db0 e056fee7
+          0040fc17 30bcf6f4 90edcfdb 7be35b5e
+          f6e8756f d8e03fdf ef40f9ec ad3affeb
+          136ff3d3 bb3cc06d 3ff686df 2dfc5efc
+          27d0e1c4 a96f7efc e3baa7ed 7f61bdef
+          f007f8f7 320f065e 0b7869e0 7310bbfc
+          fb0020fe 0b4db76c bf795b94 cf3b78dd
+          1b1f79f4 ba376cf0 9f469f73 f33bfcea
+          67f35c6e fbf1377c 6bd93fc5 7f82fee9
+          fbfb27bf faef9e5c ef3a7c3b c1adfc5b
+          99b702de 1a786be0 3857fc0c e2adf9f7
+          0340fc37 98aed97c b776a2fb f84beffc
+          b087af5f fce416ff d1c4d7dc fcf6bff6
+          d13c97db 7ef40d9f 2ef9c1fc 07dbf88d
+          bb8e8efd d8537ea3 9e5fbf25 ff16e6ad
+          80b706de 1a38cef3 7a1dc46f f3ef0780
+          7851988f 068e013f 83f86bfe 83b4131b
+          1f3a5dd3 7fc0a577 7ed8c3d7 2f7e728b
+          ff40465f ade29f06 a82acf68 b4e39ef8
+          2bfe03e9 70e2e437 fec33ddd bdcbafe8
+          9eb1ffe5 fc6b9897 06de0b78 6fe0382f
+          d8df205e 9aff1800 88178579 30f074ae
+          d8057e1a f86de067 10bbfc3b b5131b1f
+          3a5dd37f c0c1ebde f8c8a3d7 bd6183ff
+          05e67f7a 96633ff6 d42774b7 eebf8be0
+          af795198 e3c05b01 1f0dbc34 2f9af741
+          7c37ff31 00102f2a f3ddc07b f1bcfe1a
+          f86de0a7 11bfc3bf 83e1b587 87ee7c5c
+          bb61e331 87af7add c356af70 86ff2e3a
+          9cf066e5 817438b1 f987f79e dbfcd5db
+          cf954bed ebcac5a3 6fe44561 5e1af828
+          e0ad81e3 bce89e81 7830ff71 00102f2a
+          f360e0e9 fccb7e1b f86de0b7 81bf41ec
+          f26f305d b3f96ed3 c9eebd7c 7c7ee3fa
+          613bd7ad 5efae4c9 f1c1dbfc 47983dee
+          227169b8 6ffe84dd a37adbc1 91bbb257
+          9fb1df00 f244ff14 0db90250 d58b4dd7
+          6d4e00dd 532fdd84 f8d372ef f2cb047f
+          cdbfc43c 18782be0 bd8197e6 dfe67510
+          bfcd7f1c 00c4bf86 f96ee0bd f8d7f96b
+          e0b781bf 06fe06f1 d7fc2b19 1e3cddb0
+          f5beb988 5bbce81e ecedce6d bb5ed78e
+          cdeafac5 4f3c1c60 fdd81300 74b7ee13
+          471300e5 9ee5d1ec 19fbf7d5 a7efcf3c
+          afcfe86f dddb6a5b dd1f74b7 1f3c01f8
+          6be056c1 adfc4731 0f06de0a 786fe0a5
+          f9f7f91d c46bf31f 0b00f1af 611e0cfc
+          35708c7f bb5de0af 81df06fe 1a7806e2
+          aff93730 bc34f0d2 c08373b3 9f4fd7cd
+          af03d090 abeef683 1fe68a5b 05b7f29f
+          c1bc34f0 5ac04b03 af0d3c98 ff380f41
+          dcca7f2c 00c4bf96 f968e0ab f88ff7d7
+          c0adc05f 037f0dec 027f83d8 e57f02f3
+          d2c08380 97065e1a 786de038 ff393e07
+          f1d9fcc7 0340fc5b 98df065e 8bff3a7f
+          0dec02b7 02b702bb c05ff36c 7f83d8e5
+          dfc3bc16 cff6d2c0 71e0b581 07030fe6
+          bfce3310 0fe63f07 00e2dfc2 3c18f86b
+          e018ff33 dd0adcca 0bf7d2c0 71fee779
+          1dc46ff3 9f0300f1 6f653e1a f82aaefa
+          8ff43588 8fe63f0f 00e2dfc3 7c37f05e
+          5cf51fe1 12f060c4 2eff7900 10ff1ee6
+          38f0dbc0 4b71d5bf d7eb207e 9bff5c00
+          887f2f73 1cb81538 c655ff56 5f83f868
+          fef30120 fe239897 06fe8aab fe2dfe06
+          f1d2fcd7 0040fc47 31ef0d7c 1757fd6b
+          5c025e1b f1d7fcd7 0040fc47 325f0d7c
+          1457bda8 3e06f1d5 fcd70140 fc4733df
+          0dbc1757 fd4b7e06 f1d6fcd7 0240fc67
+          30df0dbc 1757bd20 7f03bc36 6297ff5a
+          0088ff2c e6bb81f7 e2aae776 09786dc4
+          5ff35f0f 00f19fc9 7c37f05e 5c75bf4b
+          c06b23fe 9aff1e00 88ff6ce6 bb81f7e2
+          2a80f741 7c37ff7d 0010ffd9 cc71e0a7
+          81d7e2ff b78f417c 35ffbd00 10ff55cc
+          7703efc5 ff4fdf83 786ffefb 0120fe2b
+          99cf063e 8bff5f3e 06f1d5fc cf0080f8
+          af66de1b f86ae018 fff7bd0f e2bbf99f
+          0300f1df c1bc34f0 ddc04bf1 7fd325e0
+          b5117fcd ff2c0088 ff4ee6ab 818fe2ff
+          96bf01de 1bf1d7fc cf0380f8 ef665e1b
+          f86ee041 fceff733 c07b2376 f99f0900
+          f13f85f9 6ce0a381 63fceff3 0ce0a311
+          3fcdff6c 0088ff49 cc71e0ab 81f7e27f
+          8faf013e 1bb1cbff 7c0088ff 89cc8381
+          cf06de8b ffb9fe06 786fc45f f3bf0700
+          e27f32f3 60e0b381 f7e27f8e 4bc06723
+          be9aff7d 0010ff1b 98e3c07b 03ef0dbc
+          14ff3d9e 017c37f0 d5885dfe 770240fc
+          6f635e1a f868e0b5 8107f19f ef6f80af
+          467c37ff fb0120fe 37332f0d bc36f0da
+          c06b03c7 f88ff137 c077033f 8db895ff
+          3b0010ff 97989706 8e03af0d 3c187830
+          57bc16cf df33805b 815b815b 81df06fe
+          1ab1cbff 4d0088ab fe3f0140 5cf5ff09
+          00e2aaff 4f001057 fd7f0280 b8eaff13
+          00c455ff 9f0020ae faff0400 71d5ff27
+          0088abfe 3f01405c f5ff0900 e2aaff4f
+          001057fd 7f0280b8 eaff1300 c455ff9f
+          0020aefa ff040071 d5ff2700 88abfe3f
+          01405cf5 ff0900e2 7fa60703 0fe28a07
+          030fe68a e3c04bf3 9c1e0c3c 98ff7cb7
+          02b7f29c fe1ad8e5 8a5b815b b9e219c0
+          adfccf03 80f8eff3 60e041c0 6b032f0d
+          1c075e1a 38ceff1d bbc05f03 bbc05f03
+          7f0dfc0d 702bff3d 0010fff5 3e0a786f
+          e0a5f9ff eb56e0bb 81cfe1bf 1600e2bf
+          d671e0a7 81d7e2aa bf015e1b d8e5bf0e
+          00e2bfc7 4b03af0d bc36f060 e0a5f8bf
+          ef6f805b 81df067e 1bf86bfe eb01f08f
+          89fcb8ae 50db1e16 00000000 49454e44
+          ae426082   
         </rawimagedata>
       </cbdt_bitmap_format_17>
       <cbdt_bitmap_format_17 name="uniE36D">
@@ -61065,6 +61980,322 @@
           4fad5a00 00000049 454e44ae 426082
         </rawimagedata>
       </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="uniE36F">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="99"/>
+          <BearingX value="0"/>
+          <BearingY value="102"/>
+          <Advance value="99"/>
+        </SmallGlyphMetrics>
+        <rawimagedata>
+          89504e47 0d0a1a0a 0000000d 49484452
+          00000063 00000080 08060000 001febd7
+          b9000012 b6494441 547801ed c003a024
+          5996c6f1 ff77ee8d c8cca772 4b63ae6d
+          dbb66ddb b66ddbb6 6d698c9e 964aaf9e
+          323322ee f976b76a 7aa6873b 6bd54f5c
+          f53f0100 e2aaff09 0010ff1b 9807037f
+          051ce7df ee6b2c3e 1b7869c1 6ff33f0b
+          00e27f3a 731cf82d e0a5f9b7 fb1dc46b
+          4fd72e7e 60ba6ef3 15677f73 ee1504bb
+          fccf0180 f89fcefc 14f0d6fc db3d0378
+          e9f1f4e2 b3f7dee1 a11fb07e 89931b27
+          bff171df 30ff87f3 1fceff1c 0088ffc9
+          cc67039f c5bfdd25 e0b5a76b 375f6cf5
+          e2c7bfea e2873cf6 0cc0b1ef 79d23ddb
+          3fff8c37 11fc35ff 330020fe a7326f0d
+          fc14ff3e 6f6371eb ea654fff ccb94f79
+          995b7880 339ff397 bf33fffb f3afcdff
+          0c0088ff 89cc4b03 bf051ce7 dfee732c
+          be7a7cf0 f61fddf7 d92fff68 6f561ea8
+          ffbb0b07 27bfe749 9fd33d63 ffcbf9ef
+          0780f89f c61c07fe 0a7830ff 763f8378
+          eb766afe f8b39ffc d28f1e1f bccdf373
+          eaabffee a98b3fb8 e7e505bb fcf70240
+          fc4f637e 0b786dfe edfe0678 ede9f4ec
+          7bce7fd8 8bbfeef0 1227b778 01743871
+          eda7ffd9 4f74771c bc3dffbd 0010ff93
+          98af063e 8a7fbb4b c04bb793 1b6f7ae9
+          ed1ff439 876f78d3 69fe05db 3ff58c0b
+          5bbf7ff7 7bd5dbf6 7f9eff3e 0088ff29
+          cc7b03df c5bfcfeb 5870f4ca d7fec485
+          8f7bc993 bc884e7f e15ffff1 e2afcebe
+          0aff7d00 10ff1398 9706fe8a 7f9f8fb1
+          f8e9e196 ad3fbaef 2b5ee53a fe15ba5b
+          f739f5c5 7ff335dd f9e547f3 df0300f1
+          dfcd1c07 9e0e1ce7 dfee7b2c 3e7aba79
+          eb77effd bc577809 6f56feb5 8e7de713
+          6fddfea5 db5e4770 2bfff500 10ffddcc
+          5f012fcd bfdddf20 5e7abc66 e397cf7f
+          c24bbed1 f8e06dfe 2d743871 fa8bffea
+          d7e64fd8 7d43feeb 0120fe3b 99ef02de
+          9b7fbb4b c083a7eb 16df70f1 dd1ff956
+          ab57be66 937f87f9 1fdf7778 e2fb9ef2
+          41f5bec3 1fe0bf16 00e2bf8b f968e0ab
+          f8f77999 7672e355 0f5fedcc 675c7aaf
+          475ec77f 80339ffd 178f9bfd c3855713
+          ecf25f07 00f1dfc1 bc36f05b fcfbbc8f
+          c55f2f5f edba1f3f ffd12ff1 30fe8394
+          fb569cfc c6c77dc3 fc1fce7f 38ff7500
+          10ffd5cc 8381bf02 8ef36ff7 35169f3d
+          ddb8f977 f77ec12b dee4cdca 7fa463df
+          f3a47bb6 7ffe196f 22f86bfe 6b0020fe
+          2b99e3c0 6f012fcd bfddef20 5ebb9d9a
+          3ffedecf 7d8547b7 6be6fc67 b8f653fe
+          f44ffba7 5c7a25fe 6b0020fe 2b999f02
+          de9a7fbb bf015e7b 3a3dfb9e 739ffc32
+          6f393e78 9bff2cfd df5d3838 f93d4ffa
+          9cee19fb 5fce7f3e 00c47f15 f3d9c067
+          f16f7709 78ed76bc 7f93dd77 79c4a71f
+          bdde0d1b fc273bf5 d57ff7d4 c51fdcf3
+          f2825dfe 730120fe 2b98b706 7e8a7f9f
+          b799aedd dc5cbdf8 f1afbaf8 218f3dc3
+          7f011d4e 5cfbe97f f613dd1d 076fcf7f
+          2e00c47f 36f3d2c0 6f01c7f9 b7fb1c8b
+          9f5e3fea f8cf9cfd fc57b885 ff42db3f
+          f58c0b5b bf7ff77b d5dbf67f 9eff3c00
+          88ff4ce6 38f057c0 83f9b7fb 1e8b8f1e
+          1f7eec57 eefbf497 7d456f56 feab5df3
+          e97ff6d7 b327eebe 0cff7900 10ff99cc
+          6f01afcd bfdddf00 af3d5dbb f8e5739f
+          f052af34 3e789bff 0eddadfb 9cfae2bf
+          f99aeefc f2a3f9cf 0180f8cf 62be0b78
+          6ffeed2e 012f3d5d b7f882f3 1ff4d8b7
+          1c5ee2e4 16ff8d8e 7de7136f ddfea5db
+          5e47702b fff10010 ff19cc7b 03dfc5bf
+          cfebb493 1b8fdd7f 939b3e6f ff6d1e74
+          92ff663a 9cb8f673 fefcf7bb a7efbf06
+          fff10010 ffd1cc4b 037fc5bf cffb58fc
+          f5f215ae f9a5f39f f852d7f1 3fc4fc8f
+          ef3b3cf1 7d4ff9a0 7adfe10f f01f0b00
+          f11fc91c 079e0e1c e7dfee7b 2c3e7bb8
+          65eb8fee fb8a57b9 8eff61ce 7cf65f3c
+          6ef60f17 5e4db0cb 7f1c00c4 7f14731c
+          f82de0a5 f9b7fb1b 8bd79e6e d8fc8d7b
+          bff0155f d69b95ff 69ca7d2b 4e7de5df
+          7ccfeca9 7befcd7f 1c00c47f 14f35dc0
+          7bf36f77 0978f074 dde21bce 7dfc4bbd
+          ebf8e06d fea73af6 3d4fba67 fbe79ff1
+          2682bfe6 3f0600e2 3f82f968 e0abf8b7
+          bb04bcf6 787af1de 7beff0d0 0f387abd
+          1b36f81f eeda4ff9 d33fed9f 72e995f8
+          8f0180f8 f732af0d fc16ff3e ef335dbb
+          391ebde2 e92fbff4 5e8fbc8e ff05fabf
+          bb7070f2 7b9ef439 dd33f6bf 9c7f3f00
+          c4bf8779 69e0b780 e3fcdb7d 8dc577af
+          5ef6f4cf 9cfb9497 b985ff45 4e7fd15f
+          dd36ffcb 732f25d8 e5df0700 f16f658e
+          03bf05bc 34ff76bf 63f1d6e3 83b7ffe8
+          becf7ef9 477bb3f2 bf890e27 aefdf43f
+          fb89ee8e 83b7e7df 0700f16f 657e0a78
+          6bfeedfe 0678ed76 7afe47f7 7eee2b3c
+          ba5d33e7 7fa3ed9f 7ac685ad dfbffbbd
+          ea6dfb3f cfbf1d00 e2dfc27c 36f059fc
+          db5d025e 7b3a3dfb 9c739ff8 32af333e
+          747b9bff c5aef9f4 3ffbebd9 13775f86
+          7f3b00c4 bf96796f e0bbf8f7 799b7672
+          e3864b6f ffa0cf39 7cc39b4e f3bfdcec
+          1f2e72e2 ebfee16b baf3cb8f e6df0600
+          f1af615e 1af82de0 38ff769f 63f1db47
+          af7ced4f 5cf8b897 3cc9ff11 c7bef389
+          b76effd2 6daf23b8 957f3d00 c48bca1c
+          07fe0a78 30ff76df 63f1d5eb 471dff99
+          b39fff0a b7f07f88 0e27aefd 9c3ffffd
+          eee9fbaf c1bf1e00 e245657e 0b786dfe
+          edfee6f3 3f9db7fa c41f39f6 a3f77dfa
+          cbbea237 2bffd76c fcc65d47 c77ef2d6
+          0facf71d fe00ff3a 00881785 f92ee0bd
+          f9b7bb04 bcf478ed c6379fff 84977ca3
+          f1c1dbfc 5f75e6b3 ffe271b3 7fb8f06a
+          825d5e74 00887f89 796fe0bb f8f7799d
+          e9bac507 5c7cf747 bed5ea95 afd9e4ff
+          b072df8a 535ff937 df337bea de7bf3a2
+          0340bc30 e6a581bf e2dfe77d dac98d8d
+          fd37bce1 53f7dffe 2137f2ff c0b1ef79
+          d23ddb3f ff8c3711 fc352f1a 00c40b62
+          8e034f07 8ef36ff7 3d165f7d f45a37fc
+          dc850f7f b19bf87f 428713d7 7cfe5ffe
+          69ff944b afc48b06 00f1fc98 e3c06f01
+          2fcdbfdd df58bcf6 74e3e6df ddfb05af
+          7893372b ff9ff47f 77e1e0e4 f73ce973
+          ba67ec7f 39ff3200 c4f363be 0b786ffe
+          ed2e7dfe a7f3529f f2cdf35f befb2b5e
+          e5d1deac fc7f74fa 8bfeeab6 f95f9e7b
+          29c12e2f 1c00e2b9 99d7063e 9b7f9f8f
+          9eae5b7c c2b98f7f a9771d1f bccdff57
+          e5be1567 bee8af7e a2bbe3e0 ed79e100
+          10f7336f 0dbc14ff 7ebbede4 c678e9cd
+          6ffaf2c3 b77cd082 ffe7b67f ea1917b6
+          7effeef7 aab7edff 3c2f1800 e27ee6a5
+          81bfe23f c06bfd0e 9ff70b5f 72cb7b5c
+          7cdf473d 98abb8e6 d3ffecaf 674fdc7d
+          195e3000 c40399cf 063e8b7f bfdd5b5f
+          76e3fb36 def231ef b37ef193 5bfc3f37
+          fb878b9c f8ba7ff8 9aeefcf2 a379fe00
+          10cfcdfc 35f052fc fbfdf6f0 88631bf7
+          7dfacbbe a2372bff df9dfcfa 7fb863e3
+          77ee7a0d c1ad3c2f 00c47333 2f0dfc15
+          ff015eeb 77f8bc5f f8925bde e3e2fb3e
+          eac1fc3f a7c3896b 3fe7cf7f bf7bfafe
+          6bf0bc00 10cf8ff9 6ce0b3f8 f7dbbdf5
+          6537be6f e32d1ff3 3eeb173f b9c5ff73
+          673efb2f 1e37fb87 0baf26d8 e5390120
+          5e10f3d7 c04bf1ef f7dbc323 8e6ddcf7
+          e92ffb8a deacfc7f 75e29b1e 7776f337
+          ef7c43c1 5ff3bc00 102f8879 69e0aff8
+          0ff05abf c3e7fdc2 97dcf21e 17dff751
+          0fe6ffa1 d9df5f38 38f6fd4f f9e6d953
+          2f7d02cf 1f00e285 319f0d7c 16ff7ebb
+          b7beecc6 f76dbce5 63de67fd e227b7f8
+          7f448713 d77ece9f ff7ef7f4 fdd7e005
+          0340fc4b cc5f032f c5bfdf6f 0f8f38b6
+          71dfa7bf ec2b7ab3 f2ffc5e9 2ffaabdb
+          e67f79ee a504bbbc 6000887f 897930f0
+          d7c031fe 9d5eeb77 f8bc5ff8 925bdee3
+          e2fb3eea c1fc3fb0 fd53cfb8 b0f5fb77
+          bf57bd6d ffe779e1 00102f0a f3d1c057
+          f1efb7fb 0fafb1f1 a3675eef 31efba7e
+          f1935bfc 1fd6ddba cfe92fff 9b1facf7
+          2edf8d7f 1900e245 657e1b78 2dfefdfe
+          7a78c4b1 e1be4f7f d957f466 e5ff221d
+          4e9cf9a2 bffaebd9 13775f86 170d00e2
+          45651e0c fc35708c 7fa757f9 23bee6d7
+          3eef96b7 baf8be8f 7a30ff07 9df8ce27
+          debaf94b b7bd8ee0 565e3400 887f0df3
+          d1c057f1 1fe01f5e 63e35baf 7de547bc
+          dbf295ae d9e4ff90 c59fdc77 78ecc79e
+          f6d9dd33 f6bf9c17 1d00e25f cbfc36f0
+          5afcfbfd f578cb56 b9f7f35e e125bc59
+          f9bfa0dc b7e2f417 fdd56ff5 771cbc2e
+          ff3a0088 7f2df360 e0af8163 fc3bbdca
+          1ff135bf f151d7bc d3f94f7c a9ebf83f
+          e0cc67ff c5e366ff 70e1d504 bbfceb00
+          20fe2dcc 47035fc5 7f807f78 8d8d6fbd
+          f6951ff1 6ecb57ba 6693ffc5 8e7fcf93
+          ef993fe9 f01dbb27 9dfd3dfe f50010ff
+          56e6b781 d7e2dfef afc75bb6 cabd9ff7
+          0a2fe1cd caff46dd adfb9cfc dabfff96
+          fef6830f e6df0600 f16f651e 0cfc3570
+          8c7fa757 f923bee6 373eea9a 773aff89
+          2f751dff cbe870e2 9acfffcb 3fed9f72
+          e995f8b7 0340fc7b 988f06be 8aff00ff
+          f01a1bdf 7aed2b3f e2dd96af 74cd26ff
+          8b9cfea2 bfba6dfe 97e75e4b 702bff76
+          00887f2f f3dbc06b f1eff7d7 e32d5be5
+          decf7b85 97f066e5 7f838ddf b8ebe8d8
+          4fdefa81 f5bec31f e0df0700 f1ef651e
+          0cfc3570 8c7fa75b 6ee34b9e f0f6d7bc
+          d7f94f7c a9ebf81f aedcb7e2 d457fecd
+          f7cc9eba f7defcfb 0120fe23 988f06be
+          8aff00bf f74e3b9f ff985b1e f231cb57
+          ba6693ff c1ce7cf6 5f3c6ef6 0f175e4d
+          b0cbbf1f 00e23f8a f96de0b5 f8f7fbeb
+          e1e6ad8b f77dfe2b bc8e372b ff139df8
+          a6c79ddd fccd3bdf 50f0d7fc c70040fc
+          47310f06 fe1a38c6 bfd32db7 f1254f7c
+          9bd3ef72 ee535ee6 16fe8799 fdfd8583
+          13dff6c4 afeaee3a f84cfee3 0020fe23
+          998f06be 8aff00bf fe76f34f 7be9873e
+          ea5397af 74cd26ff 43e870e2 dacff9f3
+          dfef9ebe ff1afcc7 0240fc47 33bf0dbc
+          16ff7e7f 3ddcbc75 f1becf7f 85d7f166
+          e57f82d3 5ff457b7 cdfff2dc 4b0976f9
+          8f0580f8 8f661e0c fc35708c 7fa75b6e
+          e34b9ef8 36a7dfe5 dca7bccc 2dfc37db
+          fea9675c d8fafdbb dfabdeb6 fff3fcc7
+          0340fc67 301f0d7c 15ff017e fdede69f
+          f6d20f7d d4a72e5f e99a4dfe 9b74b7ee
+          73facbff e607ebbd cb77e33f 0700e23f
+          8bf969e0 adf8f7fb ebe1e6ad 8bf77dfe
+          2bbc8e37 2bffd574 3871e68b feeaaf67
+          4fdc7d19 fef30020 feb398e3 c0adc031
+          fe9d6ebc 936f7eca 5b9e7ed3 739ff232
+          b7f05fec c4773ef1 d6cd5fba ed7504b7
+          f29f0700 f19fc9bc 35f053fc 07f8c9f7
+          9e7fc16b 9e79d447 2f5fe99a 4dfe8b2c
+          fee4bec3 633ff6b4 cfee9eb1 ffe5fce7
+          0240fc67 333f0dbc 15ff7eb7 1e3c74eb
+          f6ddcf7a 85d7f066 e53f5bb9 6fc5e92f
+          faabdfea ef38785d fef30120 feb399e3
+          c0adc031 fe9d6ebc 936f7eca 5b9e7ed3
+          739ff232 b7f09fec cc67ffc5 e366ff70
+          e1d504bb fce70340 fc57306f 0dfc14ff
+          017ef2bd e75ff09a 671ef5d1 cb57ba66
+          93ff24c7 bfe7c9f7 cc9f74f8 8edd93ce
+          fe1eff35 0010ff55 cc4f036f c5bfdfad
+          070fddba 7df7b35e e135bc59 f98fd6dd
+          bacfc9af fdfb6fe9 6f3ff860 feeb0020
+          feab98e3 c0adc031 fe9d6ebc 936f7eca
+          5b9e7ed3 739ff232 b7f01f48 8713d77c
+          fe5ffe69 ff944baf c47f2d00 c47f25f3
+          d6c04ff1 1fe027df 7bfe05af 79e6511f
+          bd7ca56b 36f90f72 fa8bfeea b6f95f9e
+          7b2dc1ad fcd70240 fc57333f 0dbc15ff
+          7eb71e3c 74ebf6dd cf7a85d7 f066e5df
+          6be337ee 3a3af693 b77e60bd eff007f8
+          af0780f8 af668e03 b702c7f8 77baf14e
+          bef9296f 79fa4dcf 7dcacbdc c2bf43b9
+          6fc5a9af fc9bef99 3d75efbd f9ef0180
+          f8ef60de 1af829fe 03fce47b cfbfe035
+          cf3ceaa3 97af74cd 26ff4667 3efb2f1e
+          37fb870b af26d8e5 bf0700e2 bf8bf969
+          e0adf8f7 bbf5e0a1 5bb7ef7e d62bbc86
+          372bff5a c7bfe7c9 f76cfdfc ad6f22f8
+          6bfefb00 20febb98 e3c0adc0 31fe9d6e
+          bc936f7e ca5b9e7e d3739ff2 32b7f0af
+          30fbfb0b 0727beed 895fd5dd 75f099fc
+          f70240fc 77326f0d fc14ff01 7ef2bde7
+          5ff09a67 1ef5d1cb 57ba6693 17810e27
+          aefd9c3f fffdeee9 fbafc17f 3f00c47f
+          37f3d3c0 5bf1ef77 ebc143b7 6edffdac
+          57780d6f 56fe2567 3effaf9e 32fb9b73
+          af20d8e5 bf1f00e2 bf9b390e dc0a1ce3
+          dfe9c63b f9e6a7bc e5e9373d f7292f73
+          0b2fc4f6 4f3de3c2 d6efdffd 5ef5b6fd
+          9fe77f06 00c4ff04 e6ad819f e23fc04f
+          bef7fc0b 5ef3cca3 3e7af94a d76cf27c
+          74b7ee73 f26bfffe 5bfadb0f 3e98ff39
+          0010ff53 989f06de 8a7fbf5b 0f1eba75
+          fbee67bd c26b78b3 f2403a9c 38f3457f
+          f5d7b327 eebe0cff b30020fe a730c781
+          5b8163fc 3bdd7827 dffc94b7 3cfda6e7
+          3ee5656e e1014e7c e7136fdd fca5db5e
+          47702bff b30020fe 27316f0d fc14ff01
+          7ef2bde7 5ff09a67 1ef5d1cb 57ba6613
+          60f127f7 1d9ef88e 277f62b9 78f48dfc
+          cf0380f8 9fc67c35 f051fcfb dd7af0d0
+          addb773f eb155e23 0e274e7d c5dffcfc
+          ec697b6f c1ff4c00 88ff69cc 71e0af81
+          07f1ef74 edbdfcc2 d3dffeba 47c7c561
+          3dfb870b af26d8e5 7f2600c4 ff44e6b5
+          81dfe23f c0677cdd c6a77de6 d76ffe5e
+          f7a4b3bf c7ff5c00 88ffa9cc 7b030fe6
+          df6f17f1 d5fccf06 80f89fe9 b5b8e2b5
+          b9e2b579 fe8e032f cd15bfcd f3772b70
+          2b702b70 2bf00ce0 56fe6701 40fcf73a
+          0ebc16f0 dac04b03 2f0d1ce7 bfc65f03
+          b702bf0d fc35f03b fcf70140 fcf7786b
+          e0a380d7 e67f8e5d e0bb81cf 0176f9af
+          0580f8af f75dc07b f33fd72e f03ac05f
+          f35f0700 f15fcffc cff739c0 67f35f07
+          00f15fef b381cfe2 7fae4bc0 6b037fcd
+          7f1d00c4 7f8fd706 3e1a782b fee77806
+          f0ddc057 03bbfcd7 0240fcf7 3a0ebc36
+          f0d2c06b 03c78197 e2bfc6ef 00bbc06f
+          03bf0dfc 35ff7d00 10ff333d 187830f0
+          d2c071ae 7830f060 fe75fe1a d8e58abf
+          067681df e67f1e00 c455ff13 0020aefa
+          9f000071 d5ff0400 88abfe27 00405cf5
+          3f0100e2 aaff0900 1057fd4f 0080b8ea
+          7f0200c4 55ff1300 20aefa9f 000071d5
+          ff040088 abfe2700 405cf53f 0100e2aa
+          ff090010 57fd4f00 c03f0293 d64cccc1
+          371d3200 00000049 454e44ae 426082
+        </rawimagedata>
+      </cbdt_bitmap_format_17>
+    </strikedata>
+    <strikedata index="1">
       <cbdt_bitmap_format_17 name="u1F64F">
         <SmallGlyphMetrics>
           <height value="128"/>
@@ -61791,7 +63022,51 @@
         <glyphLoc id="104" name="uniE36C"/>
         <glyphLoc id="105" name="uniE36D"/>
         <glyphLoc id="106" name="uniE36E"/>
-        <glyphLoc id="107" name="u1F64F"/>
+        <glyphLoc id="107" name="uniE36F"/>
+      </eblc_index_sub_table_1>
+    </strike>
+    <strike index="1">
+      <bitmapSizeTable>
+        <sbitLineMetrics direction="hori">
+          <ascender value="102"/>
+          <descender value="-26"/>
+          <widthMax value="125"/>
+          <caretSlopeNumerator value="0"/>
+          <caretSlopeDenominator value="0"/>
+          <caretOffset value="0"/>
+          <minOriginSB value="0"/>
+          <minAdvanceSB value="0"/>
+          <maxBeforeBL value="0"/>
+          <minAfterBL value="0"/>
+          <pad1 value="0"/>
+          <pad2 value="0"/>
+        </sbitLineMetrics>
+        <sbitLineMetrics direction="vert">
+          <ascender value="102"/>
+          <descender value="-26"/>
+          <widthMax value="125"/>
+          <caretSlopeNumerator value="0"/>
+          <caretSlopeDenominator value="0"/>
+          <caretOffset value="0"/>
+          <minOriginSB value="0"/>
+          <minAdvanceSB value="0"/>
+          <maxBeforeBL value="0"/>
+          <minAfterBL value="0"/>
+          <pad1 value="0"/>
+          <pad2 value="0"/>
+        </sbitLineMetrics>
+        <colorRef value="0"/>
+        <startGlyphIndex value="109"/>
+        <endGlyphIndex value="109"/>
+        <ppemX value="125"/>
+        <ppemY value="125"/>
+        <bitDepth value="32"/>
+        <flags value="1"/>
+      </bitmapSizeTable>
+      <!-- GlyphIds are written but not read. The firstGlyphIndex and
+           lastGlyphIndex values will be recalculated by the compiler. -->
+      <eblc_index_sub_table_1 imageFormat="17" firstGlyphIndex="109" lastGlyphIndex="109">
+        <glyphLoc id="109" name="u1F64F"/>
       </eblc_index_sub_table_1>
     </strike>
   </CBLC>
@@ -62416,6 +63691,12 @@
       <layer colorID="2" name="uniE36E.2"/>
       <layer colorID="3" name="uniE36E.3"/>
     </ColorGlyph>
+    <ColorGlyph name="uniE36F">
+      <layer colorID="0" name="uniE36F.0"/>
+      <layer colorID="1" name="uniE36F.1"/>
+      <layer colorID="2" name="uniE36F.2"/>
+      <layer colorID="3" name="uniE36F.3"/>
+    </ColorGlyph>
     <ColorGlyph name="u1F64F">
       <layer colorID="0" name="u1F64F.0"/>
       <layer colorID="1" name="u1F64F.1"/>
@@ -62537,6 +63818,8 @@
       <ClassDef glyph="uniE36C" class="2"/>
       <ClassDef glyph="uniE36D" class="2"/>
       <ClassDef glyph="uniE36E" class="2"/>
+      <ClassDef glyph="uniE36F" class="2"/>
+      <ClassDef glyph="uniE370" class="1"/>
       <ClassDef glyph="v" class="1"/>
       <ClassDef glyph="w" class="1"/>
       <ClassDef glyph="x" class="1"/>
@@ -62632,6 +63915,7 @@
         <LigatureSubst index="0">
           <LigatureSet glyph="b">
             <Ligature components="i,r,y,a,n,i" glyph="uniE36C"/>
+            <Ligature components="a,r,f,i" glyph="uniE36F"/>
           </LigatureSet>
           <LigatureSet glyph="c">
             <Ligature components="h,i,n,g,r,i,m" glyph="uniE36D"/>
