@@ -16,5 +16,7 @@
 |8|biryani| &#xE36C | ![biryani](SVGs/uniE36C.svg)|
 |9| chingrim| &#E36D |![Chingri Malaikari](SVGs/uniE36D.svg)|
 |10|ilish| &#E36E| ![Ilish Sorshe](SVGs/uniE36E.svg)|
+|11|barfi|&#E36F|![Barfi](SVGs/uniE36F.svg)|
+
 
 

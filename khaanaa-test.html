@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khaanaa Font Type Tester</title>
+    <style>
+        @font-face {
+            font-family: 'Khaanaa';
+            src: url('woff2/KhaanaaColorEmoji.woff2') format('woff2')
+            font-display: swap;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(45deg, #2c3e50, #3498db);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            opacity: 0.9;
+            font-size: 1.1rem;
+        }
+
+        .controls {
+            padding: 30px;
+            background: #f8f9fa;
+            border-bottom: 1px solid #e9ecef;
+        }
+
+        .control-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .control-item {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .control-item label {
+            font-weight: 600;
+            color: #495057;
+            font-size: 0.9rem;
+        }
+
+        input[type="range"] {
+            width: 200px;
+            height: 6px;
+            border-radius: 3px;
+            background: #ddd;
+            outline: none;
+            -webkit-appearance: none;
+        }
+
+        input[type="range"]::-webkit-slider-thumb {
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #3498db;
+            cursor: pointer;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+
+        input[type="range"]::-moz-range-thumb {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #3498db;
+            cursor: pointer;
+            border: none;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .toggle-switch {
+            position: relative;
+            display: inline-block;
+            width: 60px;
+            height: 30px;
+        }
+
+        .toggle-switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            transition: 0.3s;
+            border-radius: 30px;
+        }
+
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 22px;
+            width: 22px;
+            left: 4px;
+            bottom: 4px;
+            background-color: white;
+            transition: 0.3s;
+            border-radius: 50%;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+
+        input:checked + .slider {
+            background-color: #3498db;
+        }
+
+        input:checked + .slider:before {
+            transform: translateX(30px);
+        }
+
+        .dlig-status {
+            font-weight: 600;
+            color: #495057;
+            margin-left: 10px;
+        }
+
+        .preview-area {
+            padding: 40px;
+        }
+
+        .text-input {
+            width: 100%;
+            padding: 20px;
+            border: 2px solid #e9ecef;
+            border-radius: 12px;
+            font-size: 1.1rem;
+            margin-bottom: 30px;
+            transition: border-color 0.3s ease;
+        }
+
+        .text-input:focus {
+            outline: none;
+            border-color: #3498db;
+            box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+        }
+
+        .preview-text {
+            font-family: 'Khaanaa', serif;
+            background: white;
+            border: 2px solid #e9ecef;
+            border-radius: 12px;
+            padding: 40px;
+            min-height: 200px;
+            line-height: 1.6;
+            word-wrap: break-word;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+
+        .sample-texts {
+            margin-top: 30px;
+        }
+
+        .sample-texts h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            font-size: 1.2rem;
+        }
+
+        .sample-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .sample-btn {
+            padding: 8px 16px;
+            background: #ecf0f1;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.3s ease;
+        }
+
+        .sample-btn:hover {
+            background: #3498db;
+            color: white;
+            transform: translateY(-2px);
+        }
+
+        .font-info {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+
+        .font-info h4 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+
+        .font-info p {
+            color: #6c757d;
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            .control-group {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .control-item {
+                width: 100%;
+            }
+            
+            input[type="range"] {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Khaanaa Colour Emoji Font Tester</h1>
+            <p>Test Khaana Colour Emoji Font for Indian Foods </p>
+        </div>
+
+        <div class="controls">
+            <div class="control-group">
+                <div class="control-item">
+                    <label for="fontSize">Font Size: <span id="fontSizeValue">32px</span></label>
+                    <input type="range" id="fontSize" min="12" max="120" value="32">
+                </div>
+                
+                <div class="control-item">
+                    <label for="lineHeight">Line Height: <span id="lineHeightValue">1.6</span></label>
+                    <input type="range" id="lineHeight" min="0.8" max="3" step="0.1" value="1.6">
+                </div>
+                
+                <div class="control-item">
+                    <label for="letterSpacing">Letter Spacing: <span id="letterSpacingValue">0px</span></label>
+                    <input type="range" id="letterSpacing" min="-5" max="20" step="0.5" value="0">
+                </div>
+            </div>
+
+            <div class="control-group">
+                <div class="control-item">
+                    <label>View Emoji (dlig feature)</label>
+                    <div style="display: flex; align-items: center;">
+                        <label class="toggle-switch">
+                            <input type="checkbox" id="dligToggle">
+                            <span class="slider"></span>
+                        </label>
+                        <span class="dlig-status" id="dligStatus">OFF</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="preview-area">
+            <textarea class="text-input" id="textInput" placeholder="Type your text here to preview with Khaanaa font...">Namaste namaste , Jalebi jalebi , Samosa samosa 
+		Laddo laddoo , Dosa dosa, Medu Bada medubada 
+		Dhokla dhokla , Biryani biryani 
+		Chingri chingrim, Ilish ilishc</textarea>
+
+            <div class="preview-text" id="previewText">
+                Namaste namaste , Jalebi jalebi , Samosa samosa  <br/> 
+		Laddo laddoo , Dosa dosa, Medu Bada medubada <br/>
+		Dhokla dhokla , Biryani biryani <br/>
+		Chingri chingrim, Ilish ilishc
+            </div>
+
+            <div class="sample-texts">
+                <h3>Quick Sample Texts</h3>
+                <div class="sample-buttons">
+                    <button class="sample-btn" data-text="The five boxing wizards jump quickly!">Pangram 1</button>
+                    <button class="sample-btn" data-text="Pack my box with five dozen liquor jugs">Pangram 2</button>
+                    <button class="sample-btn" data-text="Hamburgerfonstiv">Hamburgefonts</button>
+                    <button class="sample-btn" data-text="HEADLINE TEXT">Headlines</button>
+                    <button class="sample-btn" data-text="namaste jalebi samosa laddoo dosa medubada dhokla biryani chingrim ilishc barfi naan">Emoji Test</button>
+                    <button class="sample-btn" data-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.">Lorem Ipsum</button>
+                </div>
+            </div>
+
+            <div class="font-info">
+                <h4>About Khaanaa Colur Emoji Font </h4>
+                <p> A Color Emoji Font dedicated to Indian Food Lovers</p>
+<p>We Indians Love foods. A country where cuisine changes every hundred kilometeres or so, there are some favourites all over.<p>
+<br/>
+<p>In this font we will showcase various famous Indian food as multicolour emojis, which can be accessed directly, or by web typograpghy as well as in Word Processors like Libreoffice Writer by switching on "dlig" discretionalry ligature feature in your web page or word processor.</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Get DOM elements
+        const fontSizeSlider = document.getElementById('fontSize');
+        const lineHeightSlider = document.getElementById('lineHeight');
+        const letterSpacingSlider = document.getElementById('letterSpacing');
+        const dligToggle = document.getElementById('dligToggle');
+        const textInput = document.getElementById('textInput');
+        const previewText = document.getElementById('previewText');
+        const dligStatus = document.getElementById('dligStatus');
+        const sampleButtons = document.querySelectorAll('.sample-btn');
+
+        // Value display elements
+        const fontSizeValue = document.getElementById('fontSizeValue');
+        const lineHeightValue = document.getElementById('lineHeightValue');
+        const letterSpacingValue = document.getElementById('letterSpacingValue');
+
+        // Update preview styles
+        function updatePreview() {
+            const fontSize = fontSizeSlider.value;
+            const lineHeight = lineHeightSlider.value;
+            const letterSpacing = letterSpacingSlider.value;
+            const dligEnabled = dligToggle.checked;
+
+            // Update preview text styles
+            previewText.style.fontSize = fontSize + 'px';
+            previewText.style.lineHeight = lineHeight;
+            previewText.style.letterSpacing = letterSpacing + 'px';
+            
+            // Apply or remove discretionary ligatures
+            if (dligEnabled) {
+                previewText.style.fontFeatureSettings = '"dlig" on';
+                dligStatus.textContent = 'ON';
+                dligStatus.style.color = '#27ae60';
+            } else {
+                previewText.style.fontFeatureSettings = '"dlig" off';
+                dligStatus.textContent = 'OFF';
+                dligStatus.style.color = '#e74c3c';
+            }
+
+            // Update value displays
+            fontSizeValue.textContent = fontSize + 'px';
+            lineHeightValue.textContent = lineHeight;
+            letterSpacingValue.textContent = letterSpacing + 'px';
+        }
+
+        // Update preview text content
+        function updateText() {
+            previewText.textContent = textInput.value;
+        }
+
+        // Event listeners
+        fontSizeSlider.addEventListener('input', updatePreview);
+        lineHeightSlider.addEventListener('input', updatePreview);
+        letterSpacingSlider.addEventListener('input', updatePreview);
+        dligToggle.addEventListener('change', updatePreview);
+        textInput.addEventListener('input', updateText);
+
+        // Sample text buttons
+        sampleButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                const sampleText = button.getAttribute('data-text');
+                textInput.value = sampleText;
+                previewText.textContent = sampleText;
+            });
+        });
+
+        // Initialize
+        updatePreview();
+        updateText();
+
+        // Add animation to controls
+        const controls = document.querySelectorAll('input[type="range"], .toggle-switch');
+        controls.forEach(control => {
+            control.addEventListener('mousedown', () => {
+                control.style.transform = 'scale(1.05)';
+            });
+            
+            control.addEventListener('mouseup', () => {
+                control.style.transform = 'scale(1)';
+            });
+        });
+    </script>
+</body>
+</html>
